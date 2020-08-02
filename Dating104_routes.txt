@@ -1,6 +1,6 @@
 
 
-All Routes for scripts 2104002
+All Routes for Kurumi Doll Shop
     Anything for a chance to see Kurumi.
         Kurumi, hold my arm, don't get lost.
             Buy them all!
@@ -407,7 +407,7 @@ All Routes for scripts 2104002
                             Why does Kurumi know so much about cats?  TRUE END (There is only one truth!)
                             Why did that cat suddenly become big?  HAPPY END (Bell Cat)
 
-All Routes for scripts 2104001
+All Routes for Kurumi Bakery
     Pretend to be rich and invite Kurumi with the vouchers.
         Does Kurumi like sweets?
             I want to know what Kurumi's favorite food tastes like.
@@ -1297,7 +1297,7 @@ All Routes for scripts 2104001
                         I ran into Kurumi while buying some kinako bread.  BAD END (Instinct to Escape)
                         Kurumi and I are on a date.  BAD END (He belongs with me)
 
-All Routes for scripts 2104004
+All Routes for Kurumi Shrine (Night)
     Search near the Shrine entrance.
         Kurumi, let's hang a prayer stick for good luck.
             I hear there's a great food street nearby.
