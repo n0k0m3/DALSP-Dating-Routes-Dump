@@ -1,0 +1,2188 @@
+
+
+All Routes for scripts 2105003
+    ... Forget it, Kotori, let's go on a date.
+        Kotori, are you afraid to visit the library by yourself?
+            Go to teacher's office to find a spare key.
+                It's safer if we go together.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+                Wait for me in the library, Kotori.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+            Climbing the window is the right choice.
+                Search in the new Learning Reference Section
+                    I go and have a look, Kotori continues to look for the book
+                        Call Kotori's name First  HAPPY END (Sister's Swoop)
+                        Open the lockers one by one  NORMAL END (Scorpion Hairpin)
+                    Kotori goes to take a look, I continue to look for the book
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                    How about we go together and have a look?
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                Search in the old and messy Unsorted Section
+                    Try to catch it
+                        Don't read it
+                            Hide into a locker
+                                Open the locker door  HAPPY END (Book about Spirits)
+                                Keep hiding  HAPPY END (Sleep in arms)
+                            Hide behind the curtain  HAPPY END (Sleep in arms)
+                            Hide behind the bookshelf
+                                Move forward, right, right
+                                    Run downstairs
+                                        Continue to wait  NORMAL END (All for Nothing)
+                                        Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                    Run upstairs  HIDDEN END (Book about Spirits)
+                                Move forward, left, left  HAPPY END (Book about Spirits)
+                                Move backward, left, left  HAPPY END (Book about Spirits)
+                        Read it
+                            There is a spell
+                                Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                                I won't break the spell  BAD END (Forever Siblings)
+                            There is no spell
+                                I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                                It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Push Kotori away asap
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Forever Siblings)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                    Shield her with my own body
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Book about Spirits)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                Search in the section with the No Entry sign
+                    Protect Kotori as she falls.
+                        Read "Darkness" section  HIDDEN END (Strange and Funny Book)
+                        Read "Exploration" section  HIDDEN END (Strange and Funny Book)
+                        Read "Drawbridge" section  HIDDEN END (Strange and Funny Book)
+                    Get down on the floor and serve as a cushion for her.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Catch the fallen book.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+        Kotori, are you afraid of the dark?
+            Go to teacher's office to find a spare key.
+                It's safer if we go together.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+                Wait for me in the library, Kotori.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+            Climbing the window is the right choice.
+                Search in the new Learning Reference Section
+                    I go and have a look, Kotori continues to look for the book
+                        Call Kotori's name First  HAPPY END (Sister's Swoop)
+                        Open the lockers one by one  NORMAL END (Scorpion Hairpin)
+                    Kotori goes to take a look, I continue to look for the book
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                    How about we go together and have a look?
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                Search in the old and messy Unsorted Section
+                    Try to catch it
+                        Don't read it
+                            Hide into a locker
+                                Open the locker door  HAPPY END (Book about Spirits)
+                                Keep hiding  HAPPY END (Sleep in arms)
+                            Hide behind the curtain  HAPPY END (Sleep in arms)
+                            Hide behind the bookshelf
+                                Move forward, right, right
+                                    Run downstairs
+                                        Continue to wait  NORMAL END (All for Nothing)
+                                        Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                    Run upstairs  HIDDEN END (Book about Spirits)
+                                Move forward, left, left  HAPPY END (Book about Spirits)
+                                Move backward, left, left  HAPPY END (Book about Spirits)
+                        Read it
+                            There is a spell
+                                Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                                I won't break the spell  BAD END (Forever Siblings)
+                            There is no spell
+                                I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                                It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Push Kotori away asap
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Forever Siblings)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                    Shield her with my own body
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Book about Spirits)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                Search in the section with the No Entry sign
+                    Protect Kotori as she falls.
+                        Read "Darkness" section  HIDDEN END (Strange and Funny Book)
+                        Read "Exploration" section  HIDDEN END (Strange and Funny Book)
+                        Read "Drawbridge" section  HIDDEN END (Strange and Funny Book)
+                    Get down on the floor and serve as a cushion for her.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Catch the fallen book.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+        Kotori, are you afraid of those ghost legends?
+            Go to teacher's office to find a spare key.
+                It's safer if we go together.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+                Wait for me in the library, Kotori.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+            Climbing the window is the right choice.
+                Search in the new Learning Reference Section
+                    I go and have a look, Kotori continues to look for the book
+                        Call Kotori's name First  HAPPY END (Sister's Swoop)
+                        Open the lockers one by one  NORMAL END (Scorpion Hairpin)
+                    Kotori goes to take a look, I continue to look for the book
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                    How about we go together and have a look?
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                Search in the old and messy Unsorted Section
+                    Try to catch it
+                        Don't read it
+                            Hide into a locker
+                                Open the locker door  HAPPY END (Book about Spirits)
+                                Keep hiding  HAPPY END (Sleep in arms)
+                            Hide behind the curtain  HAPPY END (Sleep in arms)
+                            Hide behind the bookshelf
+                                Move forward, right, right
+                                    Run downstairs
+                                        Continue to wait  NORMAL END (All for Nothing)
+                                        Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                    Run upstairs  HIDDEN END (Book about Spirits)
+                                Move forward, left, left  HAPPY END (Book about Spirits)
+                                Move backward, left, left  HAPPY END (Book about Spirits)
+                        Read it
+                            There is a spell
+                                Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                                I won't break the spell  BAD END (Forever Siblings)
+                            There is no spell
+                                I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                                It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Push Kotori away asap
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Forever Siblings)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                    Shield her with my own body
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Book about Spirits)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                Search in the section with the No Entry sign
+                    Protect Kotori as she falls.
+                        Read "Darkness" section  HIDDEN END (Strange and Funny Book)
+                        Read "Exploration" section  HIDDEN END (Strange and Funny Book)
+                        Read "Drawbridge" section  HIDDEN END (Strange and Funny Book)
+                    Get down on the floor and serve as a cushion for her.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Catch the fallen book.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+    Still busy with your work?
+        Kotori, are you afraid to visit the library by yourself?
+            Go to teacher's office to find a spare key.
+                It's safer if we go together.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+                Wait for me in the library, Kotori.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+            Climbing the window is the right choice.
+                Search in the new Learning Reference Section
+                    I go and have a look, Kotori continues to look for the book
+                        Call Kotori's name First  HAPPY END (Sister's Swoop)
+                        Open the lockers one by one  NORMAL END (Scorpion Hairpin)
+                    Kotori goes to take a look, I continue to look for the book
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                    How about we go together and have a look?
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                Search in the old and messy Unsorted Section
+                    Try to catch it
+                        Don't read it
+                            Hide into a locker
+                                Open the locker door  HAPPY END (Book about Spirits)
+                                Keep hiding  HAPPY END (Sleep in arms)
+                            Hide behind the curtain  HAPPY END (Sleep in arms)
+                            Hide behind the bookshelf
+                                Move forward, right, right
+                                    Run downstairs
+                                        Continue to wait  NORMAL END (All for Nothing)
+                                        Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                    Run upstairs  HIDDEN END (Book about Spirits)
+                                Move forward, left, left  HAPPY END (Book about Spirits)
+                                Move backward, left, left  HAPPY END (Book about Spirits)
+                        Read it
+                            There is a spell
+                                Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                                I won't break the spell  BAD END (Forever Siblings)
+                            There is no spell
+                                I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                                It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Push Kotori away asap
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Forever Siblings)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                    Shield her with my own body
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Book about Spirits)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                Search in the section with the No Entry sign
+                    Protect Kotori as she falls.
+                        Read "Darkness" section  HIDDEN END (Strange and Funny Book)
+                        Read "Exploration" section  HIDDEN END (Strange and Funny Book)
+                        Read "Drawbridge" section  HIDDEN END (Strange and Funny Book)
+                    Get down on the floor and serve as a cushion for her.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Catch the fallen book.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+        Kotori, are you afraid of the dark?
+            Go to teacher's office to find a spare key.
+                It's safer if we go together.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+                Wait for me in the library, Kotori.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+            Climbing the window is the right choice.
+                Search in the new Learning Reference Section
+                    I go and have a look, Kotori continues to look for the book
+                        Call Kotori's name First  HAPPY END (Sister's Swoop)
+                        Open the lockers one by one  NORMAL END (Scorpion Hairpin)
+                    Kotori goes to take a look, I continue to look for the book
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                    How about we go together and have a look?
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                Search in the old and messy Unsorted Section
+                    Try to catch it
+                        Don't read it
+                            Hide into a locker
+                                Open the locker door  HAPPY END (Book about Spirits)
+                                Keep hiding  HAPPY END (Sleep in arms)
+                            Hide behind the curtain  HAPPY END (Sleep in arms)
+                            Hide behind the bookshelf
+                                Move forward, right, right
+                                    Run downstairs
+                                        Continue to wait  NORMAL END (All for Nothing)
+                                        Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                    Run upstairs  HIDDEN END (Book about Spirits)
+                                Move forward, left, left  HAPPY END (Book about Spirits)
+                                Move backward, left, left  HAPPY END (Book about Spirits)
+                        Read it
+                            There is a spell
+                                Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                                I won't break the spell  BAD END (Forever Siblings)
+                            There is no spell
+                                I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                                It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Push Kotori away asap
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Forever Siblings)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                    Shield her with my own body
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Book about Spirits)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                Search in the section with the No Entry sign
+                    Protect Kotori as she falls.
+                        Read "Darkness" section  HIDDEN END (Strange and Funny Book)
+                        Read "Exploration" section  HIDDEN END (Strange and Funny Book)
+                        Read "Drawbridge" section  HIDDEN END (Strange and Funny Book)
+                    Get down on the floor and serve as a cushion for her.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Catch the fallen book.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+        Kotori, are you afraid of those ghost legends?
+            Go to teacher's office to find a spare key.
+                It's safer if we go together.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+                Wait for me in the library, Kotori.
+                    Go through the corridor
+                        Run downstairs
+                            Continue to wait  NORMAL END (All for Nothing)
+                            Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                        Run upstairs  HIDDEN END (Book about Spirits)
+                    Go through the classroom to bypass it
+                        Better not pick it up.  HIDDEN END (Book about Spirits)
+                        Pick it up and return it to the owner tomorrow  BAD END (Flee away)
+            Climbing the window is the right choice.
+                Search in the new Learning Reference Section
+                    I go and have a look, Kotori continues to look for the book
+                        Call Kotori's name First  HAPPY END (Sister's Swoop)
+                        Open the lockers one by one  NORMAL END (Scorpion Hairpin)
+                    Kotori goes to take a look, I continue to look for the book
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                    How about we go together and have a look?
+                        Something doesn't add up  NORMAL END (All for Nothing)
+                        It's a ghost, run
+                            Run downstairs
+                                Continue to wait  NORMAL END (All for Nothing)
+                                Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                            Run upstairs  HIDDEN END (Book about Spirits)
+                Search in the old and messy Unsorted Section
+                    Try to catch it
+                        Don't read it
+                            Hide into a locker
+                                Open the locker door  HAPPY END (Book about Spirits)
+                                Keep hiding  HAPPY END (Sleep in arms)
+                            Hide behind the curtain  HAPPY END (Sleep in arms)
+                            Hide behind the bookshelf
+                                Move forward, right, right
+                                    Run downstairs
+                                        Continue to wait  NORMAL END (All for Nothing)
+                                        Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                    Run upstairs  HIDDEN END (Book about Spirits)
+                                Move forward, left, left  HAPPY END (Book about Spirits)
+                                Move backward, left, left  HAPPY END (Book about Spirits)
+                        Read it
+                            There is a spell
+                                Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                                I won't break the spell  BAD END (Forever Siblings)
+                            There is no spell
+                                I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                                It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Push Kotori away asap
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Forever Siblings)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                    Shield her with my own body
+                        Hide into a locker
+                            Open the locker door  HAPPY END (Book about Spirits)
+                            Keep hiding  HAPPY END (Sleep in arms)
+                        Hide behind the curtain  HAPPY END (Sleep in arms)
+                        Hide behind the bookshelf
+                            Move forward, right, right
+                                Run downstairs
+                                    Continue to wait  NORMAL END (All for Nothing)
+                                    Find a way to save ourselves  BAD END (Security Ruined the Quest)
+                                Run upstairs  HIDDEN END (Book about Spirits)
+                            Move forward, left, left  HAPPY END (Book about Spirits)
+                            Move backward, left, left  HAPPY END (Book about Spirits)
+                Search in the section with the No Entry sign
+                    Protect Kotori as she falls.
+                        Read "Darkness" section  HIDDEN END (Strange and Funny Book)
+                        Read "Exploration" section  HIDDEN END (Strange and Funny Book)
+                        Read "Drawbridge" section  HIDDEN END (Strange and Funny Book)
+                    Get down on the floor and serve as a cushion for her.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+                    Catch the fallen book.
+                        There is a spell
+                            Things like spells are not important  TRUE END (Spell of Pumpkin Carriage)
+                            I won't break the spell  BAD END (Forever Siblings)
+                        There is no spell
+                            I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
+                            It doesn't matter. I will always like you.  BAD END (Forever Siblings)
+
+All Routes for scripts 2105004
+    However, is it wrong to want to date Kotori?
+        Kotori will always be a child in my eyes
+            Strawberry Mochi
+                It would take some time to get used to the current situation.
+                    Just a feeling the old Kotori used to be gentler
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    It will do as long as it's Kotori  TRUE END (Change the world for my sister)
+                Kotori is adorable in all circumstances!
+                    Because it's still afternoon tea time
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Then let's do something that's not boring
+                        That's how witty your brother is  NORMAL END (Cutest when You Smile)
+                        I always have a plan to cope with Kotori  NORMAL END (Cutest when You Smile)
+            Chocolate cookies
+                You must report to me when you leave home in future
+                    Ah? At this hour? Who could it be?
+                        No way...
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                        Long time no see  HAPPY END (Kotori's Swoop)
+                        Why does it have to be today?
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Who wants to disturb my date with adorable Kotori?
+                        No way...
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                        Long time no see  HAPPY END (Kotori's Swoop)
+                        Why does it have to be today?
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Such a terrible emergency is unimaginable!
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                I'm responsible for your safety
+                    I'll forgive you if you act spoiled to me, Kotori
+                        Kotori isn't a good girl, and will be punished by Big Brother
+                            Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                            Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+                        Of course I will forgive you
+                            I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                            I promise to obey orders from now on!  TRUE END (Capable Sister)
+                    Bring back the cookies, Kotori
+                        Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                        Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+        Only a child would say something like that.
+            I fell down, I can't walk unless Kotori holds my hand.
+                Pull hard and embrace Kotori
+                    Talk about Kotori's work
+                        I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                        I promise to obey orders from now on!  TRUE END (Capable Sister)
+                    Buy an ice cream for Kotori
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Gently thank Kotori for holding hands
+                    Kotori has grown up and it makes me sad
+                        Kotori doesn't care about me anymore, what should I do?  NORMAL END (Cutest when You Smile)
+                        Please spare some time to care for me, commander  HAPPY END (Kotori's Swoop)
+                    Kotori has always been a child
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Squeeze Kotori's hand softly
+                    Kotori is avoiding me, that's cold  NORMAL END (Cutest when You Smile)
+                    Can't you give your brother a loving embrace?  NORMAL END (Cutest when You Smile)
+            Kotori didn't hold my hand... So sad
+                Pull hard and embrace Kotori
+                    Talk about Kotori's work
+                        I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                        I promise to obey orders from now on!  TRUE END (Capable Sister)
+                    Buy an ice cream for Kotori
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Gently thank Kotori for holding hands
+                    Kotori has grown up and it makes me sad
+                        Kotori doesn't care about me anymore, what should I do?  NORMAL END (Cutest when You Smile)
+                        Please spare some time to care for me, commander  HAPPY END (Kotori's Swoop)
+                    Kotori has always been a child
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Squeeze Kotori's hand softly
+                    Kotori is avoiding me, that's cold  NORMAL END (Cutest when You Smile)
+                    Can't you give your brother a loving embrace?  NORMAL END (Cutest when You Smile)
+        I want to protect Kotori
+            Those are sincere words from the bottom of my heart
+                Have you been busy working recently, Kotori?
+                    I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                    I promise to obey orders from now on!  TRUE END (Capable Sister)
+                Is there anything Kotori wants to eat
+                    Strawberry Mochi
+                        It would take some time to get used to the current situation.
+                            Just a feeling the old Kotori used to be gentler
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            It will do as long as it's Kotori  TRUE END (Change the world for my sister)
+                        Kotori is adorable in all circumstances!
+                            Because it's still afternoon tea time
+                                Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                                I want to date Kotori
+                                    Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                                    Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                                I want to be with Kotori
+                                    Ah? At this hour? Who could it be?
+                                        No way...
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                        Long time no see  HAPPY END (Kotori's Swoop)
+                                        Why does it have to be today?
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                    Who wants to disturb my date with adorable Kotori?
+                                        No way...
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                        Long time no see  HAPPY END (Kotori's Swoop)
+                                        Why does it have to be today?
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                    Such a terrible emergency is unimaginable!
+                                        Why have you come here, Mana?
+                                            Girls, please get along...  BAD END (Quarrel)
+                                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                        Why haven't I see Mana recently?
+                                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Then let's do something that's not boring
+                                That's how witty your brother is  NORMAL END (Cutest when You Smile)
+                                I always have a plan to cope with Kotori  NORMAL END (Cutest when You Smile)
+                    Chocolate cookies
+                        You must report to me when you leave home in future
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                        I'm responsible for your safety
+                            I'll forgive you if you act spoiled to me, Kotori
+                                Kotori isn't a good girl, and will be punished by Big Brother
+                                    Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                                    Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+                                Of course I will forgive you
+                                    I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                                    I promise to obey orders from now on!  TRUE END (Capable Sister)
+                            Bring back the cookies, Kotori
+                                Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                                Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+            Kotori didn't believe me. It hurts
+                Ah? At this hour? Who could it be?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Who wants to disturb my date with adorable Kotori?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Such a terrible emergency is unimaginable!
+                    Why have you come here, Mana?
+                        Girls, please get along...  BAD END (Quarrel)
+                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                    Why haven't I see Mana recently?
+                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+            I'm not a liar
+                Ah? At this hour? Who could it be?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Who wants to disturb my date with adorable Kotori?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Such a terrible emergency is unimaginable!
+                    Why have you come here, Mana?
+                        Girls, please get along...  BAD END (Quarrel)
+                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                    Why haven't I see Mana recently?
+                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+    I promise you it won't be boring, come on!
+        Kotori will always be a child in my eyes
+            Strawberry Mochi
+                It would take some time to get used to the current situation.
+                    Just a feeling the old Kotori used to be gentler
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    It will do as long as it's Kotori  TRUE END (Change the world for my sister)
+                Kotori is adorable in all circumstances!
+                    Because it's still afternoon tea time
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Then let's do something that's not boring
+                        That's how witty your brother is  NORMAL END (Cutest when You Smile)
+                        I always have a plan to cope with Kotori  NORMAL END (Cutest when You Smile)
+            Chocolate cookies
+                You must report to me when you leave home in future
+                    Ah? At this hour? Who could it be?
+                        No way...
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                        Long time no see  HAPPY END (Kotori's Swoop)
+                        Why does it have to be today?
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Who wants to disturb my date with adorable Kotori?
+                        No way...
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                        Long time no see  HAPPY END (Kotori's Swoop)
+                        Why does it have to be today?
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Such a terrible emergency is unimaginable!
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                I'm responsible for your safety
+                    I'll forgive you if you act spoiled to me, Kotori
+                        Kotori isn't a good girl, and will be punished by Big Brother
+                            Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                            Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+                        Of course I will forgive you
+                            I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                            I promise to obey orders from now on!  TRUE END (Capable Sister)
+                    Bring back the cookies, Kotori
+                        Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                        Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+        Only a child would say something like that.
+            I fell down, I can't walk unless Kotori holds my hand.
+                Pull hard and embrace Kotori
+                    Talk about Kotori's work
+                        I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                        I promise to obey orders from now on!  TRUE END (Capable Sister)
+                    Buy an ice cream for Kotori
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Gently thank Kotori for holding hands
+                    Kotori has grown up and it makes me sad
+                        Kotori doesn't care about me anymore, what should I do?  NORMAL END (Cutest when You Smile)
+                        Please spare some time to care for me, commander  HAPPY END (Kotori's Swoop)
+                    Kotori has always been a child
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Squeeze Kotori's hand softly
+                    Kotori is avoiding me, that's cold  NORMAL END (Cutest when You Smile)
+                    Can't you give your brother a loving embrace?  NORMAL END (Cutest when You Smile)
+            Kotori didn't hold my hand... So sad
+                Pull hard and embrace Kotori
+                    Talk about Kotori's work
+                        I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                        I promise to obey orders from now on!  TRUE END (Capable Sister)
+                    Buy an ice cream for Kotori
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Gently thank Kotori for holding hands
+                    Kotori has grown up and it makes me sad
+                        Kotori doesn't care about me anymore, what should I do?  NORMAL END (Cutest when You Smile)
+                        Please spare some time to care for me, commander  HAPPY END (Kotori's Swoop)
+                    Kotori has always been a child
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Squeeze Kotori's hand softly
+                    Kotori is avoiding me, that's cold  NORMAL END (Cutest when You Smile)
+                    Can't you give your brother a loving embrace?  NORMAL END (Cutest when You Smile)
+        I want to protect Kotori
+            Those are sincere words from the bottom of my heart
+                Have you been busy working recently, Kotori?
+                    I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                    I promise to obey orders from now on!  TRUE END (Capable Sister)
+                Is there anything Kotori wants to eat
+                    Strawberry Mochi
+                        It would take some time to get used to the current situation.
+                            Just a feeling the old Kotori used to be gentler
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            It will do as long as it's Kotori  TRUE END (Change the world for my sister)
+                        Kotori is adorable in all circumstances!
+                            Because it's still afternoon tea time
+                                Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                                I want to date Kotori
+                                    Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                                    Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                                I want to be with Kotori
+                                    Ah? At this hour? Who could it be?
+                                        No way...
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                        Long time no see  HAPPY END (Kotori's Swoop)
+                                        Why does it have to be today?
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                    Who wants to disturb my date with adorable Kotori?
+                                        No way...
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                        Long time no see  HAPPY END (Kotori's Swoop)
+                                        Why does it have to be today?
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                    Such a terrible emergency is unimaginable!
+                                        Why have you come here, Mana?
+                                            Girls, please get along...  BAD END (Quarrel)
+                                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                        Why haven't I see Mana recently?
+                                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Then let's do something that's not boring
+                                That's how witty your brother is  NORMAL END (Cutest when You Smile)
+                                I always have a plan to cope with Kotori  NORMAL END (Cutest when You Smile)
+                    Chocolate cookies
+                        You must report to me when you leave home in future
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                        I'm responsible for your safety
+                            I'll forgive you if you act spoiled to me, Kotori
+                                Kotori isn't a good girl, and will be punished by Big Brother
+                                    Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                                    Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+                                Of course I will forgive you
+                                    I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                                    I promise to obey orders from now on!  TRUE END (Capable Sister)
+                            Bring back the cookies, Kotori
+                                Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                                Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+            Kotori didn't believe me. It hurts
+                Ah? At this hour? Who could it be?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Who wants to disturb my date with adorable Kotori?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Such a terrible emergency is unimaginable!
+                    Why have you come here, Mana?
+                        Girls, please get along...  BAD END (Quarrel)
+                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                    Why haven't I see Mana recently?
+                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+            I'm not a liar
+                Ah? At this hour? Who could it be?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Who wants to disturb my date with adorable Kotori?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Such a terrible emergency is unimaginable!
+                    Why have you come here, Mana?
+                        Girls, please get along...  BAD END (Quarrel)
+                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                    Why haven't I see Mana recently?
+                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+    Boohoo... Kotori is so cold...
+        Kotori will always be a child in my eyes
+            Strawberry Mochi
+                It would take some time to get used to the current situation.
+                    Just a feeling the old Kotori used to be gentler
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    It will do as long as it's Kotori  TRUE END (Change the world for my sister)
+                Kotori is adorable in all circumstances!
+                    Because it's still afternoon tea time
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Then let's do something that's not boring
+                        That's how witty your brother is  NORMAL END (Cutest when You Smile)
+                        I always have a plan to cope with Kotori  NORMAL END (Cutest when You Smile)
+            Chocolate cookies
+                You must report to me when you leave home in future
+                    Ah? At this hour? Who could it be?
+                        No way...
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                        Long time no see  HAPPY END (Kotori's Swoop)
+                        Why does it have to be today?
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Who wants to disturb my date with adorable Kotori?
+                        No way...
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                        Long time no see  HAPPY END (Kotori's Swoop)
+                        Why does it have to be today?
+                            Why have you come here, Mana?
+                                Girls, please get along...  BAD END (Quarrel)
+                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                            Why haven't I see Mana recently?
+                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Such a terrible emergency is unimaginable!
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                I'm responsible for your safety
+                    I'll forgive you if you act spoiled to me, Kotori
+                        Kotori isn't a good girl, and will be punished by Big Brother
+                            Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                            Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+                        Of course I will forgive you
+                            I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                            I promise to obey orders from now on!  TRUE END (Capable Sister)
+                    Bring back the cookies, Kotori
+                        Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                        Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+        Only a child would say something like that.
+            I fell down, I can't walk unless Kotori holds my hand.
+                Pull hard and embrace Kotori
+                    Talk about Kotori's work
+                        I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                        I promise to obey orders from now on!  TRUE END (Capable Sister)
+                    Buy an ice cream for Kotori
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Gently thank Kotori for holding hands
+                    Kotori has grown up and it makes me sad
+                        Kotori doesn't care about me anymore, what should I do?  NORMAL END (Cutest when You Smile)
+                        Please spare some time to care for me, commander  HAPPY END (Kotori's Swoop)
+                    Kotori has always been a child
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Squeeze Kotori's hand softly
+                    Kotori is avoiding me, that's cold  NORMAL END (Cutest when You Smile)
+                    Can't you give your brother a loving embrace?  NORMAL END (Cutest when You Smile)
+            Kotori didn't hold my hand... So sad
+                Pull hard and embrace Kotori
+                    Talk about Kotori's work
+                        I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                        I promise to obey orders from now on!  TRUE END (Capable Sister)
+                    Buy an ice cream for Kotori
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Gently thank Kotori for holding hands
+                    Kotori has grown up and it makes me sad
+                        Kotori doesn't care about me anymore, what should I do?  NORMAL END (Cutest when You Smile)
+                        Please spare some time to care for me, commander  HAPPY END (Kotori's Swoop)
+                    Kotori has always been a child
+                        Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                        I want to date Kotori
+                            Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                            Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                        I want to be with Kotori
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Squeeze Kotori's hand softly
+                    Kotori is avoiding me, that's cold  NORMAL END (Cutest when You Smile)
+                    Can't you give your brother a loving embrace?  NORMAL END (Cutest when You Smile)
+        I want to protect Kotori
+            Those are sincere words from the bottom of my heart
+                Have you been busy working recently, Kotori?
+                    I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                    I promise to obey orders from now on!  TRUE END (Capable Sister)
+                Is there anything Kotori wants to eat
+                    Strawberry Mochi
+                        It would take some time to get used to the current situation.
+                            Just a feeling the old Kotori used to be gentler
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            It will do as long as it's Kotori  TRUE END (Change the world for my sister)
+                        Kotori is adorable in all circumstances!
+                            Because it's still afternoon tea time
+                                Kotori had been busy with work lately and I felt disconnected  NORMAL END (Usage of Milk)
+                                I want to date Kotori
+                                    Kotori, what are you doing!?  HIDDEN END (How can my little sister be so cute)
+                                    Kotori should take responsibility for my pants  HIDDEN END (How can my little sister be so cute)
+                                I want to be with Kotori
+                                    Ah? At this hour? Who could it be?
+                                        No way...
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                        Long time no see  HAPPY END (Kotori's Swoop)
+                                        Why does it have to be today?
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                    Who wants to disturb my date with adorable Kotori?
+                                        No way...
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                        Long time no see  HAPPY END (Kotori's Swoop)
+                                        Why does it have to be today?
+                                            Why have you come here, Mana?
+                                                Girls, please get along...  BAD END (Quarrel)
+                                                By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                            Why haven't I see Mana recently?
+                                                It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                                You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                    Such a terrible emergency is unimaginable!
+                                        Why have you come here, Mana?
+                                            Girls, please get along...  BAD END (Quarrel)
+                                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                        Why haven't I see Mana recently?
+                                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Then let's do something that's not boring
+                                That's how witty your brother is  NORMAL END (Cutest when You Smile)
+                                I always have a plan to cope with Kotori  NORMAL END (Cutest when You Smile)
+                    Chocolate cookies
+                        You must report to me when you leave home in future
+                            Ah? At this hour? Who could it be?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Who wants to disturb my date with adorable Kotori?
+                                No way...
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                                Long time no see  HAPPY END (Kotori's Swoop)
+                                Why does it have to be today?
+                                    Why have you come here, Mana?
+                                        Girls, please get along...  BAD END (Quarrel)
+                                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                    Why haven't I see Mana recently?
+                                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+                            Such a terrible emergency is unimaginable!
+                                Why have you come here, Mana?
+                                    Girls, please get along...  BAD END (Quarrel)
+                                    By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                                Why haven't I see Mana recently?
+                                    It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                                    You need to take care of yourself, Mana  BAD END (Hard to choose)
+                        I'm responsible for your safety
+                            I'll forgive you if you act spoiled to me, Kotori
+                                Kotori isn't a good girl, and will be punished by Big Brother
+                                    Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                                    Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+                                Of course I will forgive you
+                                    I was wrong, I'll try my best not to disobey you in future  NORMAL END (Do Whatever She Wants)
+                                    I promise to obey orders from now on!  TRUE END (Capable Sister)
+                            Bring back the cookies, Kotori
+                                Kotori, let me pour some milk for you  NORMAL END (Usage of Milk)
+                                Kotori, let us go get some cookies  HAPPY END (Kotori's Swoop)
+            Kotori didn't believe me. It hurts
+                Ah? At this hour? Who could it be?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Who wants to disturb my date with adorable Kotori?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Such a terrible emergency is unimaginable!
+                    Why have you come here, Mana?
+                        Girls, please get along...  BAD END (Quarrel)
+                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                    Why haven't I see Mana recently?
+                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                        You need to take care of yourself, Mana  BAD END (Hard to choose)
+            I'm not a liar
+                Ah? At this hour? Who could it be?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Who wants to disturb my date with adorable Kotori?
+                    No way...
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                    Long time no see  HAPPY END (Kotori's Swoop)
+                    Why does it have to be today?
+                        Why have you come here, Mana?
+                            Girls, please get along...  BAD END (Quarrel)
+                            By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                        Why haven't I see Mana recently?
+                            It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                            You need to take care of yourself, Mana  BAD END (Hard to choose)
+                Such a terrible emergency is unimaginable!
+                    Why have you come here, Mana?
+                        Girls, please get along...  BAD END (Quarrel)
+                        By the way, are you busy lately, Mana?  TRUE END (Change the world for my sister)
+                    Why haven't I see Mana recently?
+                        It's my fault that you have to work so hard  TRUE END (Change the world for my sister)
+                        You need to take care of yourself, Mana  BAD END (Hard to choose)
