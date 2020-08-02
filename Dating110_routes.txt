@@ -1,0 +1,172 @@
+
+
+All Routes for Miku Clothing Store
+    Tohka is right ahead, there might be trouble if she sees us like this...
+        Actually, I'm not very good at this...
+            I never walked with a girl for so long... I'm a bit tired.
+                Choose one with a plain style quickly
+                    I chose this one for a reason!  HIDDEN END (Lovers' clothes?)
+                    I had to give in! For Miku's sake!  HAPPY END (Fitting Room for Two)
+                Why don't you choose one for me, I trust Miku's taste  HAPPY END (Fitting Room for Two)
+                Choose one with a gorgeous bow style  HAPPY END (Fitting Room for Two)
+            I'm not tired! Not at all!
+                Ask the store Staff to go in  NORMAL END (Escape in a hurry)
+                Rush in
+                    Push away Miku  HIDDEN END (Date for Four)
+                    Close my eyes  NORMAL END (Close Distance)
+        Okay, let me help you choose
+            Choose the student uniform
+                It's better to try on a new uniform...  HIDDEN END (Lovers' clothes?)
+                I'm looking forward to it
+                    Ask the store Staff to go in  NORMAL END (Escape in a hurry)
+                    Rush in
+                        Push away Miku  HIDDEN END (Date for Four)
+                        Close my eyes  NORMAL END (Close Distance)
+            Choose the small skirt
+                It's a great costume for performance
+                    Miku is very attractive on stage
+                        I will be Miku's most loyal listener  TRUE END (Sing for You)
+                        Miku on the stage belongs to everyone  HAPPY END (Diva Miku)
+                    Miku is already attractive without singing
+                        Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                        If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+                    I like Miku, no matter how you look
+                        Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                        If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+                It can show off Miku's figure
+                    The uniform over there suits Miku better!
+                        It's better to try on a new uniform...  HIDDEN END (Lovers' clothes?)
+                        I'm looking forward to it
+                            Ask the store Staff to go in  NORMAL END (Escape in a hurry)
+                            Rush in
+                                Push away Miku  HIDDEN END (Date for Four)
+                                Close my eyes  NORMAL END (Close Distance)
+                    The one in your hand is pretty good, let's buy it!  NORMAL END (Escape in a hurry)
+                Its color can serve as a foil to Miku's skin
+                    I'll always support Miku
+                        Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                        If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+                    Miku is really suitable for the stage.
+                        Miku is very attractive on stage
+                            I will be Miku's most loyal listener  TRUE END (Sing for You)
+                            Miku on the stage belongs to everyone  HAPPY END (Diva Miku)
+                        Miku is already attractive without singing
+                            Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                            If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+                        I like Miku, no matter how you look
+                            Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                            If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+    Won't it be troublesome if other students from all-girls private school see Miku like this?
+        Actually, I'm not very good at this...
+            I never walked with a girl for so long... I'm a bit tired.
+                Choose one with a plain style quickly
+                    I chose this one for a reason!  HIDDEN END (Lovers' clothes?)
+                    I had to give in! For Miku's sake!  HAPPY END (Fitting Room for Two)
+                Why don't you choose one for me, I trust Miku's taste  HAPPY END (Fitting Room for Two)
+                Choose one with a gorgeous bow style  HAPPY END (Fitting Room for Two)
+            I'm not tired! Not at all!
+                Ask the store Staff to go in  NORMAL END (Escape in a hurry)
+                Rush in
+                    Push away Miku  HIDDEN END (Date for Four)
+                    Close my eyes  NORMAL END (Close Distance)
+        Okay, let me help you choose
+            Choose the student uniform
+                It's better to try on a new uniform...  HIDDEN END (Lovers' clothes?)
+                I'm looking forward to it
+                    Ask the store Staff to go in  NORMAL END (Escape in a hurry)
+                    Rush in
+                        Push away Miku  HIDDEN END (Date for Four)
+                        Close my eyes  NORMAL END (Close Distance)
+            Choose the small skirt
+                It's a great costume for performance
+                    Miku is very attractive on stage
+                        I will be Miku's most loyal listener  TRUE END (Sing for You)
+                        Miku on the stage belongs to everyone  HAPPY END (Diva Miku)
+                    Miku is already attractive without singing
+                        Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                        If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+                    I like Miku, no matter how you look
+                        Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                        If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+                It can show off Miku's figure
+                    The uniform over there suits Miku better!
+                        It's better to try on a new uniform...  HIDDEN END (Lovers' clothes?)
+                        I'm looking forward to it
+                            Ask the store Staff to go in  NORMAL END (Escape in a hurry)
+                            Rush in
+                                Push away Miku  HIDDEN END (Date for Four)
+                                Close my eyes  NORMAL END (Close Distance)
+                    The one in your hand is pretty good, let's buy it!  NORMAL END (Escape in a hurry)
+                Its color can serve as a foil to Miku's skin
+                    I'll always support Miku
+                        Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                        If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+                    Miku is really suitable for the stage.
+                        Miku is very attractive on stage
+                            I will be Miku's most loyal listener  TRUE END (Sing for You)
+                            Miku on the stage belongs to everyone  HAPPY END (Diva Miku)
+                        Miku is already attractive without singing
+                            Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                            If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+                        I like Miku, no matter how you look
+                            Even if others don't understand Miku, I'll always support Miku  TRUE END (Sing for You)
+                            If that happened, I would encourage Miku to recover  HAPPY END (Diva Miku)
+    Miku is an idol after all! Won't it cause trouble if paparazzi take photos of you?
+        What you said makes sense...
+            Greet them first
+                I was choosing clothes with Miku.
+                    The fresh style chosen by Yoshino  HIDDEN END (Lovers' clothes?)
+                    The gorgeous style chosen by Tohka  HAPPY END (Fitting Room for Two)
+                I was dragged here by Miku...  HIDDEN END (Date for Four)
+            Hide first
+                Turn back and pretend to choose clothes
+                    Choose one with a plain style quickly
+                        I chose this one for a reason!  HIDDEN END (Lovers' clothes?)
+                        I had to give in! For Miku's sake!  HAPPY END (Fitting Room for Two)
+                    Why don't you choose one for me, I trust Miku's taste  HAPPY END (Fitting Room for Two)
+                    Choose one with a gorgeous bow style  HAPPY END (Fitting Room for Two)
+                Ask Miku for help
+                    Choose one with a plain style quickly
+                        I chose this one for a reason!  HIDDEN END (Lovers' clothes?)
+                        I had to give in! For Miku's sake!  HAPPY END (Fitting Room for Two)
+                    Why don't you choose one for me, I trust Miku's taste  HAPPY END (Fitting Room for Two)
+                    Choose one with a gorgeous bow style  HAPPY END (Fitting Room for Two)
+                Run to the changing room further away
+                    I was choosing clothes with Miku.
+                        The fresh style chosen by Yoshino  HIDDEN END (Lovers' clothes?)
+                        The gorgeous style chosen by Tohka  HAPPY END (Fitting Room for Two)
+                    I was dragged here by Miku...  HIDDEN END (Date for Four)
+                What should I do...
+                    I was choosing clothes with Miku.
+                        The fresh style chosen by Yoshino  HIDDEN END (Lovers' clothes?)
+                        The gorgeous style chosen by Tohka  HAPPY END (Fitting Room for Two)
+                    I was dragged here by Miku...  HIDDEN END (Date for Four)
+        But I'll be recognized by others!
+            Greet them first
+                I was choosing clothes with Miku.
+                    The fresh style chosen by Yoshino  HIDDEN END (Lovers' clothes?)
+                    The gorgeous style chosen by Tohka  HAPPY END (Fitting Room for Two)
+                I was dragged here by Miku...  HIDDEN END (Date for Four)
+            Hide first
+                Turn back and pretend to choose clothes
+                    Choose one with a plain style quickly
+                        I chose this one for a reason!  HIDDEN END (Lovers' clothes?)
+                        I had to give in! For Miku's sake!  HAPPY END (Fitting Room for Two)
+                    Why don't you choose one for me, I trust Miku's taste  HAPPY END (Fitting Room for Two)
+                    Choose one with a gorgeous bow style  HAPPY END (Fitting Room for Two)
+                Ask Miku for help
+                    Choose one with a plain style quickly
+                        I chose this one for a reason!  HIDDEN END (Lovers' clothes?)
+                        I had to give in! For Miku's sake!  HAPPY END (Fitting Room for Two)
+                    Why don't you choose one for me, I trust Miku's taste  HAPPY END (Fitting Room for Two)
+                    Choose one with a gorgeous bow style  HAPPY END (Fitting Room for Two)
+                Run to the changing room further away
+                    I was choosing clothes with Miku.
+                        The fresh style chosen by Yoshino  HIDDEN END (Lovers' clothes?)
+                        The gorgeous style chosen by Tohka  HAPPY END (Fitting Room for Two)
+                    I was dragged here by Miku...  HIDDEN END (Date for Four)
+                What should I do...
+                    I was choosing clothes with Miku.
+                        The fresh style chosen by Yoshino  HIDDEN END (Lovers' clothes?)
+                        The gorgeous style chosen by Tohka  HAPPY END (Fitting Room for Two)
+                    I was dragged here by Miku...  HIDDEN END (Date for Four)
