@@ -1,0 +1,94 @@
+HAPPY END      Gift
+I was looking at a frame decorated with dried flowers.
+Like it because it's special... hmm, you could say that.
+DIY seems more meaningful.
+Time is more important, the frame is better.
+Then we will be counting on you, owner.
+Catch Origami
+Help Origami dress her wound!
+
+TRUE END       Witness of Bonds
+I was looking at a frame decorated with dried flowers.
+Like it because it's special... hmm, you could say that.
+DIY seems more meaningful.
+Though it can't last, the wreath suits Origami better.
+We can make it by ourselves, according to the manual.
+Hold Origami's hand
+Origami is working so hard, I can't stay out of it...
+
+TRUE END       Flower and Girl
+I was looking at the tied bouquet.
+Snapdragon
+Does this kind of topic make you uncomfortable, Origami?
+Would you like to befriend more people?
+Lily, hyacinth, snapdragon
+
+TRUE END       Zero Distance Temperature
+I was looking at the tied bouquet.
+Snapdragon
+Does this kind of topic make you uncomfortable, Origami?
+Anyone you want to get close to?
+Origami's effort was the most important thing.
+
+TRUE END       Sunny after Rain
+I was looking at a frame decorated with dried flowers.
+Like it because it's special... hmm, you could say that.
+The process seems complicated, perhaps it's better to buy finished product directly.
+What design does Origami want?
+I'll let Origami decide!
+
+NORMAL END     Running in the Rain
+I was looking at the tied bouquet.
+Snapdragon
+Does this kind of topic make you uncomfortable, Origami?
+Anyone you want to get close to?
+I don't think it looks bad.
+Hmm...
+
+NORMAL END     Sincere Thanks
+I was looking at a frame decorated with dried flowers.
+Like it because it's special... hmm, you could say that.
+The process seems complicated, perhaps it's better to buy finished product directly.
+What design does Origami want?
+There was indeed a design that I preferred...
+
+NORMAL END     Hard to Decide
+I was looking at the tied bouquet.
+Maybe I took me too long to reply, Origami's eyes began to change, so I responded with haste.
+Lily
+The white lily reminds me of Origami.
+Pure appreciation... or perhaps mixed with some other emotion...
+Choose a red wreath
+
+NORMAL END     Overflowing Emotion
+I was looking at the tied bouquet.
+Snapdragon
+Does this kind of topic make you uncomfortable, Origami?
+Would you like to befriend more people?
+Snapdragon, lily, hyacinth
+
+BAD END        Subtle Fragility
+I was looking at a frame decorated with dried flowers.
+Like it because it's special... hmm, you could say that.
+DIY seems more meaningful.
+Time is more important, the frame is better.
+Then we will be counting on you, owner.
+Catch Origami
+Take Origami to the hospital!
+
+BAD END        Leaving Reflection
+I was looking at the tied bouquet.
+Snapdragon
+After all, the snapdragon reminds me of...
+…
+Then, I'll escort Tohka home first
+
+HIDDEN END     Night Butterfly
+I was looking at the tied bouquet.
+Snapdragon
+Does this kind of topic make you uncomfortable, Origami?
+Anyone you want to get close to?
+I don't think it looks bad.
+Since it's Origami's request...
+Wave near the shoulder
+

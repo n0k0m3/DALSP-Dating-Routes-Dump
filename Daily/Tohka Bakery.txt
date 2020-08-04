@@ -1,0 +1,59 @@
+HAPPY END      My heart will be the crown of your glory
+Must be the spoiled food I ate last night, damn it!
+We can stroll around first!
+It's a contest to see who can eat the most kinako bread.
+How about you two team up
+Cheer for them
+
+TRUE END       That kind of things, I can teach you all!
+Must be the spoiled food I ate last night, damn it!
+We can stroll around first!
+It's an evil ritual to summon the Bread Devil.
+Is kinako bread really that delicious?
+I'll teach you everything you don't know!
+
+TRUE END       Some says sakura falls at five centimeters per second.
+Must be the spoiled food I ate last night, damn it!
+Then we'll have to wait in line at the bakery.
+Cherry bean paste bread
+Can you taste the bean paste?
+
+NORMAL END     World peace
+Must be the spoiled food I ate last night, damn it!
+Then we'll have to wait in line at the bakery.
+Kinako Bread
+Then... I'll have one too!
+We had promised, right?
+
+NORMAL END     Bittersweet
+Must be the spoiled food I ate last night, damn it!
+We can stroll around first!
+It's an evil ritual to summon the Bread Devil.
+If kinako bread and I fell into the river at the same time, who would Tohka save first?
+
+NORMAL END     I like everything about you
+Must be the spoiled food I ate last night, damn it!
+We can stroll around first!
+It's an evil ritual to summon the Bread Devil.
+Is kinako bread really that delicious?
+That's why we shouldn't be fastidious about food ~
+
+BAD END        Death Seeker
+Must be the spoiled food I ate last night, damn it!
+Then we'll have to wait in line at the bakery.
+Kinako Bread
+Let me have a bite!
+Bite at the same place
+
+BAD END        Failure is the mother of success
+Must be the spoiled food I ate last night, damn it!
+We can stroll around first!
+It's a contest to see who can eat the most kinako bread.
+Origami, let's team up!
+
+HIDDEN END     Here they are!
+Must be the spoiled food I ate last night, damn it!
+We can stroll around first!
+It's a contest to see who can eat the most kinako bread.
+Remember the promise made to Kurumi
+

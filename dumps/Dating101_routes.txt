@@ -1,0 +1,917 @@
+
+
+All Routes for scripts 2101001
+    Must be the spoiled food I ate last night, damn it!
+        We can stroll around first!
+            It's a contest to see who can eat the most kinako bread.
+                Origami, let's team up!  BAD END (Failure is the mother of success)
+                How about you two team up
+                    Cheer for them  HAPPY END (My heart will be the crown of your glory)
+                    Pray silently  BAD END (My heart will be the crown of your glory)
+                Remember the promise made to Kurumi  HIDDEN END (Here they are!)
+            It's an evil ritual to summon the Bread Devil.
+                If kinako bread and I fell into the river at the same time, who would Tohka save first?  NORMAL END (Bittersweet)
+                Is kinako bread really that delicious?
+                    Of course, I also need to take care of my younger sister at home.
+                        Tohka is like a family member to me  BAD END (Bittersweet)
+                        Tohka is like a good brother to me  BAD END (Bittersweet)
+                        Tohka is like my heart  BAD END (Bittersweet)
+                    I'll teach you everything you don't know!  TRUE END (That kind of things, I can teach you all!)
+                    That's why we shouldn't be fastidious about food ~  NORMAL END (I like everything about you)
+        Then we'll have to wait in line at the bakery.
+            Deluxe cheese bread family pack
+                Then I'll buy one more  BAD END (I like everything about you)
+                Then I'll buy two more  BAD END (I like everything about you)
+                Then I'll buy three more  BAD END (I like everything about you)
+            Cherry bean paste bread
+                Can you taste cherry blossoms?  BAD END (I like everything about you)
+                Can you taste the bean paste?  TRUE END (Some says sakura falls at five centimeters per second.)
+            Kinako Bread
+                Don't mind me... I'm on a diet.  BAD END (Some says sakura falls at five centimeters per second.)
+                Let me have a bite!
+                    Bite at the same place  BAD END (Death Seeker)
+                    Take a bite without hesitation  BAD END (Death Seeker)
+                Then... I'll have one too!
+                    We had promised, right?  NORMAL END (World peace)
+                    I like spending time with Tohka like this ~  NORMAL END (World peace)
+                    This world is inclusive  NORMAL END (World peace)
+        Ask Kotori for help
+            Humph humph humph, I've booked the whole bakery store.
+                Don't worry about these details...
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+                Actually, that's Miss Reine.
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+            It's all right, let's go to the bakery ~
+                Don't worry about these details...
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+                Actually, that's Miss Reine.
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+    I couldn't too run fast due to my injury.
+        We can stroll around first!
+            It's a contest to see who can eat the most kinako bread.
+                Origami, let's team up!  BAD END (Failure is the mother of success)
+                How about you two team up
+                    Cheer for them  HAPPY END (My heart will be the crown of your glory)
+                    Pray silently  BAD END (My heart will be the crown of your glory)
+                Remember the promise made to Kurumi  HIDDEN END (Here they are!)
+            It's an evil ritual to summon the Bread Devil.
+                If kinako bread and I fell into the river at the same time, who would Tohka save first?  NORMAL END (Bittersweet)
+                Is kinako bread really that delicious?
+                    Of course, I also need to take care of my younger sister at home.
+                        Tohka is like a family member to me  BAD END (Bittersweet)
+                        Tohka is like a good brother to me  BAD END (Bittersweet)
+                        Tohka is like my heart  BAD END (Bittersweet)
+                    I'll teach you everything you don't know!  TRUE END (That kind of things, I can teach you all!)
+                    That's why we shouldn't be fastidious about food ~  NORMAL END (I like everything about you)
+        Then we'll have to wait in line at the bakery.
+            Deluxe cheese bread family pack
+                Then I'll buy one more  BAD END (I like everything about you)
+                Then I'll buy two more  BAD END (I like everything about you)
+                Then I'll buy three more  BAD END (I like everything about you)
+            Cherry bean paste bread
+                Can you taste cherry blossoms?  BAD END (I like everything about you)
+                Can you taste the bean paste?  TRUE END (Some says sakura falls at five centimeters per second.)
+            Kinako Bread
+                Don't mind me... I'm on a diet.  BAD END (Some says sakura falls at five centimeters per second.)
+                Let me have a bite!
+                    Bite at the same place  BAD END (Death Seeker)
+                    Take a bite without hesitation  BAD END (Death Seeker)
+                Then... I'll have one too!
+                    We had promised, right?  NORMAL END (World peace)
+                    I like spending time with Tohka like this ~  NORMAL END (World peace)
+                    This world is inclusive  NORMAL END (World peace)
+        Ask Kotori for help
+            Humph humph humph, I've booked the whole bakery store.
+                Don't worry about these details...
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+                Actually, that's Miss Reine.
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+            It's all right, let's go to the bakery ~
+                Don't worry about these details...
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+                Actually, that's Miss Reine.
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+    Impressive! Good work, Tohka!
+        We can stroll around first!
+            It's a contest to see who can eat the most kinako bread.
+                Origami, let's team up!  BAD END (Failure is the mother of success)
+                How about you two team up
+                    Cheer for them  HAPPY END (My heart will be the crown of your glory)
+                    Pray silently  BAD END (My heart will be the crown of your glory)
+                Remember the promise made to Kurumi  HIDDEN END (Here they are!)
+            It's an evil ritual to summon the Bread Devil.
+                If kinako bread and I fell into the river at the same time, who would Tohka save first?  NORMAL END (Bittersweet)
+                Is kinako bread really that delicious?
+                    Of course, I also need to take care of my younger sister at home.
+                        Tohka is like a family member to me  BAD END (Bittersweet)
+                        Tohka is like a good brother to me  BAD END (Bittersweet)
+                        Tohka is like my heart  BAD END (Bittersweet)
+                    I'll teach you everything you don't know!  TRUE END (That kind of things, I can teach you all!)
+                    That's why we shouldn't be fastidious about food ~  NORMAL END (I like everything about you)
+        Then we'll have to wait in line at the bakery.
+            Deluxe cheese bread family pack
+                Then I'll buy one more  BAD END (I like everything about you)
+                Then I'll buy two more  BAD END (I like everything about you)
+                Then I'll buy three more  BAD END (I like everything about you)
+            Cherry bean paste bread
+                Can you taste cherry blossoms?  BAD END (I like everything about you)
+                Can you taste the bean paste?  TRUE END (Some says sakura falls at five centimeters per second.)
+            Kinako Bread
+                Don't mind me... I'm on a diet.  BAD END (Some says sakura falls at five centimeters per second.)
+                Let me have a bite!
+                    Bite at the same place  BAD END (Death Seeker)
+                    Take a bite without hesitation  BAD END (Death Seeker)
+                Then... I'll have one too!
+                    We had promised, right?  NORMAL END (World peace)
+                    I like spending time with Tohka like this ~  NORMAL END (World peace)
+                    This world is inclusive  NORMAL END (World peace)
+        Ask Kotori for help
+            Humph humph humph, I've booked the whole bakery store.
+                Don't worry about these details...
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+                Actually, that's Miss Reine.
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+            It's all right, let's go to the bakery ~
+                Don't worry about these details...
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+                Actually, that's Miss Reine.
+                    Tohka is like a family member to me  BAD END (World peace)
+                    Tohka is like a good brother to me  BAD END (World peace)
+                    Tohka is like my heart  BAD END (World peace)
+
+All Routes for scripts 2101004
+    You can leave these things to me ~
+        Let's go to the bakery and buy some
+            Then we should wait here.
+                Then I will sit inside!
+                    Then let's go home and cook together!
+                        Because you have to do it attentively  TRUE END (Love for You)
+                        Because I have special skills  HAPPY END (Cook Tohka)
+                    Would you like to buy some snacks?
+                        Take wasabi flavor  NORMAL END (Unique Taste)
+                        Take cucumber flavor  NORMAL END (Unique Taste)
+                        Take original flavor
+                            Because you have to do it attentively  TRUE END (Love for You)
+                            Because I have special skills  HAPPY END (Cook Tohka)
+                        I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
+                But only kids would sit there...
+                    Stop the shopping cart
+                        I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                        I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Be careful of the slippery floor
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Be careful not to hit someone
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Things got out of control in a moment of hesitance
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+            There are many delicious foods in the supermarket too ~
+                How about eating something first?
+                    Don't eat so much, you might choke on it.  HAPPY END (Foodie Tohka)
+                    I'll buy some if you like them  HAPPY END (Foodie Tohka)
+                    Tohka seems really hungry...  HIDDEN END (New bakery idea found)
+                We will go home as soon as we have bought the fish!
+                    Tohka is learning fast!  HAPPY END (Cook Tohka)
+                    There are room for improvement, Tohka...  TRUE END (Love for You)
+        Let's go to the supermarket first
+            I'm good at cooking home dishes, let's buy some fish
+                These are basically pets...
+                    Be responsible for them  HIDDEN END (I have a pet!)
+                    Feed them on time
+                        Don't eat so much, you might choke on it.  HAPPY END (Foodie Tohka)
+                        I'll buy some if you like them  HAPPY END (Foodie Tohka)
+                        Tohka seems really hungry...  HIDDEN END (New bakery idea found)
+                These are inedible...
+                    How about eating something first?
+                        Don't eat so much, you might choke on it.  HAPPY END (Foodie Tohka)
+                        I'll buy some if you like them  HAPPY END (Foodie Tohka)
+                        Tohka seems really hungry...  HIDDEN END (New bakery idea found)
+                    We will go home as soon as we have bought the fish!
+                        Tohka is learning fast!  HAPPY END (Cook Tohka)
+                        There are room for improvement, Tohka...  TRUE END (Love for You)
+            It's rare for us to eat western cuisine, let's buy some steak
+                Then I will sit inside!
+                    Then let's go home and cook together!
+                        Because you have to do it attentively  TRUE END (Love for You)
+                        Because I have special skills  HAPPY END (Cook Tohka)
+                    Would you like to buy some snacks?
+                        Take wasabi flavor  NORMAL END (Unique Taste)
+                        Take cucumber flavor  NORMAL END (Unique Taste)
+                        Take original flavor
+                            Because you have to do it attentively  TRUE END (Love for You)
+                            Because I have special skills  HAPPY END (Cook Tohka)
+                        I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
+                But only kids would sit there...
+                    Stop the shopping cart
+                        I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                        I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Be careful of the slippery floor
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Be careful not to hit someone
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Things got out of control in a moment of hesitance
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+    Then I'll be counting on you, Tohka ~
+        Let's go to the bakery and buy some
+            Then we should wait here.
+                Then I will sit inside!
+                    Then let's go home and cook together!
+                        Because you have to do it attentively  TRUE END (Love for You)
+                        Because I have special skills  HAPPY END (Cook Tohka)
+                    Would you like to buy some snacks?
+                        Take wasabi flavor  NORMAL END (Unique Taste)
+                        Take cucumber flavor  NORMAL END (Unique Taste)
+                        Take original flavor
+                            Because you have to do it attentively  TRUE END (Love for You)
+                            Because I have special skills  HAPPY END (Cook Tohka)
+                        I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
+                But only kids would sit there...
+                    Stop the shopping cart
+                        I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                        I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Be careful of the slippery floor
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Be careful not to hit someone
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Things got out of control in a moment of hesitance
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+            There are many delicious foods in the supermarket too ~
+                How about eating something first?
+                    Don't eat so much, you might choke on it.  HAPPY END (Foodie Tohka)
+                    I'll buy some if you like them  HAPPY END (Foodie Tohka)
+                    Tohka seems really hungry...  HIDDEN END (New bakery idea found)
+                We will go home as soon as we have bought the fish!
+                    Tohka is learning fast!  HAPPY END (Cook Tohka)
+                    There are room for improvement, Tohka...  TRUE END (Love for You)
+        Let's go to the supermarket first
+            I'm good at cooking home dishes, let's buy some fish
+                These are basically pets...
+                    Be responsible for them  HIDDEN END (I have a pet!)
+                    Feed them on time
+                        Don't eat so much, you might choke on it.  HAPPY END (Foodie Tohka)
+                        I'll buy some if you like them  HAPPY END (Foodie Tohka)
+                        Tohka seems really hungry...  HIDDEN END (New bakery idea found)
+                These are inedible...
+                    How about eating something first?
+                        Don't eat so much, you might choke on it.  HAPPY END (Foodie Tohka)
+                        I'll buy some if you like them  HAPPY END (Foodie Tohka)
+                        Tohka seems really hungry...  HIDDEN END (New bakery idea found)
+                    We will go home as soon as we have bought the fish!
+                        Tohka is learning fast!  HAPPY END (Cook Tohka)
+                        There are room for improvement, Tohka...  TRUE END (Love for You)
+            It's rare for us to eat western cuisine, let's buy some steak
+                Then I will sit inside!
+                    Then let's go home and cook together!
+                        Because you have to do it attentively  TRUE END (Love for You)
+                        Because I have special skills  HAPPY END (Cook Tohka)
+                    Would you like to buy some snacks?
+                        Take wasabi flavor  NORMAL END (Unique Taste)
+                        Take cucumber flavor  NORMAL END (Unique Taste)
+                        Take original flavor
+                            Because you have to do it attentively  TRUE END (Love for You)
+                            Because I have special skills  HAPPY END (Cook Tohka)
+                        I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
+                But only kids would sit there...
+                    Stop the shopping cart
+                        I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                        I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Be careful of the slippery floor
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Be careful not to hit someone
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                    Things got out of control in a moment of hesitance
+                        Catch the box
+                            I'm not blaming you...
+                                Because you have to do it attentively  TRUE END (Love for You)
+                                Because I have special skills  HAPPY END (Cook Tohka)
+                            That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                        Stand in front of Tohka
+                            I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                            I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+    Let's do as Tohka said today
+        Then we should wait here.
+            Then I will sit inside!
+                Then let's go home and cook together!
+                    Because you have to do it attentively  TRUE END (Love for You)
+                    Because I have special skills  HAPPY END (Cook Tohka)
+                Would you like to buy some snacks?
+                    Take wasabi flavor  NORMAL END (Unique Taste)
+                    Take cucumber flavor  NORMAL END (Unique Taste)
+                    Take original flavor
+                        Because you have to do it attentively  TRUE END (Love for You)
+                        Because I have special skills  HAPPY END (Cook Tohka)
+                    I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
+            But only kids would sit there...
+                Stop the shopping cart
+                    I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                    I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                Be careful of the slippery floor
+                    Catch the box
+                        I'm not blaming you...
+                            Because you have to do it attentively  TRUE END (Love for You)
+                            Because I have special skills  HAPPY END (Cook Tohka)
+                        That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                    Stand in front of Tohka
+                        I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                        I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                Be careful not to hit someone
+                    Catch the box
+                        I'm not blaming you...
+                            Because you have to do it attentively  TRUE END (Love for You)
+                            Because I have special skills  HAPPY END (Cook Tohka)
+                        That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                    Stand in front of Tohka
+                        I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                        I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+                Things got out of control in a moment of hesitance
+                    Catch the box
+                        I'm not blaming you...
+                            Because you have to do it attentively  TRUE END (Love for You)
+                            Because I have special skills  HAPPY END (Cook Tohka)
+                        That was so scary!  NORMAL END (It's my duty to protect Tohka)
+                    Stand in front of Tohka
+                        I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
+                        I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
+        There are many delicious foods in the supermarket too ~
+            How about eating something first?
+                Don't eat so much, you might choke on it.  HAPPY END (Foodie Tohka)
+                I'll buy some if you like them  HAPPY END (Foodie Tohka)
+                Tohka seems really hungry...  HIDDEN END (New bakery idea found)
+            We will go home as soon as we have bought the fish!
+                Tohka is learning fast!  HAPPY END (Cook Tohka)
+                There are room for improvement, Tohka...  TRUE END (Love for You)
+
+All Routes for scripts 2101002
+    It's my pleasure to date Tohka...
+        Mr. Rabbit might be a little tired
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        It's just a doll, leave it alone...
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        ... let's forget about Mr. Rabbit for now.
+            Teddy bear doll
+                This bear smells fishy
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Let's check other toys
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Purchase with coupon  HIDDEN END (Great Treasure)
+            Cat-eared Hairpins
+                Reach out and touch the cat ears
+                    Let me explain...  NORMAL END (Sleeping Detective)
+                    It's over!!  NORMAL END (Sleeping Detective)
+                    You need to calm down!  NORMAL END (Sleeping Detective)
+                Remove the cat ears quietly
+                    Runaway
+                        Keep running
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Rest a bit  BAD END (I lost my way of life)
+                    Look down
+                        Observe the surroundings first
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Wake up Tohka
+                            Find another way to escape
+                                Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                                Attack the octopus's head  BAD END (I lost my way of life)
+                                Attack the octopus's ribbon  BAD END (I lost my way of life)
+                            Keep looking for keys
+                                Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                                We will meet again  TRUE END (See the light again)
+    I'm not tired! Help me get up!
+        Mr. Rabbit might be a little tired
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        It's just a doll, leave it alone...
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        ... let's forget about Mr. Rabbit for now.
+            Teddy bear doll
+                This bear smells fishy
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Let's check other toys
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Purchase with coupon  HIDDEN END (Great Treasure)
+            Cat-eared Hairpins
+                Reach out and touch the cat ears
+                    Let me explain...  NORMAL END (Sleeping Detective)
+                    It's over!!  NORMAL END (Sleeping Detective)
+                    You need to calm down!  NORMAL END (Sleeping Detective)
+                Remove the cat ears quietly
+                    Runaway
+                        Keep running
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Rest a bit  BAD END (I lost my way of life)
+                    Look down
+                        Observe the surroundings first
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Wake up Tohka
+                            Find another way to escape
+                                Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                                Attack the octopus's head  BAD END (I lost my way of life)
+                                Attack the octopus's ribbon  BAD END (I lost my way of life)
+                            Keep looking for keys
+                                Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                                We will meet again  TRUE END (See the light again)
+    That's not true!
+        Mr. Rabbit might be a little tired
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        It's just a doll, leave it alone...
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        ... let's forget about Mr. Rabbit for now.
+            Teddy bear doll
+                This bear smells fishy
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Let's check other toys
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Purchase with coupon  HIDDEN END (Great Treasure)
+            Cat-eared Hairpins
+                Reach out and touch the cat ears
+                    Let me explain...  NORMAL END (Sleeping Detective)
+                    It's over!!  NORMAL END (Sleeping Detective)
+                    You need to calm down!  NORMAL END (Sleeping Detective)
+                Remove the cat ears quietly
+                    Runaway
+                        Keep running
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Rest a bit  BAD END (I lost my way of life)
+                    Look down
+                        Observe the surroundings first
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Wake up Tohka
+                            Find another way to escape
+                                Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                                Attack the octopus's head  BAD END (I lost my way of life)
+                                Attack the octopus's ribbon  BAD END (I lost my way of life)
+                            Keep looking for keys
+                                Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                                We will meet again  TRUE END (See the light again)
+    I'm not tired as long as Tohka is with me.
+        Mr. Rabbit might be a little tired
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        It's just a doll, leave it alone...
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        ... let's forget about Mr. Rabbit for now.
+            Teddy bear doll
+                This bear smells fishy
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Let's check other toys
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Purchase with coupon  HIDDEN END (Great Treasure)
+            Cat-eared Hairpins
+                Reach out and touch the cat ears
+                    Let me explain...  NORMAL END (Sleeping Detective)
+                    It's over!!  NORMAL END (Sleeping Detective)
+                    You need to calm down!  NORMAL END (Sleeping Detective)
+                Remove the cat ears quietly
+                    Runaway
+                        Keep running
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Rest a bit  BAD END (I lost my way of life)
+                    Look down
+                        Observe the surroundings first
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Wake up Tohka
+                            Find another way to escape
+                                Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                                Attack the octopus's head  BAD END (I lost my way of life)
+                                Attack the octopus's ribbon  BAD END (I lost my way of life)
+                            Keep looking for keys
+                                Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                                We will meet again  TRUE END (See the light again)
+    I'm pretty confident in my stamina.
+        Mr. Rabbit might be a little tired
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        It's just a doll, leave it alone...
+            Reach out and touch the cat ears
+                Let me explain...  NORMAL END (Sleeping Detective)
+                It's over!!  NORMAL END (Sleeping Detective)
+                You need to calm down!  NORMAL END (Sleeping Detective)
+            Remove the cat ears quietly
+                Runaway
+                    Keep running
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Rest a bit  BAD END (I lost my way of life)
+                Look down
+                    Observe the surroundings first
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                    Wake up Tohka
+                        Find another way to escape
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Keep looking for keys
+                            Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                            We will meet again  TRUE END (See the light again)
+        ... let's forget about Mr. Rabbit for now.
+            Teddy bear doll
+                This bear smells fishy
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Let's check other toys
+                    Hand over the orange juice
+                        Don't buy  BAD END (Lawless Land)
+                        Buy  TRUE END (Virgin Mary)
+                    Sit down and rest a bit
+                        Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                        Attack the octopus's head  BAD END (I lost my way of life)
+                        Attack the octopus's ribbon  BAD END (I lost my way of life)
+                Purchase with coupon  HIDDEN END (Great Treasure)
+            Cat-eared Hairpins
+                Reach out and touch the cat ears
+                    Let me explain...  NORMAL END (Sleeping Detective)
+                    It's over!!  NORMAL END (Sleeping Detective)
+                    You need to calm down!  NORMAL END (Sleeping Detective)
+                Remove the cat ears quietly
+                    Runaway
+                        Keep running
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Rest a bit  BAD END (I lost my way of life)
+                    Look down
+                        Observe the surroundings first
+                            Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                            Attack the octopus's head  BAD END (I lost my way of life)
+                            Attack the octopus's ribbon  BAD END (I lost my way of life)
+                        Wake up Tohka
+                            Find another way to escape
+                                Attack the octopus's eyes  HAPPY END (I am the envoy from the sea)
+                                Attack the octopus's head  BAD END (I lost my way of life)
+                                Attack the octopus's ribbon  BAD END (I lost my way of life)
+                            Keep looking for keys
+                                Sorry but I don't belong here  NORMAL END (A wise man submits to food.)
+                                We will meet again  TRUE END (See the light again)

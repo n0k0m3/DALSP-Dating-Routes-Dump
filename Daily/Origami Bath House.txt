@@ -1,0 +1,53 @@
+HAPPY END      Another Side of Origami
+I'm busy recently, maybe some other day?
+Pick up the handkerchief
+Push Origami down
+Kiss
+
+TRUE END       Hot Spring Egg
+Cook supper and bring it along ~
+Drink some water first
+Get up
+Blue curtain
+Is that you?
+40℃-50℃
+20 minutes
+Soy sauce
+
+TRUE END       Table Tennis Match
+I'm busy recently, maybe some other day?
+Pick up the tape
+Special... special hobby?!
+Limber up
+
+NORMAL END     Just Sleeping
+I'm busy recently, maybe some other day?
+Pick up the handkerchief
+Hold Origami's hand
+
+NORMAL END     Sorry, Origami
+Cook supper and bring it along ~
+Eat fruit first
+Touch the head
+You need comfort
+
+NORMAL END     Escape
+I'm busy recently, maybe some other day?
+Pick up the tape
+Somebody help me... Tohka!
+Tohka is a good person
+
+BAD END        Grudge in Heart
+I'm busy recently, maybe some other day?
+Pick up the tape
+Somebody help me... Tohka!
+All the Spirits are good
+
+HIDDEN END     Pure White Moonlight
+Cook supper and bring it along ~
+Drink some water first
+Get up
+Blue curtain
+Origami?
+You've been careless... I picked up your hairpin ~
+

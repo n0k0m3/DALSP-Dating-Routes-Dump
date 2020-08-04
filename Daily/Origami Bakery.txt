@@ -1,0 +1,73 @@
+HAPPY END      We are in this together
+I'm too tired to do it today.
+Let's visit the bakery and see if there is any delicious bread.
+I'm all yours, don't rush.
+Kinako Bread
+There are many good Spirits.
+Take the side of the human.
+
+TRUE END       The right way to feed
+I'm too tired to do it today.
+Let's visit the bakery and see if there is any delicious bread.
+I'm all yours, don't rush.
+Chocolate bread
+Knowledge acquired, so I often eat aphrodisiac stuff
+Let Origami feed me a chocolate stick
+Lean back and avoid Origami
+
+TRUE END       Turns out AST is not what I think it is
+I'm too tired to do it today.
+Let's visit the bakery and see if there is any delicious bread.
+I'm all yours, don't rush.
+Milk filling toast
+I like drinking milk made from milk powder.
+
+NORMAL END     I'd take it even it is poisonous
+I'm too tired to do it today.
+Let's visit the bakery and see if there is any delicious bread.
+I'm all yours, don't rush.
+Chocolate bread
+Would Origami save me if I was aphrodisiac?
+I don't know.
+Eat, whatever Origami cooked
+
+NORMAL END     Maybe that's my destiny
+I'm too tired to do it today.
+Let's visit the bakery and see if there is any delicious bread.
+I'm all yours, don't rush.
+Chocolate bread
+I had eaten chocolate for years and I didn't feel it at all.
+Pretend that nothing has happened.
+Dating Origami is my mission
+
+NORMAL END     Fight for the fate of human!
+I'm too tired to do it today.
+Let's visit the bakery and see if there is any delicious bread.
+I'm all yours, don't rush.
+Kinako Bread
+There are many good Spirits.
+Strive for peace.
+
+BAD END        Disappear, everything!
+I'm too tired to do it today.
+Let's visit the bakery and see if there is any delicious bread.
+I'm all yours, don't rush.
+Kinako Bread
+There are many good Spirits.
+Protect the Spirits.
+
+BAD END        Let Me Explain!
+I'm too tired to do it today.
+Let's visit the bakery and see if there is any delicious bread.
+I'm all yours, don't rush.
+Chocolate bread
+I had eaten chocolate for years and I didn't feel it at all.
+Kneel and hug Tohka's thigh, begging for forgiveness.
+
+HIDDEN END     Origami, Don't...
+I'm too tired to do it today.
+Let's visit the bakery and see if there is any delicious bread.
+I'm all yours, don't rush.
+Milk filling toast
+Origami! Please let me drink it.
+

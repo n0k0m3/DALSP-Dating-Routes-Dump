@@ -1,0 +1,61 @@
+HAPPY END      I am the envoy from the sea
+It's my pleasure to date Tohka...
+Mr. Rabbit might be a little tired
+Remove the cat ears quietly
+Look down
+Observe the surroundings first
+Attack the octopus's eyes
+
+TRUE END       Virgin Mary
+It's my pleasure to date Tohka...
+... let's forget about Mr. Rabbit for now.
+Teddy bear doll
+This bear smells fishy
+Hand over the orange juice
+Buy
+
+TRUE END       See the light again
+It's my pleasure to date Tohka...
+Mr. Rabbit might be a little tired
+Remove the cat ears quietly
+Look down
+Wake up Tohka
+Keep looking for keys
+We will meet again
+
+NORMAL END     A wise man submits to food.
+It's my pleasure to date Tohka...
+Mr. Rabbit might be a little tired
+Remove the cat ears quietly
+Look down
+Wake up Tohka
+Keep looking for keys
+Sorry but I don't belong here
+
+NORMAL END     Sleeping Detective
+It's my pleasure to date Tohka...
+Mr. Rabbit might be a little tired
+Reach out and touch the cat ears
+Let me explain...
+
+BAD END        I lost my way of life
+It's my pleasure to date Tohka...
+Mr. Rabbit might be a little tired
+Remove the cat ears quietly
+Runaway
+Rest a bit
+
+BAD END        Lawless Land
+It's my pleasure to date Tohka...
+... let's forget about Mr. Rabbit for now.
+Teddy bear doll
+This bear smells fishy
+Hand over the orange juice
+Don't buy
+
+HIDDEN END     Great Treasure
+It's my pleasure to date Tohka...
+... let's forget about Mr. Rabbit for now.
+Teddy bear doll
+Purchase with coupon
+

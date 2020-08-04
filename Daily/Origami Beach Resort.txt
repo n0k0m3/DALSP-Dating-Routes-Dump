@@ -1,0 +1,78 @@
+HAPPY END      Right Way to Apply Lotion
+Let Origami hold my hand
+The sunlight is too dazzling now, I'll go swim later.
+A skin care product that prevent your skin from sunburn
+Origami, you can apply it yourself.
+Because something unexpected might happen if I lost control...
+
+HAPPY END      Hold Her Tight
+Let Origami hold my hand
+If Origami wants to go, I can accompany you
+It's a rare opportunity, let the water hit Origami
+I'll go with you to the changing room's door
+If there is a conflict, I hope you won't get hurt, Origami
+
+HAPPY END      The Lovers
+Let Origami hold my hand
+If Origami wants to go, I can accompany you
+Block the water for Origami
+No, I will make sure you are not in danger.
+Push Origami away
+
+TRUE END       Swimsuit of Scheme
+Let Origami hold my hand
+If Origami wants to go, I can accompany you
+It's a rare opportunity, let the water hit Origami
+Let Tohka go with you
+You can wear blue today, the color of the ocean
+
+TRUE END       Your Mission
+Let Origami hold my hand
+If Origami wants to go, I can accompany you
+Block the water for Origami
+Yes, I will protect you
+I'll try to stop the Spirits.
+
+NORMAL END     Make Your Wish Come True
+Let Origami hold my hand
+If Origami wants to go, I can accompany you
+It's a rare opportunity, let the water hit Origami
+Let Tohka go with you
+Pink laced girlish style should be suitable
+
+NORMAL END     Change Pose Next Time
+Let Origami hold my hand
+The sunlight is too dazzling now, I'll go swim later.
+A skin care product that prevent your skin from sunburn
+Origami, you can apply it yourself.
+Because I don't like this posture
+
+NORMAL END     Odd Way to Apply Lotion?
+Let Origami hold my hand
+The sunlight is too dazzling now, I'll go swim later.
+A skin care product that prevent your skin from sunburn
+Are you sure?
+Do what Origami asks
+Please spare me this torture.
+
+BAD END        Leave for Jealousy
+Let Origami hold my hand
+If Origami wants to go, I can accompany you
+It's a rare opportunity, let the water hit Origami
+I'll go with you to the changing room's door
+If there is a conflict, I hope you don't hurt those who are without Spirit powers
+
+HIDDEN END     Super Dinner
+Let Origami hold my hand
+I want to see the sea first
+Sorry, I'll go take photos with Origami first.
+We are just classmates
+I think I'll go and help dig seashells.
+
+HIDDEN END     Legend of Shells
+Let Origami hold my hand
+I want to see the sea first
+Sorry, I'll go take photos with Origami first.
+We are just classmates
+Sounds like a special legend, I'll try to find it.
+
