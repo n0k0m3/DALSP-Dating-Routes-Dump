@@ -1,6 +1,6 @@
 
 
-All Routes for Yoshino Doll Shop
+All Routes for scripts 2103002
     To apologize, how about we go to the doll shop and get a doll for you?
         It's a crane machine. All dolls are waiting inside.
             Why do you lack confidence in yourself, Yoshino?
@@ -1684,7 +1684,7 @@ All Routes for Yoshino Doll Shop
                     Because you are my dear princess, Yoshino.  NORMAL END (Doll's New Master)
                     Because you are the oasis of my mind, Yoshino.  HAPPY END (Oasis of Mind)
 
-All Routes for Yoshino Park
+All Routes for scripts 2103003
     Hide.
         Scare Yoshino.
             Hold on for a while.
@@ -4891,7 +4891,7 @@ All Routes for Yoshino Park
                         Attack her shoulder.  NORMAL END (Demon and Servant)
                         Attack her breast.  BAD END (Yoshino is Gone)
 
-All Routes for Yoshino Park at Night
+All Routes for scripts 2103005
     Look for her in the amusement area.
         They should continue their love no matter what happens.
             You really should have told us before leaving home.

@@ -1,6 +1,6 @@
 
 
-All Routes for Kotori School (Night)
+All Routes for scripts 2105003
     ... Forget it, Kotori, let's go on a date.
         Kotori, are you afraid to visit the library by yourself?
             Go to teacher's office to find a spare key.
@@ -640,7 +640,7 @@ All Routes for Kotori School (Night)
                             I don't like you being my sister either.  TRUE END (Spell of Pumpkin Carriage)
                             It doesn't matter. I will always like you.  BAD END (Forever Siblings)
 
-All Routes for Kotori Bakery
+All Routes for scripts 2105004
     However, is it wrong to want to date Kotori?
         Kotori will always be a child in my eyes
             Strawberry Mochi
