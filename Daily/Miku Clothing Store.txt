@@ -1,0 +1,47 @@
+HAPPY END      Diva Miku
+Tohka is right ahead, there might be trouble if she sees us like this...
+Okay, let me help you choose
+Choose the small skirt
+It's a great costume for performance
+Miku is very attractive on stage
+Miku on the stage belongs to everyone
+
+HAPPY END      Fitting Room for Two
+Tohka is right ahead, there might be trouble if she sees us like this...
+Actually, I'm not very good at this...
+I never walked with a girl for so long... I'm a bit tired.
+Why don't you choose one for me, I trust Miku's taste
+
+TRUE END       Sing for You
+Tohka is right ahead, there might be trouble if she sees us like this...
+Okay, let me help you choose
+Choose the small skirt
+It's a great costume for performance
+Miku is very attractive on stage
+I will be Miku's most loyal listener
+
+NORMAL END     Close Distance
+Tohka is right ahead, there might be trouble if she sees us like this...
+Actually, I'm not very good at this...
+I'm not tired! Not at all!
+Rush in
+Close my eyes
+
+NORMAL END     Escape in a hurry
+Tohka is right ahead, there might be trouble if she sees us like this...
+Actually, I'm not very good at this...
+I'm not tired! Not at all!
+Ask the store Staff to go in
+
+HIDDEN END     Lovers' clothes?
+Tohka is right ahead, there might be trouble if she sees us like this...
+Okay, let me help you choose
+Choose the student uniform
+It's better to try on a new uniform...
+
+HIDDEN END     Date for Four
+Miku is an idol after all! Won't it cause trouble if paparazzi take photos of you?
+But I'll be recognized by others!
+Greet them first
+I was dragged here by Miku...
+

@@ -1,9 +1,20 @@
-Dating103 = Yoshino
+# Date guides
 
-Dating104 = Kurumi
+**Daily Date**: Guides are 100% generated from dump and will be the shortest route.
 
-Dating105 = Kotori
+**Main Date**: not implemented yet in game thus no data dumped
 
-Dating110 = Miku
+# Dumps
 
-Dumped using: https://gitlab.com/n0k0m3/dalsp-find-date-route
+```  
+  ["Tohka"] = "Dating101",
+  ["Origami"] = "Dating102",
+  ["Yoshino"] = "Dating103",
+  ["Kurumi"] = "Dating104",
+  ["Kotori"] = "Dating105",
+  ["Miku"] = "Dating110",
+  ["Mayuri"] = "Dating112",
+  ["Natsumi"] = "Dating113"
+  ```
+
+Tool Used: https://gitlab.com/n0k0m3/dalsp-find-date-route

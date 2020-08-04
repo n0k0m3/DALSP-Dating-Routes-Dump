@@ -1,0 +1,78 @@
+HAPPY END      It's Painful
+Look for her in the garden area.
+You really should have told us before leaving home.
+Don't worry. I'm not mad at you at all.
+Maybe... don't do this!
+Spank her once.
+
+HAPPY END      You are a perfect lover
+Look for her in the garden area.
+They should continue their love no matter what happens.
+I'll choose love over wealth.
+Shout "follow your heart" to them
+Show them what they should do
+Drag Yoshino to me and pretend to kiss her
+
+TRUE END       Girl's Best Friend
+Look for her in the garden area.
+Maybe they should be together for a bit longer
+Maybe they don't know each other well enough
+Maybe they will break up because of some minor things
+All right. I'll correct my mistakes.
+
+TRUE END       Inversed Ending
+Look for her in the garden area.
+Maybe they should be together for a bit longer
+Maybe their love will fade away over time.
+Maybe they've met someone they love more
+Speaking of that, I have someone that I like the most
+
+TRUE END       Love Guru
+Look for her in the garden area.
+Maybe they should be together for a bit longer
+They won't break up if they really love each other.
+I don't think we should interfere
+I have a good feeling about it.
+
+NORMAL END     Spotted! Playboy
+Look for her in the garden area.
+Maybe they should be together for a bit longer
+Maybe their love will fade away over time.
+Maybe it's just a fleeting crush
+He will give her a lot of money as compensation
+
+NORMAL END     What a good parent
+Look for her in the garden area.
+Maybe they should be together for a bit longer
+They won't break up if they really love each other.
+I don't think we should interfere
+It's dangerous out there. Let's go back home
+
+NORMAL END     Ara, my cover is blown
+Look for her in the garden area.
+They should continue their love no matter what happens.
+I'll choose love over wealth.
+Disguise as a thug
+Stop them without any hesitation
+
+NORMAL END     That's too casual
+Look for her in the garden area.
+Maybe they should be together for a bit longer
+Maybe their love will fade away over time.
+Maybe they've met someone they love more
+I'm not a playboy! Not in the slightest!
+
+BAD END        Get Separated Instead
+Look for her in the garden area.
+They should continue their love no matter what happens.
+I'll choose love over wealth.
+Disguise as a thug
+Leave them alone
+
+HIDDEN END     Get Together Again
+Look for her in the garden area.
+They should continue their love no matter what happens.
+I'll choose love over wealth.
+Make the temperature drop.
+Intensify the coldness.
+

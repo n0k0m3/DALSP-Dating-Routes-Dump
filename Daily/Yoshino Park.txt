@@ -1,0 +1,67 @@
+HAPPY END      Warrior Yoshino
+Greet Yoshino.
+Brother and sister.
+Hold on for a bit longer.
+Warrior Yoshino
+Villager
+
+TRUE END       Courage
+Hide.
+Make some noise.
+Take a break.
+Search for her in the woods.
+Yoshino, go feed the squirrel with Yoshinon!
+I will save everyone!
+Yoshino is so tender.
+
+TRUE END       Curtain Call
+Greet Yoshino.
+Brother and sister.
+Hold on for a bit longer.
+Villager Yoshino
+Warrior.
+
+NORMAL END     Silence
+Hide.
+Make some noise.
+Take a break.
+Search for her in the woods.
+Let's feed the squirrel together, Yoshino!
+Just look at her.
+
+NORMAL END     Demon and Servant
+Greet Yoshino.
+Brother and sister.
+Hold on for a bit longer.
+Demon King Yoshino
+Attack her shoulder.
+
+NORMAL END     Realistic Acting
+Greet Yoshino.
+Brother and sister.
+Hold on for a bit longer.
+Warrior Yoshino
+Demon King
+
+BAD END        Yoshino is Gone
+Greet Yoshino.
+Brother and sister.
+Hold on for a bit longer.
+Demon King Yoshino
+Attack her breast.
+
+BAD END        Screwed Up
+Greet Yoshino.
+Brother and sister.
+Hold on for a bit longer.
+Demon King Yoshino
+Attack her head.
+
+HIDDEN END     Yoshino and Squirrel
+Hide.
+Make some noise.
+Take a break.
+Search for her in the woods.
+Let's feed the squirrel together, Yoshino!
+Go help her.
+

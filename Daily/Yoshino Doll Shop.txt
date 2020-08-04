@@ -1,0 +1,68 @@
+HAPPY END      Oasis of Mind
+To apologize, how about we go to the doll shop and get a doll for you?
+It's a crane machine, a cage that imprisons dolls with magic.
+These dolls are wicked. They must be imprisoned inside.
+Let me pat your head, and everything will be fine.
+Because you are the oasis of my mind, Yoshino.
+
+HAPPY END      Return with Full Hands
+To apologize, how about we go to the doll shop and get a doll for you?
+It's a crane machine. All dolls are waiting inside.
+You are so cute that everyone wants to be your friend, Yoshino.
+How about that gray Angora rabbit?
+Ask Kotori for help.
+
+TRUE END       Crane Machine Master
+To apologize, how about we go to the doll shop and get a doll for you?
+It's a crane machine. All dolls are waiting inside.
+Why do you lack confidence in yourself, Yoshino?
+I'll cast a spell that gets the dolls out!
+Were you stalking me?
+Some private clothes.
+
+NORMAL END     Crane Machine Hero
+To apologize, how about we go to the doll shop and get a doll for you?
+It's a crane machine. All dolls are waiting inside.
+Why do you lack confidence in yourself, Yoshino?
+I'll cast a spell that gets the dolls out!
+Were you stalking me?
+Some peppermint candies I bought this morning.
+
+NORMAL END     Unexpected Doll
+Then I'll make it up with a kiss!
+How about I carry you in my arms to the doll shop, Yoshino?
+Not at all. You're light, Yoshino.
+Let's customize a doll that you like best, Yoshino.
+Then I'll order a super sized doll for you, Yoshino.
+Take off Yoshinon and measure her size.
+
+NORMAL END     Doll's New Master
+To apologize, how about we go to the doll shop and get a doll for you?
+It's a crane machine, a cage that imprisons dolls with magic.
+These dolls are wicked. They must be imprisoned inside.
+Let me pat your head, and everything will be fine.
+Because you are my dear princess, Yoshino.
+
+BAD END        Frozen Doll Shop
+To apologize, how about we go to the doll shop and get a doll for you?
+It's a crane machine. All dolls are waiting inside.
+You are so cute that everyone wants to be your friend, Yoshino.
+How about that gray Angora rabbit?
+Try again.
+
+BAD END        Mad Yoshinon
+Then I'll make it up with a kiss!
+How about I carry you in my arms to the doll shop, Yoshino?
+Not at all. You're light, Yoshino.
+Let's customize a doll that you like best, Yoshino.
+Cleaning a super sized doll would be tricky.
+Explain with patience.
+
+HIDDEN END     Giant Yoshinon
+Then I'll make it up with a kiss!
+How about I carry you in my arms to the doll shop, Yoshino?
+Not at all. You're light, Yoshino.
+Let's customize a doll that you like best, Yoshino.
+Then I'll order a super sized doll for you, Yoshino.
+Measure Yoshinon's size together with her.
+

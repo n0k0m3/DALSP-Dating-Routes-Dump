@@ -1,0 +1,70 @@
+HAPPY END      I want to eat your cake
+Pretend to be rich and invite Kurumi with the vouchers.
+Does Kurumi like sweets?
+Yeah, I like anything that Kurumi likes.
+Of course, it will be delicious if Kurumi makes it.
+I don't want to be apart from Kurumi for even a moment.
+It's good, but I want to eat Kurumi's.
+
+TRUE END       You are special to me
+Pretend to be rich and invite Kurumi with the vouchers.
+Does Kurumi like sweets?
+I want to know what Kurumi's favorite food tastes like.
+Kurumi should have it, I won't eat it.
+Why did Kurumi reveal the [Spirit] identity?
+
+TRUE END       Eat you mildly
+Pretend to be rich and invite Kurumi with the vouchers.
+Does Kurumi like sweets?
+Yeah, I like anything that Kurumi likes.
+Of course, it will be delicious if Kurumi makes it.
+I don't want to be apart from Kurumi for even a moment.
+Just like I thought, Kurumi's baking is delicious!
+
+NORMAL END     Do you like the smell of shirt
+Pretend to be rich and invite Kurumi with the vouchers.
+Did Kurumi like anyone before coming to the school?
+I want to know more about Kurumi's past.
+What kind of boys does Kurumi like?
+Take it off, I'll clean it for you.
+
+NORMAL END     Exclusive! Just to Meet You
+Pretend to be rich and invite Kurumi with the vouchers.
+Does Kurumi like sweets?
+I want to know what Kurumi's favorite food tastes like.
+Kurumi should have it, I won't eat it.
+Why did Kurumi transfer to our school?
+I have a few wives that are [Spirits].
+
+NORMAL END     Feed the stray dog with ice cream cake
+Pretend to be rich and invite Kurumi with the vouchers.
+Does Kurumi like sweets?
+I want to know what Kurumi's favorite food tastes like.
+Can I ask you to feed it to me?
+Maybe the air conditioner here is set too high!
+Your hands are so cool, so soft.
+
+BAD END        He belongs with me
+Pretend to be rich and invite Kurumi with the vouchers.
+Did Kurumi like anyone before coming to the school?
+I want to know more about Kurumi's past.
+What color underwear is Kurumi wearing today?
+Inform Kotori, tell her to get rid of Tohka.
+Kurumi and I are on a date.
+
+BAD END        Instinct to Escape
+Pretend to be rich and invite Kurumi with the vouchers.
+Did Kurumi like anyone before coming to the school?
+I want to know more about Kurumi's past.
+What color underwear is Kurumi wearing today?
+Inform Kotori, tell her to get rid of Tohka.
+I ran into Kurumi while buying some kinako bread.
+
+HIDDEN END     Kurumi's Top Secret
+Pretend to be rich and invite Kurumi with the vouchers.
+Does Kurumi like sweets?
+I want to know what Kurumi's favorite food tastes like.
+Kurumi should have it, I won't eat it.
+Why did Kurumi transfer to our school?
+I only know a little bit.
+

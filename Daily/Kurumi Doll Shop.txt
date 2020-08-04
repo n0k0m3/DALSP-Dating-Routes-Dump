@@ -1,0 +1,74 @@
+HAPPY END      Bell Cat
+Anything for a chance to see Kurumi.
+Kurumi, can I hold your hand?
+Pick a doll you like, Kurumi.
+The cat mom with the scarf.
+Stay still and wait for Kurumi to change.
+Come save me baby.
+
+TRUE END       Kurumi, do you know a certain steward?
+Anything for a chance to see Kurumi.
+Kurumi, can I hold your hand?
+Pick a doll you like, Kurumi.
+The cat mom with the scarf.
+Stay still and wait for Kurumi to change.
+Believe it or not, the doll came alive.
+
+TRUE END       There is only one truth!
+Anything for a chance to see Kurumi.
+Kurumi, can I hold your hand?
+Pick a doll you like, Kurumi.
+The cat mom with the scarf.
+Stay still and wait for Kurumi to change.
+If we don't leave now, we're gonna become cat food.
+
+NORMAL END     I was freaked out
+Anything for a chance to see Kurumi.
+Kurumi, can I hold your hand?
+Pick a doll you like, Kurumi.
+The octopus baby in the glass cabinet.
+Help me!
+Why did the octopus go berserk?
+No.
+
+NORMAL END     Crisis resolved! Crisis resolved!
+Anything for a chance to see Kurumi.
+Kurumi, can I hold your hand?
+Pick a doll you like, Kurumi.
+The bunny by the door holding the candy box.
+Where's the bunny I was chasing?
+I want to buy that bunny doll for Kurumi.
+
+NORMAL END     You must be the new guy
+Anything for a chance to see Kurumi.
+Kurumi, can I hold your hand?
+Pick a doll you like, Kurumi.
+The bunny by the door holding the candy box.
+Where's the bunny I was chasing?
+I want to take that bunny doll home.
+
+BAD END        Daydream
+Anything for a chance to see Kurumi.
+Kurumi, can I hold your hand?
+Pick a doll you like, Kurumi.
+The bunny by the door holding the candy box.
+Kurumi? Where's Kurumi?
+Fight the bunny doll and make it tell us how to leave.
+
+BAD END        Is my sister really that powerful?
+Anything for a chance to see Kurumi.
+Kurumi, can I hold your hand?
+Buy them all!
+I think Kurumi is the cutest.
+Kurumi knows more about humans than other [Spirits].
+I don't like [Spirits].
+
+HIDDEN END     Failed Attempt to Look Cool
+Anything for a chance to see Kurumi.
+Kurumi, can I hold your hand?
+Pick a doll you like, Kurumi.
+The cat mom with the scarf.
+Grab Kurumi and leave immediately.
+Continue fleeing
+Defeat that cat doll first.
+

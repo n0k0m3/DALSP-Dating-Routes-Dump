@@ -1,0 +1,79 @@
+HAPPY END      Sweet Date
+Search near the Shrine entrance.
+Have you considered drawing fortune sticks?
+Yellow stick
+Hide her face with a kiss
+
+TRUE END       Mysterious Date Started
+Look inside the shrine.
+Search behind the deity statue.
+The voice is suspicious, but searching for the object is more important.
+There's light at the end of the passage, let's check it out.
+Try washing it clean.
+
+TRUE END       Buried Coin
+Search in the courtyard behind the shrine
+Why is Kurumi so happy?
+Maybe what you're looking for is hidden here?
+Under the rock
+Forcefully pull it out
+
+TRUE END       Fruit of Hard Work
+Look inside the shrine.
+Open the scary old window.
+Crawl with all limbs on the ground
+Stop struggling and fall into the whole
+Keep searching
+
+TRUE END       Wanna Date You Again
+Search in the courtyard behind the shrine
+They say flipping a coin to a treasure toad can change your luck.
+Touch her left hand, waist and right leg.
+
+NORMAL END     Get Teased Instead
+Search near the Shrine entrance.
+Have you considered drawing fortune sticks?
+Purple stick
+You're just as indecipherable
+I want to learn more about Kurumi, even just a little bit.
+
+NORMAL END     Brush Past the Treasures
+Search near the Shrine entrance.
+Have you considered drawing fortune sticks?
+Red stick
+This is it! Open it up!
+Why don't we use a crowbar to open it?
+
+NORMAL END     Come Again Tomorrow
+Search near the Shrine entrance.
+Have you considered drawing fortune sticks?
+Yellow stick
+Ask Kotori for help
+
+NORMAL END     You Are so Sweet
+Search near the Shrine entrance.
+Kurumi, let's hang a prayer stick for good luck.
+Come back tomorrow.
+If you want to have a full meal, ramen is the best choice.
+It must taste really bad...I'll go talk to the manager.
+
+BAD END        Busy for Nothing
+Search near the Shrine entrance.
+Have you considered drawing fortune sticks?
+Red stick
+It looks suspicious, inspect further.
+Looks like it's sealing a terrible demon.
+
+BAD END        Scary Kurumi
+Search in the courtyard behind the shrine
+Why is Kurumi so happy?
+Go to the ancient well rumored to show the future under moonlight
+I see a strange shadow
+
+HIDDEN END     Thanks for Finding It for Me
+Search near the Shrine entrance.
+Have you considered drawing fortune sticks?
+Red stick
+This is it! Open it up!
+Use Yud to explore the chest's memories.
+

@@ -1,0 +1,92 @@
+HAPPY END      Sister's Swoop
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Climbing the window is the right choice.
+Search in the new Learning Reference Section
+I go and have a look, Kotori continues to look for the book
+Call Kotori's name First
+
+HAPPY END      Sleep in arms
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Climbing the window is the right choice.
+Search in the old and messy Unsorted Section
+Push Kotori away asap
+Hide into a locker
+Keep hiding
+
+TRUE END       Spell of Pumpkin Carriage
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Climbing the window is the right choice.
+Search in the section with the No Entry sign
+Get down on the floor and serve as a cushion for her.
+There is no spell
+I don't like you being my sister either.
+
+NORMAL END     All for Nothing
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Climbing the window is the right choice.
+Search in the new Learning Reference Section
+Kotori goes to take a look, I continue to look for the book
+Something doesn't add up
+
+NORMAL END     Ghost Busted
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Climbing the window is the right choice.
+Search in the old and messy Unsorted Section
+Push Kotori away asap
+Hide behind the curtain
+
+NORMAL END     Scorpion Hairpin
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Climbing the window is the right choice.
+Search in the new Learning Reference Section
+I go and have a look, Kotori continues to look for the book
+Open the lockers one by one
+
+BAD END        Security Ruined the Quest
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Go to teacher's office to find a spare key.
+Wait for me in the library, Kotori.
+Go through the corridor
+Run downstairs
+Find a way to save ourselves
+
+BAD END        Flee away
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Go to teacher's office to find a spare key.
+Wait for me in the library, Kotori.
+Go through the classroom to bypass it
+Pick it up and return it to the owner tomorrow
+
+BAD END        Forever Siblings
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Climbing the window is the right choice.
+Search in the section with the No Entry sign
+Get down on the floor and serve as a cushion for her.
+There is no spell
+It doesn't matter. I will always like you.
+
+HIDDEN END     Strange and Funny Book
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Climbing the window is the right choice.
+Search in the section with the No Entry sign
+Protect Kotori as she falls.
+Read "Darkness" section
+
+HIDDEN END     Book about Spirits
+Still busy with your work?
+Kotori, are you afraid to visit the library by yourself?
+Go to teacher's office to find a spare key.
+Wait for me in the library, Kotori.
+Go through the classroom to bypass it
+Better not pick it up.
+

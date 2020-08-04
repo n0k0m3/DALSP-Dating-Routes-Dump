@@ -1,0 +1,68 @@
+HAPPY END      Kotori's Swoop
+However, is it wrong to want to date Kotori?
+I want to protect Kotori
+Kotori didn't believe me. It hurts
+Ah? At this hour? Who could it be?
+Long time no see
+
+TRUE END       Change the world for my sister
+However, is it wrong to want to date Kotori?
+Kotori will always be a child in my eyes
+Strawberry Mochi
+It would take some time to get used to the current situation.
+It will do as long as it's Kotori
+
+TRUE END       Capable Sister
+However, is it wrong to want to date Kotori?
+I want to protect Kotori
+Those are sincere words from the bottom of my heart
+Have you been busy working recently, Kotori?
+I promise to obey orders from now on!
+
+NORMAL END     Usage of Milk
+However, is it wrong to want to date Kotori?
+Kotori will always be a child in my eyes
+Chocolate cookies
+I'm responsible for your safety
+Bring back the cookies, Kotori
+Kotori, let me pour some milk for you
+
+NORMAL END     Cutest when You Smile
+However, is it wrong to want to date Kotori?
+Only a child would say something like that.
+Kotori didn't hold my hand... So sad
+Squeeze Kotori's hand softly
+Can't you give your brother a loving embrace?
+
+NORMAL END     Do Whatever She Wants
+However, is it wrong to want to date Kotori?
+I want to protect Kotori
+Those are sincere words from the bottom of my heart
+Have you been busy working recently, Kotori?
+I was wrong, I'll try my best not to disobey you in future
+
+BAD END        Quarrel
+However, is it wrong to want to date Kotori?
+I want to protect Kotori
+Kotori didn't believe me. It hurts
+Such a terrible emergency is unimaginable!
+Why have you come here, Mana?
+Girls, please get along...
+
+BAD END        Hard to choose
+However, is it wrong to want to date Kotori?
+I want to protect Kotori
+Kotori didn't believe me. It hurts
+Such a terrible emergency is unimaginable!
+Why haven't I see Mana recently?
+You need to take care of yourself, Mana
+
+HIDDEN END     How can my little sister be so cute
+However, is it wrong to want to date Kotori?
+Kotori will always be a child in my eyes
+Strawberry Mochi
+Kotori is adorable in all circumstances!
+Because it's still afternoon tea time
+I want to date Kotori
+Kotori should take responsibility for my pants
+
