@@ -1,0 +1,64 @@
+HAPPY END      Transparent Mood
+Invite her to join
+Be brave
+I can pick one for you.
+Sapphire
+Let's DIY.
+Cool it slowly after applying heat
+Praise Mayuri
+
+TRUE END       Nice to meet you
+Invite her to join
+Be brave
+Do you want to go somewhere else?
+It's a form of communication.
+Mayuri, do you like mankind?
+Let's get along like friends.
+
+TRUE END       Will we meet again?
+Invite her to join
+Be brave
+I can pick one for you.
+Sapphire
+Let's DIY.
+Cool it quickly after applying heat
+
+NORMAL END     Bell Rings
+Invite her to join
+Be brave
+Do you want to go somewhere else?
+It's a form of communication.
+Do you like this world?
+Please believe me.
+
+NORMAL END     How to Qualify
+Invite her to join
+Be brave
+I can pick one for you.
+Ruby
+Corundum
+Asia
+Be cocky
+
+BAD END        Disqualified
+Invite her to join
+Don't be afraid
+Pick up a purse
+Pay for it without thinking
+
+BAD END        Teasing
+Invite her to join
+Be brave
+Do you want to go somewhere else?
+It's a form of communication.
+Mayuri, do you like mankind?
+Let's get along like humans.
+
+HIDDEN END     Girl and Pigeon
+Pretend to be familiar
+Just follow me
+Why don't we go to the park?
+I want to know what you think.
+If that's the case, we'll start now.
+Ask Mayuri to feed the doves
+

@@ -4,6 +4,8 @@
 
 **Main Date**: not implemented yet in game thus no data dumped
 
+Not considered: Time-limited options, CG Rewards
+
 # Dumps
 
 ```  

@@ -1,0 +1,80 @@
+HAPPY END      Get closer
+Ask what's in her hands
+If it's difficult to choose...
+In the middle
+You might not be a couple if you go on a date.
+You should understand and truth each other.
+
+HAPPY END      Touch dolphin
+Ask what's in her hands
+Something romantic!
+The aquarium
+There's other types of fish up ahead!
+Everyone's going that way...
+
+HAPPY END      Wish for that day to come
+Ask what's in her hands
+If it's difficult to choose...
+The first row
+Start a new topic
+I'm looking at the view of the Tengu City.
+I want to take you, too.
+
+TRUE END       I'm by your side.
+Ask what's in her hands
+Something romantic!
+The merry-go-round
+Feels like we're in clouds.
+You don't need to pursue.
+
+NORMAL END     Play around
+Ask what's in her hands
+Something romantic!
+The merry-go-round
+Feels like time has stopped.
+Today I am all yours!
+
+NORMAL END     Plan the next date
+Ask what's in her hands
+Something romantic!
+The aquarium
+There's other types of fish up ahead!
+There's a lot more of fun things for you to discover.
+
+NORMAL END     Heart Pounds
+Ask what's in her hands
+Something romantic!
+The aquarium
+You can keep looking!
+It's a bit dangerous for you.
+
+BAD END        Observer's Mission
+Ask what's in her hands
+If it's difficult to choose...
+The first row
+Pat her head
+I was looking at your earrings.
+What do you mean?
+
+BAD END        Unpleasant date
+Ask what's in her hands
+Something romantic!
+The merry-go-round
+Feels like we're in clouds.
+I guess you're right...
+
+HIDDEN END     Souvenir
+Ask what's in her hands
+If it's difficult to choose...
+The first row
+Pat her head
+I was looking at your earrings.
+No way!
+
+HIDDEN END     Hot balloon in Sunset
+Ask what's in her hands
+Something exciting!
+You're right
+Go towards a corner of the park
+Let her hold my hand
+

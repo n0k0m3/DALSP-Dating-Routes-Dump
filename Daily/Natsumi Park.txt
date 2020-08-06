@@ -1,0 +1,66 @@
+HAPPY END      Maple Dusk
+Ask with pretended calmness
+Invite Yoshino
+Omurice
+Let's go for a date
+Don't worry, I'll protect you
+Make a wish upon the maple leaf
+Tell Natsumi my wish
+
+TRUE END       Power of Confidence
+Ask with pretended calmness
+Invite Kotori
+It's not what you think, Kotori
+Catch up with Natsumi
+Invite them both to hang out
+
+TRUE END       Hide and Seek
+Ask with pretended calmness
+Invite Yoshino
+Omurice
+Let's go for a date
+Don't be afraid, you are the best
+That should be me
+
+NORMAL END     How to Get Along
+Run out in panic
+Put hand on waist and get up slowly
+Politely refuse Natsumi
+I'll give you whatever you want, Natsumi
+I can play with you all the time
+
+NORMAL END     Keep Working Hard
+Ask with pretended calmness
+Invite Kotori
+It's not what you think, Kotori
+Catch up with Kotori
+This won't bring you happiness
+
+NORMAL END     Swing for Two
+Ask with pretended calmness
+Invite Kotori
+It's not what you think, Kotori
+Catch up with Kotori
+This isn't the right way to get along
+
+BAD END        Runaway
+Run out in panic
+Put hand on waist and get up slowly
+Politely refuse Natsumi
+Promise Natsumi anything
+Teach Natsumi
+
+BAD END        Role Model
+Ask with pretended calmness
+Invite Kotori
+It's not like what Natsumi said
+Urge Natsumi to explain
+
+HIDDEN END     No Confidence
+Ask with pretended calmness
+Invite Yoshino
+Omurice
+Let's go outing
+Let's play hide and seek?
+Pretend not to have found Natsumi
+

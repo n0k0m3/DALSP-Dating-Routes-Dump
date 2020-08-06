@@ -1,0 +1,73 @@
+HAPPY END      Seed
+Maybe it's the work of Natsumi
+Let me make breakfast
+How about another glass of milk?
+Buy some seeds
+This is bad, what should we do
+
+HAPPY END      Everyone Likes Natsumi
+Maybe it's the work of Natsumi
+Let me make breakfast
+How about another glass of milk?
+Buy some fresh flowers
+Natsumi should pick some fresh flowers
+We can give some to Tohka
+It was selected by Natsumi
+
+HAPPY END      Flower of Hope
+Someone must have cleaned it
+I need to thank Natsumi properly
+I also want to date Natsumi
+Let's doing ikebana together
+I prefer ikebana of warm colors
+
+TRUE END       Creative Blue Rose
+Someone must have cleaned it
+I need to thank Natsumi properly
+I also want to date Natsumi
+Let's doing ikebana together
+Which one do you like, Natsumi?
+
+NORMAL END     Noob Florist
+Someone must have cleaned it
+I need to thank Natsumi properly
+A date with... Natsumi?
+Do you want to try ikebana, Natsumi?
+A sunflower seems appropriate
+
+NORMAL END     Expected Love
+Someone must have cleaned it
+I need to thank Natsumi properly
+I also want to date Natsumi
+Let's watch others doing it
+Couple's ikebana
+
+BAD END        Natsumi's Reflection
+Someone must have cleaned it
+I need to thank Natsumi properly
+I also want to date Natsumi
+Natsumi should give it a try
+Because... I like it when Natsumi get serious
+
+BAD END        Sudden Bad Mood
+Maybe it's the work of Natsumi
+Let me make breakfast
+How about another glass of milk?
+Buy some seeds
+It seems we have to replant it
+
+BAD END        Incomplete Date
+Maybe it's the work of Natsumi
+Let me make breakfast
+How about another glass of milk?
+Buy some fresh flowers
+Natsumi should pick some fresh flowers
+We can give some to Tohka
+Do you like it, Tohka?
+
+HIDDEN END     Cotton Wreath
+Maybe it's the work of Natsumi
+Let me make breakfast
+How about another glass of milk?
+Buy some dried flowers
+
