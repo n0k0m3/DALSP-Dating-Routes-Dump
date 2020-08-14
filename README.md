@@ -8,7 +8,7 @@ Not considered: Time-limited options, CG Rewards
 
 # Favorite Items
 
-Gifts/Foods that significantly increase Spirit's favor and mood. [Link](Favorite Gifts.md)
+Gifts/Foods that significantly increase Spirit's favor and mood. [Link]("./Favorite Gifts.md")
 
 # Dumps
 
