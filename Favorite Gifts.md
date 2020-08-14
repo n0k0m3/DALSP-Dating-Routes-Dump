@@ -6,6 +6,10 @@
 |103  |Yoshino             |Starry Sky Decoration    |Cocoa Milk          |
 |104  |Kurumi Tokisaki     |Fox Baby                 |Vegetable Platter   |
 |105  |Kotori Itsuka       |White Headband           |Pudding Cake        |
+|106  |Mana Takamiya       |nil                      |nil                 |
+|107  |Kaguya Yamai        |nil                      |nil                 |
+|108  |Yuzuru Yamai        |nil                      |nil                 |
+|109  |Ellen               |nil                      |nil                 |
 |110  |Miku Izayoi         |Romantic Violet          |Matcha Cake         |
 |112  |Mayuri              |Fate Bracelet            |Sweet Juice         |
 |113  |Natsumi             |Fox Baby                 |Cheese Tart         |
