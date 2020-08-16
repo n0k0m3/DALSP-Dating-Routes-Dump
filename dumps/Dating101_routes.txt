@@ -177,7 +177,7 @@ All Routes for scripts 2101004
                             Because I have special skills  HAPPY END (Cook Tohka)
                         I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
                 But only kids would sit there...
-                    Stop the shopping cart
+                    Stop the trolley
                         I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
                         I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
                     Be careful of the slippery floor
@@ -214,7 +214,7 @@ All Routes for scripts 2101004
                     Tohka seems really hungry...  HIDDEN END (New bakery idea found)
                 We will go home as soon as we have bought the fish!
                     Tohka is learning fast!  HAPPY END (Cook Tohka)
-                    There are room for improvement, Tohka...  TRUE END (Love for You)
+                    There is room for improvement, Tohka...  TRUE END (Love for You)
         Let's go to the supermarket first
             I'm good at cooking home dishes, let's buy some fish
                 These are basically pets...
@@ -230,7 +230,7 @@ All Routes for scripts 2101004
                         Tohka seems really hungry...  HIDDEN END (New bakery idea found)
                     We will go home as soon as we have bought the fish!
                         Tohka is learning fast!  HAPPY END (Cook Tohka)
-                        There are room for improvement, Tohka...  TRUE END (Love for You)
+                        There is room for improvement, Tohka...  TRUE END (Love for You)
             It's rare for us to eat western cuisine, let's buy some steak
                 Then I will sit inside!
                     Then let's go home and cook together!
@@ -244,7 +244,7 @@ All Routes for scripts 2101004
                             Because I have special skills  HAPPY END (Cook Tohka)
                         I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
                 But only kids would sit there...
-                    Stop the shopping cart
+                    Stop the trolley
                         I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
                         I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
                     Be careful of the slippery floor
@@ -289,7 +289,7 @@ All Routes for scripts 2101004
                             Because I have special skills  HAPPY END (Cook Tohka)
                         I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
                 But only kids would sit there...
-                    Stop the shopping cart
+                    Stop the trolley
                         I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
                         I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
                     Be careful of the slippery floor
@@ -326,7 +326,7 @@ All Routes for scripts 2101004
                     Tohka seems really hungry...  HIDDEN END (New bakery idea found)
                 We will go home as soon as we have bought the fish!
                     Tohka is learning fast!  HAPPY END (Cook Tohka)
-                    There are room for improvement, Tohka...  TRUE END (Love for You)
+                    There is room for improvement, Tohka...  TRUE END (Love for You)
         Let's go to the supermarket first
             I'm good at cooking home dishes, let's buy some fish
                 These are basically pets...
@@ -342,7 +342,7 @@ All Routes for scripts 2101004
                         Tohka seems really hungry...  HIDDEN END (New bakery idea found)
                     We will go home as soon as we have bought the fish!
                         Tohka is learning fast!  HAPPY END (Cook Tohka)
-                        There are room for improvement, Tohka...  TRUE END (Love for You)
+                        There is room for improvement, Tohka...  TRUE END (Love for You)
             It's rare for us to eat western cuisine, let's buy some steak
                 Then I will sit inside!
                     Then let's go home and cook together!
@@ -356,7 +356,7 @@ All Routes for scripts 2101004
                             Because I have special skills  HAPPY END (Cook Tohka)
                         I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
                 But only kids would sit there...
-                    Stop the shopping cart
+                    Stop the trolley
                         I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
                         I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
                     Be careful of the slippery floor
@@ -400,7 +400,7 @@ All Routes for scripts 2101004
                         Because I have special skills  HAPPY END (Cook Tohka)
                     I couldn't make up my mind, so I trusted my instinct.  BAD END (Failed to buy ingredient)
             But only kids would sit there...
-                Stop the shopping cart
+                Stop the trolley
                     I don't consider things like this to be trouble  NORMAL END (Protect Tohka's smile)
                     I'm not afraid of Tohka causing trouble  NORMAL END (It's my duty to protect Tohka)
                 Be careful of the slippery floor
@@ -437,7 +437,7 @@ All Routes for scripts 2101004
                 Tohka seems really hungry...  HIDDEN END (New bakery idea found)
             We will go home as soon as we have bought the fish!
                 Tohka is learning fast!  HAPPY END (Cook Tohka)
-                There are room for improvement, Tohka...  TRUE END (Love for You)
+                There is room for improvement, Tohka...  TRUE END (Love for You)
 
 All Routes for scripts 2101002
     It's my pleasure to date Tohka...

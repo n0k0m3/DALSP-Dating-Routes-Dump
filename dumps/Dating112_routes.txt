@@ -1,0 +1,1718 @@
+
+
+All Routes for scripts 2112002
+    Ask what's in her hands
+        If it's difficult to choose...
+            The first row
+                Pat her head
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Pat her back
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Start a new topic
+                    I'm looking at the view of the Tengu City.
+                        I want to take you, too.  HAPPY END (Wish for that day to come)
+                        So you know everything...  BAD END (Unpleasant date)
+                    I'm looking at the special decorations in the park.
+                        Choose the witch
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the white fox
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the pumpkin
+                            I'll teach you.
+                                Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                Blow on it  NORMAL END (Heart Pounds)
+                            Let me do it.  NORMAL END (Plan the next date)
+            In the middle
+                You might not be a couple if you go on a date.
+                    Mutual admiration is the most important.
+                        I need to know you better.  NORMAL END (Play around)
+                        Very likeable.  HAPPY END (Wish for that day to come)
+                    You should understand and truth each other.  HAPPY END (Get closer)
+                We're not a couple yet...
+                    Feels like time has stopped.
+                        We'll spend lots and lots of time together.  TRUE END (I'm by your side.)
+                        Today I am all yours!  NORMAL END (Play around)
+                    Feels like we're in clouds.
+                        You don't need to pursue.  TRUE END (I'm by your side.)
+                        I guess you're right...  BAD END (Unpleasant date)
+            At the last row
+                Pick the jack-o-lantern
+                    Choose the witch
+                        The park seems different at night.  NORMAL END (Plan the next date)
+                        I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                    Choose the white fox
+                        The park seems different at night.  NORMAL END (Plan the next date)
+                        I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                    Choose the pumpkin
+                        I'll teach you.
+                            Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                            Blow on it  NORMAL END (Heart Pounds)
+                        Let me do it.  NORMAL END (Plan the next date)
+                Pick the dolphin
+                    There are other types of fish up ahead!
+                        Everyone's going that way...  HAPPY END (Touch dolphin)
+                        There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                    You can keep looking!
+                        It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                        Let's see something else first.
+                            Everyone's going that way...  HAPPY END (Touch dolphin)
+                            There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                Pick the pirate ship
+                    Go towards a corner of the park
+                        Let her hold my hand  HIDDEN END (Hot balloon in Sunset)
+                        I don't think it's the right way. Let's turn around.
+                            Choose the witch
+                                The park seems different at night.  NORMAL END (Plan the next date)
+                                I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                            Choose the white fox
+                                The park seems different at night.  NORMAL END (Plan the next date)
+                                I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                            Choose the pumpkin
+                                I'll teach you.
+                                    Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                    Blow on it  NORMAL END (Heart Pounds)
+                                Let me do it.  NORMAL END (Plan the next date)
+                    Follow the crowd
+                        There are other types of fish up ahead!
+                            Everyone's going that way...  HAPPY END (Touch dolphin)
+                            There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                        You can keep looking!
+                            It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                            Let's see something else first.
+                                Everyone's going that way...  HAPPY END (Touch dolphin)
+                                There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+        Something romantic!
+            The ferris wheel
+                Pat her head
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Pat her back
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Start a new topic
+                    I'm looking at the view of the Tengu City.
+                        I want to take you, too.  HAPPY END (Wish for that day to come)
+                        So you know everything...  BAD END (Unpleasant date)
+                    I'm looking at the special decorations in the park.
+                        Choose the witch
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the white fox
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the pumpkin
+                            I'll teach you.
+                                Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                Blow on it  NORMAL END (Heart Pounds)
+                            Let me do it.  NORMAL END (Plan the next date)
+            The merry-go-round
+                Feels like time has stopped.
+                    We'll spend lots and lots of time together.  TRUE END (I'm by your side.)
+                    Today I am all yours!  NORMAL END (Play around)
+                Feels like we're in clouds.
+                    You don't need to pursue.  TRUE END (I'm by your side.)
+                    I guess you're right...  BAD END (Unpleasant date)
+            The aquarium
+                There are other types of fish up ahead!
+                    Everyone's going that way...  HAPPY END (Touch dolphin)
+                    There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                You can keep looking!
+                    It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                    Let's see something else first.
+                        Everyone's going that way...  HAPPY END (Touch dolphin)
+                        There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+        Something exciting!
+            You're right
+                Go towards a corner of the park
+                    Let her hold my hand  HIDDEN END (Hot balloon in Sunset)
+                    I don't think it's the right way. Let's turn around.
+                        Choose the witch
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the white fox
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the pumpkin
+                            I'll teach you.
+                                Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                Blow on it  NORMAL END (Heart Pounds)
+                            Let me do it.  NORMAL END (Plan the next date)
+                Follow the crowd
+                    There are other types of fish up ahead!
+                        Everyone's going that way...  HAPPY END (Touch dolphin)
+                        There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                    You can keep looking!
+                        It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                        Let's see something else first.
+                            Everyone's going that way...  HAPPY END (Touch dolphin)
+                            There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+            Wait for the evening event
+                Choose the witch
+                    The park seems different at night.  NORMAL END (Plan the next date)
+                    I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                Choose the white fox
+                    The park seems different at night.  NORMAL END (Plan the next date)
+                    I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                Choose the pumpkin
+                    I'll teach you.
+                        Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                        Blow on it  NORMAL END (Heart Pounds)
+                    Let me do it.  NORMAL END (Plan the next date)
+    Ask about the flyers in the backpack
+        If it's difficult to choose...
+            The first row
+                Pat her head
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Pat her back
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Start a new topic
+                    I'm looking at the view of the Tengu City.
+                        I want to take you, too.  HAPPY END (Wish for that day to come)
+                        So you know everything...  BAD END (Unpleasant date)
+                    I'm looking at the special decorations in the park.
+                        Choose the witch
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the white fox
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the pumpkin
+                            I'll teach you.
+                                Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                Blow on it  NORMAL END (Heart Pounds)
+                            Let me do it.  NORMAL END (Plan the next date)
+            In the middle
+                You might not be a couple if you go on a date.
+                    Mutual admiration is the most important.
+                        I need to know you better.  NORMAL END (Play around)
+                        Very likeable.  HAPPY END (Wish for that day to come)
+                    You should understand and truth each other.  HAPPY END (Get closer)
+                We're not a couple yet...
+                    Feels like time has stopped.
+                        We'll spend lots and lots of time together.  TRUE END (I'm by your side.)
+                        Today I am all yours!  NORMAL END (Play around)
+                    Feels like we're in clouds.
+                        You don't need to pursue.  TRUE END (I'm by your side.)
+                        I guess you're right...  BAD END (Unpleasant date)
+            At the last row
+                Pick the jack-o-lantern
+                    Choose the witch
+                        The park seems different at night.  NORMAL END (Plan the next date)
+                        I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                    Choose the white fox
+                        The park seems different at night.  NORMAL END (Plan the next date)
+                        I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                    Choose the pumpkin
+                        I'll teach you.
+                            Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                            Blow on it  NORMAL END (Heart Pounds)
+                        Let me do it.  NORMAL END (Plan the next date)
+                Pick the dolphin
+                    There are other types of fish up ahead!
+                        Everyone's going that way...  HAPPY END (Touch dolphin)
+                        There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                    You can keep looking!
+                        It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                        Let's see something else first.
+                            Everyone's going that way...  HAPPY END (Touch dolphin)
+                            There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                Pick the pirate ship
+                    Go towards a corner of the park
+                        Let her hold my hand  HIDDEN END (Hot balloon in Sunset)
+                        I don't think it's the right way. Let's turn around.
+                            Choose the witch
+                                The park seems different at night.  NORMAL END (Plan the next date)
+                                I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                            Choose the white fox
+                                The park seems different at night.  NORMAL END (Plan the next date)
+                                I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                            Choose the pumpkin
+                                I'll teach you.
+                                    Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                    Blow on it  NORMAL END (Heart Pounds)
+                                Let me do it.  NORMAL END (Plan the next date)
+                    Follow the crowd
+                        There are other types of fish up ahead!
+                            Everyone's going that way...  HAPPY END (Touch dolphin)
+                            There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                        You can keep looking!
+                            It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                            Let's see something else first.
+                                Everyone's going that way...  HAPPY END (Touch dolphin)
+                                There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+        Something romantic!
+            The ferris wheel
+                Pat her head
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Pat her back
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Start a new topic
+                    I'm looking at the view of the Tengu City.
+                        I want to take you, too.  HAPPY END (Wish for that day to come)
+                        So you know everything...  BAD END (Unpleasant date)
+                    I'm looking at the special decorations in the park.
+                        Choose the witch
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the white fox
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the pumpkin
+                            I'll teach you.
+                                Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                Blow on it  NORMAL END (Heart Pounds)
+                            Let me do it.  NORMAL END (Plan the next date)
+            The merry-go-round
+                Feels like time has stopped.
+                    We'll spend lots and lots of time together.  TRUE END (I'm by your side.)
+                    Today I am all yours!  NORMAL END (Play around)
+                Feels like we're in clouds.
+                    You don't need to pursue.  TRUE END (I'm by your side.)
+                    I guess you're right...  BAD END (Unpleasant date)
+            The aquarium
+                There are other types of fish up ahead!
+                    Everyone's going that way...  HAPPY END (Touch dolphin)
+                    There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                You can keep looking!
+                    It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                    Let's see something else first.
+                        Everyone's going that way...  HAPPY END (Touch dolphin)
+                        There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+        Something exciting!
+            You're right
+                Go towards a corner of the park
+                    Let her hold my hand  HIDDEN END (Hot balloon in Sunset)
+                    I don't think it's the right way. Let's turn around.
+                        Choose the witch
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the white fox
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the pumpkin
+                            I'll teach you.
+                                Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                Blow on it  NORMAL END (Heart Pounds)
+                            Let me do it.  NORMAL END (Plan the next date)
+                Follow the crowd
+                    There are other types of fish up ahead!
+                        Everyone's going that way...  HAPPY END (Touch dolphin)
+                        There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                    You can keep looking!
+                        It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                        Let's see something else first.
+                            Everyone's going that way...  HAPPY END (Touch dolphin)
+                            There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+            Wait for the evening event
+                Choose the witch
+                    The park seems different at night.  NORMAL END (Plan the next date)
+                    I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                Choose the white fox
+                    The park seems different at night.  NORMAL END (Plan the next date)
+                    I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                Choose the pumpkin
+                    I'll teach you.
+                        Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                        Blow on it  NORMAL END (Heart Pounds)
+                    Let me do it.  NORMAL END (Plan the next date)
+    Ask about her necklace
+        If it's difficult to choose...
+            The first row
+                Pat her head
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Pat her back
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Start a new topic
+                    I'm looking at the view of the Tengu City.
+                        I want to take you, too.  HAPPY END (Wish for that day to come)
+                        So you know everything...  BAD END (Unpleasant date)
+                    I'm looking at the special decorations in the park.
+                        Choose the witch
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the white fox
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the pumpkin
+                            I'll teach you.
+                                Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                Blow on it  NORMAL END (Heart Pounds)
+                            Let me do it.  NORMAL END (Plan the next date)
+            In the middle
+                You might not be a couple if you go on a date.
+                    Mutual admiration is the most important.
+                        I need to know you better.  NORMAL END (Play around)
+                        Very likeable.  HAPPY END (Wish for that day to come)
+                    You should understand and truth each other.  HAPPY END (Get closer)
+                We're not a couple yet...
+                    Feels like time has stopped.
+                        We'll spend lots and lots of time together.  TRUE END (I'm by your side.)
+                        Today I am all yours!  NORMAL END (Play around)
+                    Feels like we're in clouds.
+                        You don't need to pursue.  TRUE END (I'm by your side.)
+                        I guess you're right...  BAD END (Unpleasant date)
+            At the last row
+                Pick the jack-o-lantern
+                    Choose the witch
+                        The park seems different at night.  NORMAL END (Plan the next date)
+                        I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                    Choose the white fox
+                        The park seems different at night.  NORMAL END (Plan the next date)
+                        I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                    Choose the pumpkin
+                        I'll teach you.
+                            Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                            Blow on it  NORMAL END (Heart Pounds)
+                        Let me do it.  NORMAL END (Plan the next date)
+                Pick the dolphin
+                    There are other types of fish up ahead!
+                        Everyone's going that way...  HAPPY END (Touch dolphin)
+                        There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                    You can keep looking!
+                        It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                        Let's see something else first.
+                            Everyone's going that way...  HAPPY END (Touch dolphin)
+                            There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                Pick the pirate ship
+                    Go towards a corner of the park
+                        Let her hold my hand  HIDDEN END (Hot balloon in Sunset)
+                        I don't think it's the right way. Let's turn around.
+                            Choose the witch
+                                The park seems different at night.  NORMAL END (Plan the next date)
+                                I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                            Choose the white fox
+                                The park seems different at night.  NORMAL END (Plan the next date)
+                                I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                            Choose the pumpkin
+                                I'll teach you.
+                                    Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                    Blow on it  NORMAL END (Heart Pounds)
+                                Let me do it.  NORMAL END (Plan the next date)
+                    Follow the crowd
+                        There are other types of fish up ahead!
+                            Everyone's going that way...  HAPPY END (Touch dolphin)
+                            There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                        You can keep looking!
+                            It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                            Let's see something else first.
+                                Everyone's going that way...  HAPPY END (Touch dolphin)
+                                There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+        Something romantic!
+            The ferris wheel
+                Pat her head
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Pat her back
+                    I can't truly feel your presence.
+                        I get it now. Mayuri is a unique Spirit.  BAD END (Observer's Mission)
+                        Then allow me to approach you.  HAPPY END (Get closer)
+                    I was looking at your earrings.
+                        No way!  HIDDEN END (Souvenir)
+                        What do you mean?  BAD END (Observer's Mission)
+                Start a new topic
+                    I'm looking at the view of the Tengu City.
+                        I want to take you, too.  HAPPY END (Wish for that day to come)
+                        So you know everything...  BAD END (Unpleasant date)
+                    I'm looking at the special decorations in the park.
+                        Choose the witch
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the white fox
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the pumpkin
+                            I'll teach you.
+                                Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                Blow on it  NORMAL END (Heart Pounds)
+                            Let me do it.  NORMAL END (Plan the next date)
+            The merry-go-round
+                Feels like time has stopped.
+                    We'll spend lots and lots of time together.  TRUE END (I'm by your side.)
+                    Today I am all yours!  NORMAL END (Play around)
+                Feels like we're in clouds.
+                    You don't need to pursue.  TRUE END (I'm by your side.)
+                    I guess you're right...  BAD END (Unpleasant date)
+            The aquarium
+                There are other types of fish up ahead!
+                    Everyone's going that way...  HAPPY END (Touch dolphin)
+                    There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                You can keep looking!
+                    It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                    Let's see something else first.
+                        Everyone's going that way...  HAPPY END (Touch dolphin)
+                        There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+        Something exciting!
+            You're right
+                Go towards a corner of the park
+                    Let her hold my hand  HIDDEN END (Hot balloon in Sunset)
+                    I don't think it's the right way. Let's turn around.
+                        Choose the witch
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the white fox
+                            The park seems different at night.  NORMAL END (Plan the next date)
+                            I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                        Choose the pumpkin
+                            I'll teach you.
+                                Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                                Blow on it  NORMAL END (Heart Pounds)
+                            Let me do it.  NORMAL END (Plan the next date)
+                Follow the crowd
+                    There are other types of fish up ahead!
+                        Everyone's going that way...  HAPPY END (Touch dolphin)
+                        There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+                    You can keep looking!
+                        It's a bit dangerous for you.  NORMAL END (Heart Pounds)
+                        Let's see something else first.
+                            Everyone's going that way...  HAPPY END (Touch dolphin)
+                            There's a lot more of fun things for you to discover.  NORMAL END (Plan the next date)
+            Wait for the evening event
+                Choose the witch
+                    The park seems different at night.  NORMAL END (Plan the next date)
+                    I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                Choose the white fox
+                    The park seems different at night.  NORMAL END (Plan the next date)
+                    I feel that there's something different between us.  NORMAL END (Heart Pounds)
+                Choose the pumpkin
+                    I'll teach you.
+                        Look for a bandage in the bag.  NORMAL END (Plan the next date)
+                        Blow on it  NORMAL END (Heart Pounds)
+                    Let me do it.  NORMAL END (Plan the next date)
+
+All Routes for scripts 2112001
+    Invite her to join
+        Be brave
+            Do you want to go somewhere else?
+                It's a way to get to know each other faster.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+                It's a form of communication.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+            I can pick one for you.
+                Sapphire
+                    Give it a try
+                        It's a way to get to know each other faster.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                        It's a form of communication.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                    Let's DIY.
+                        Cool it slowly after applying heat
+                            Praise Mayuri  HAPPY END (Transparent Mood)
+                            Praise the gem  NORMAL END (How to Qualify)
+                        Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                Ruby
+                    Corundum
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Quartz
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Silica
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Time's up
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+        Follow your heart
+            Do you want to go somewhere else?
+                It's a way to get to know each other faster.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+                It's a form of communication.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+            I can pick one for you.
+                Sapphire
+                    Give it a try
+                        It's a way to get to know each other faster.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                        It's a form of communication.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                    Let's DIY.
+                        Cool it slowly after applying heat
+                            Praise Mayuri  HAPPY END (Transparent Mood)
+                            Praise the gem  NORMAL END (How to Qualify)
+                        Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                Ruby
+                    Corundum
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Quartz
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Silica
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Time's up
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+        Don't be afraid
+            Pick up a purse
+                Pay for it without thinking  BAD END (Disqualified)
+                Put down quietly
+                    It's a way to get to know each other faster.
+                        Do you like this world?
+                            Please believe me.  NORMAL END (Bell Rings)
+                            Love needs no reason.  BAD END (Teasing)
+                        Mayuri, do you like mankind?
+                            Let's get along like friends.  TRUE END (Nice to meet you)
+                            Let's get along like humans.  BAD END (Teasing)
+                    It's a form of communication.
+                        Do you like this world?
+                            Please believe me.  NORMAL END (Bell Rings)
+                            Love needs no reason.  BAD END (Teasing)
+                        Mayuri, do you like mankind?
+                            Let's get along like friends.  TRUE END (Nice to meet you)
+                            Let's get along like humans.  BAD END (Teasing)
+            Pick up a bracelet
+                Sapphire
+                    Give it a try
+                        It's a way to get to know each other faster.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                        It's a form of communication.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                    Let's DIY.
+                        Cool it slowly after applying heat
+                            Praise Mayuri  HAPPY END (Transparent Mood)
+                            Praise the gem  NORMAL END (How to Qualify)
+                        Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                Ruby
+                    Corundum
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Quartz
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Silica
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Time's up
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+    Pretend to be familiar
+        Is there somewhere you'd like to go?
+            Pick up a purse
+                Pay for it without thinking  BAD END (Disqualified)
+                Put down quietly
+                    It's a way to get to know each other faster.
+                        Do you like this world?
+                            Please believe me.  NORMAL END (Bell Rings)
+                            Love needs no reason.  BAD END (Teasing)
+                        Mayuri, do you like mankind?
+                            Let's get along like friends.  TRUE END (Nice to meet you)
+                            Let's get along like humans.  BAD END (Teasing)
+                    It's a form of communication.
+                        Do you like this world?
+                            Please believe me.  NORMAL END (Bell Rings)
+                            Love needs no reason.  BAD END (Teasing)
+                        Mayuri, do you like mankind?
+                            Let's get along like friends.  TRUE END (Nice to meet you)
+                            Let's get along like humans.  BAD END (Teasing)
+            Pick up a bracelet
+                Sapphire
+                    Give it a try
+                        It's a way to get to know each other faster.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                        It's a form of communication.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                    Let's DIY.
+                        Cool it slowly after applying heat
+                            Praise Mayuri  HAPPY END (Transparent Mood)
+                            Praise the gem  NORMAL END (How to Qualify)
+                        Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                Ruby
+                    Corundum
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Quartz
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Silica
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Time's up
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+        Just follow me
+            What nice weather today!
+                It's a way to get to know each other faster.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+                It's a form of communication.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+            Why don't we go to the park?
+                Mayuri never talks about herself.
+                    I like you
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    I want to know you more.
+                        This is your beginning.  TRUE END (Nice to meet you)
+                        This is a new beginning.
+                            Sapphire
+                                Give it a try
+                                    It's a way to get to know each other faster.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                    It's a form of communication.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                Let's DIY.
+                                    Cool it slowly after applying heat
+                                        Praise Mayuri  HAPPY END (Transparent Mood)
+                                        Praise the gem  NORMAL END (How to Qualify)
+                                    Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                            Ruby
+                                Corundum
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Quartz
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Silica
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Time's up
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                I want to know what you think.
+                    If you don't have it, you don't need it.
+                        This is your beginning.  TRUE END (Nice to meet you)
+                        This is a new beginning.
+                            Sapphire
+                                Give it a try
+                                    It's a way to get to know each other faster.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                    It's a form of communication.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                Let's DIY.
+                                    Cool it slowly after applying heat
+                                        Praise Mayuri  HAPPY END (Transparent Mood)
+                                        Praise the gem  NORMAL END (How to Qualify)
+                                    Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                            Ruby
+                                Corundum
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Quartz
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Silica
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Time's up
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                    If that's the case, we'll start now.
+                        Ask Mayuri to feed the doves  HIDDEN END (Girl and Pigeon)
+                        Let's feed the doves together  NORMAL END (Bell Rings)
+        Where do you want to go?
+            What nice weather today!
+                It's a way to get to know each other faster.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+                It's a form of communication.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+            Why don't we go to the park?
+                Mayuri never talks about herself.
+                    I like you
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    I want to know you more.
+                        This is your beginning.  TRUE END (Nice to meet you)
+                        This is a new beginning.
+                            Sapphire
+                                Give it a try
+                                    It's a way to get to know each other faster.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                    It's a form of communication.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                Let's DIY.
+                                    Cool it slowly after applying heat
+                                        Praise Mayuri  HAPPY END (Transparent Mood)
+                                        Praise the gem  NORMAL END (How to Qualify)
+                                    Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                            Ruby
+                                Corundum
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Quartz
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Silica
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Time's up
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                I want to know what you think.
+                    If you don't have it, you don't need it.
+                        This is your beginning.  TRUE END (Nice to meet you)
+                        This is a new beginning.
+                            Sapphire
+                                Give it a try
+                                    It's a way to get to know each other faster.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                    It's a form of communication.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                Let's DIY.
+                                    Cool it slowly after applying heat
+                                        Praise Mayuri  HAPPY END (Transparent Mood)
+                                        Praise the gem  NORMAL END (How to Qualify)
+                                    Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                            Ruby
+                                Corundum
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Quartz
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Silica
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Time's up
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                    If that's the case, we'll start now.
+                        Ask Mayuri to feed the doves  HIDDEN END (Girl and Pigeon)
+                        Let's feed the doves together  NORMAL END (Bell Rings)
+    Ignore as you walk past
+        Is there somewhere you'd like to go?
+            Pick up a purse
+                Pay for it without thinking  BAD END (Disqualified)
+                Put down quietly
+                    It's a way to get to know each other faster.
+                        Do you like this world?
+                            Please believe me.  NORMAL END (Bell Rings)
+                            Love needs no reason.  BAD END (Teasing)
+                        Mayuri, do you like mankind?
+                            Let's get along like friends.  TRUE END (Nice to meet you)
+                            Let's get along like humans.  BAD END (Teasing)
+                    It's a form of communication.
+                        Do you like this world?
+                            Please believe me.  NORMAL END (Bell Rings)
+                            Love needs no reason.  BAD END (Teasing)
+                        Mayuri, do you like mankind?
+                            Let's get along like friends.  TRUE END (Nice to meet you)
+                            Let's get along like humans.  BAD END (Teasing)
+            Pick up a bracelet
+                Sapphire
+                    Give it a try
+                        It's a way to get to know each other faster.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                        It's a form of communication.
+                            Do you like this world?
+                                Please believe me.  NORMAL END (Bell Rings)
+                                Love needs no reason.  BAD END (Teasing)
+                            Mayuri, do you like mankind?
+                                Let's get along like friends.  TRUE END (Nice to meet you)
+                                Let's get along like humans.  BAD END (Teasing)
+                    Let's DIY.
+                        Cool it slowly after applying heat
+                            Praise Mayuri  HAPPY END (Transparent Mood)
+                            Praise the gem  NORMAL END (How to Qualify)
+                        Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                Ruby
+                    Corundum
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Quartz
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Silica
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                    Time's up
+                        Asia
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Europe
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        North America
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+                        Time's up
+                            Be cocky  NORMAL END (How to Qualify)
+                            Be humble  TRUE END (Will we meet again?)
+        Just follow me
+            What nice weather today!
+                It's a way to get to know each other faster.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+                It's a form of communication.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+            Why don't we go to the park?
+                Mayuri never talks about herself.
+                    I like you
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    I want to know you more.
+                        This is your beginning.  TRUE END (Nice to meet you)
+                        This is a new beginning.
+                            Sapphire
+                                Give it a try
+                                    It's a way to get to know each other faster.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                    It's a form of communication.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                Let's DIY.
+                                    Cool it slowly after applying heat
+                                        Praise Mayuri  HAPPY END (Transparent Mood)
+                                        Praise the gem  NORMAL END (How to Qualify)
+                                    Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                            Ruby
+                                Corundum
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Quartz
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Silica
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Time's up
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                I want to know what you think.
+                    If you don't have it, you don't need it.
+                        This is your beginning.  TRUE END (Nice to meet you)
+                        This is a new beginning.
+                            Sapphire
+                                Give it a try
+                                    It's a way to get to know each other faster.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                    It's a form of communication.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                Let's DIY.
+                                    Cool it slowly after applying heat
+                                        Praise Mayuri  HAPPY END (Transparent Mood)
+                                        Praise the gem  NORMAL END (How to Qualify)
+                                    Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                            Ruby
+                                Corundum
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Quartz
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Silica
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Time's up
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                    If that's the case, we'll start now.
+                        Ask Mayuri to feed the doves  HIDDEN END (Girl and Pigeon)
+                        Let's feed the doves together  NORMAL END (Bell Rings)
+        Where do you want to go?
+            What nice weather today!
+                It's a way to get to know each other faster.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+                It's a form of communication.
+                    Do you like this world?
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    Mayuri, do you like mankind?
+                        Let's get along like friends.  TRUE END (Nice to meet you)
+                        Let's get along like humans.  BAD END (Teasing)
+            Why don't we go to the park?
+                Mayuri never talks about herself.
+                    I like you
+                        Please believe me.  NORMAL END (Bell Rings)
+                        Love needs no reason.  BAD END (Teasing)
+                    I want to know you more.
+                        This is your beginning.  TRUE END (Nice to meet you)
+                        This is a new beginning.
+                            Sapphire
+                                Give it a try
+                                    It's a way to get to know each other faster.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                    It's a form of communication.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                Let's DIY.
+                                    Cool it slowly after applying heat
+                                        Praise Mayuri  HAPPY END (Transparent Mood)
+                                        Praise the gem  NORMAL END (How to Qualify)
+                                    Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                            Ruby
+                                Corundum
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Quartz
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Silica
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Time's up
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                I want to know what you think.
+                    If you don't have it, you don't need it.
+                        This is your beginning.  TRUE END (Nice to meet you)
+                        This is a new beginning.
+                            Sapphire
+                                Give it a try
+                                    It's a way to get to know each other faster.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                    It's a form of communication.
+                                        Do you like this world?
+                                            Please believe me.  NORMAL END (Bell Rings)
+                                            Love needs no reason.  BAD END (Teasing)
+                                        Mayuri, do you like mankind?
+                                            Let's get along like friends.  TRUE END (Nice to meet you)
+                                            Let's get along like humans.  BAD END (Teasing)
+                                Let's DIY.
+                                    Cool it slowly after applying heat
+                                        Praise Mayuri  HAPPY END (Transparent Mood)
+                                        Praise the gem  NORMAL END (How to Qualify)
+                                    Cool it quickly after applying heat  TRUE END (Will we meet again?)
+                            Ruby
+                                Corundum
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Quartz
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Silica
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                Time's up
+                                    Asia
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Europe
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    North America
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                                    Time's up
+                                        Be cocky  NORMAL END (How to Qualify)
+                                        Be humble  TRUE END (Will we meet again?)
+                    If that's the case, we'll start now.
+                        Ask Mayuri to feed the doves  HIDDEN END (Girl and Pigeon)
+                        Let's feed the doves together  NORMAL END (Bell Rings)
+
+All Routes for scripts 9101006

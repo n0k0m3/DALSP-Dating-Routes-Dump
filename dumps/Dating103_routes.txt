@@ -136,10 +136,10 @@ All Routes for scripts 2103002
         How about I carry you in my arms to the doll shop, Yoshino?
             Yeah, it's really heavy, like I'm holding the entire world.
                 Let's customize a doll that you like best, Yoshino.
-                    Then I'll order a super sized doll for you, Yoshino.
+                    Then I'll order a super-sized doll for you, Yoshino.
                         Measure Yoshinon's size together with her.  HIDDEN END (Giant Yoshinon)
                         Take off Yoshinon and measure her size.  NORMAL END (Unexpected Doll)
-                    Cleaning a super sized doll would be tricky.
+                    Cleaning a super-sized doll would be tricky.
                         Raise hands up and surrender.
                             How about that gray Angora rabbit?
                                 Ask Kotori for help.  HAPPY END (Return with Full Hands)
@@ -328,10 +328,10 @@ All Routes for scripts 2103002
                                 Because you are the oasis of my mind, Yoshino.  HAPPY END (Oasis of Mind)
             Not at all. You're light, Yoshino.
                 Let's customize a doll that you like best, Yoshino.
-                    Then I'll order a super sized doll for you, Yoshino.
+                    Then I'll order a super-sized doll for you, Yoshino.
                         Measure Yoshinon's size together with her.  HIDDEN END (Giant Yoshinon)
                         Take off Yoshinon and measure her size.  NORMAL END (Unexpected Doll)
-                    Cleaning a super sized doll would be tricky.
+                    Cleaning a super-sized doll would be tricky.
                         Raise hands up and surrender.
                             How about that gray Angora rabbit?
                                 Ask Kotori for help.  HAPPY END (Return with Full Hands)
@@ -653,10 +653,10 @@ All Routes for scripts 2103002
             Once I've learned how to cast spells, I'll summon a pumpkin coach for you. Is this okay for you, Yoshino?
                 Yeah, it's really heavy, like I'm holding the entire world.
                     Let's customize a doll that you like best, Yoshino.
-                        Then I'll order a super sized doll for you, Yoshino.
+                        Then I'll order a super-sized doll for you, Yoshino.
                             Measure Yoshinon's size together with her.  HIDDEN END (Giant Yoshinon)
                             Take off Yoshinon and measure her size.  NORMAL END (Unexpected Doll)
-                        Cleaning a super sized doll would be tricky.
+                        Cleaning a super-sized doll would be tricky.
                             Raise hands up and surrender.
                                 How about that gray Angora rabbit?
                                     Ask Kotori for help.  HAPPY END (Return with Full Hands)
@@ -845,10 +845,10 @@ All Routes for scripts 2103002
                                     Because you are the oasis of my mind, Yoshino.  HAPPY END (Oasis of Mind)
                 Not at all. You're light, Yoshino.
                     Let's customize a doll that you like best, Yoshino.
-                        Then I'll order a super sized doll for you, Yoshino.
+                        Then I'll order a super-sized doll for you, Yoshino.
                             Measure Yoshinon's size together with her.  HIDDEN END (Giant Yoshinon)
                             Take off Yoshinon and measure her size.  NORMAL END (Unexpected Doll)
-                        Cleaning a super sized doll would be tricky.
+                        Cleaning a super-sized doll would be tricky.
                             Raise hands up and surrender.
                                 How about that gray Angora rabbit?
                                     Ask Kotori for help.  HAPPY END (Return with Full Hands)
@@ -1170,10 +1170,10 @@ All Routes for scripts 2103002
             Once I've learned how to cast spells, I'll summon a pumpkin coach for you. Is this okay for you, Yoshino?
                 Yeah, it's really heavy, like I'm holding the entire world.
                     Let's customize a doll that you like best, Yoshino.
-                        Then I'll order a super sized doll for you, Yoshino.
+                        Then I'll order a super-sized doll for you, Yoshino.
                             Measure Yoshinon's size together with her.  HIDDEN END (Giant Yoshinon)
                             Take off Yoshinon and measure her size.  NORMAL END (Unexpected Doll)
-                        Cleaning a super sized doll would be tricky.
+                        Cleaning a super-sized doll would be tricky.
                             Raise hands up and surrender.
                                 How about that gray Angora rabbit?
                                     Ask Kotori for help.  HAPPY END (Return with Full Hands)
@@ -1362,10 +1362,10 @@ All Routes for scripts 2103002
                                     Because you are the oasis of my mind, Yoshino.  HAPPY END (Oasis of Mind)
                 Not at all. You're light, Yoshino.
                     Let's customize a doll that you like best, Yoshino.
-                        Then I'll order a super sized doll for you, Yoshino.
+                        Then I'll order a super-sized doll for you, Yoshino.
                             Measure Yoshinon's size together with her.  HIDDEN END (Giant Yoshinon)
                             Take off Yoshinon and measure her size.  NORMAL END (Unexpected Doll)
-                        Cleaning a super sized doll would be tricky.
+                        Cleaning a super-sized doll would be tricky.
                             Raise hands up and surrender.
                                 How about that gray Angora rabbit?
                                     Ask Kotori for help.  HAPPY END (Return with Full Hands)

@@ -1012,7 +1012,7 @@ All Routes for scripts 2102005
                             If there is a conflict, I hope you don't hurt those who are without Spirit powers  BAD END (Leave for Jealousy)
                         Do it here, hurry up, there's nothing to hide.  HAPPY END (Right Way to Apply Lotion)
                     Because something unexpected might happen if I lost control...  HAPPY END (Right Way to Apply Lotion)
-            A skin care product that prevent your skin from sunburn
+            A skin care product that prevents your skin from sunburn
                 Are you sure?
                     I really can't...
                         Because I don't like this posture  NORMAL END (Change Pose Next Time)
@@ -1114,7 +1114,7 @@ All Routes for scripts 2102005
                             If there is a conflict, I hope you don't hurt those who are without Spirit powers  BAD END (Leave for Jealousy)
                         Do it here, hurry up, there's nothing to hide.  HAPPY END (Right Way to Apply Lotion)
                     Because something unexpected might happen if I lost control...  HAPPY END (Right Way to Apply Lotion)
-            A skin care product that prevent your skin from sunburn
+            A skin care product that prevents your skin from sunburn
                 Are you sure?
                     I really can't...
                         Because I don't like this posture  NORMAL END (Change Pose Next Time)
@@ -1216,7 +1216,7 @@ All Routes for scripts 2102005
                             If there is a conflict, I hope you don't hurt those who are without Spirit powers  BAD END (Leave for Jealousy)
                         Do it here, hurry up, there's nothing to hide.  HAPPY END (Right Way to Apply Lotion)
                     Because something unexpected might happen if I lost control...  HAPPY END (Right Way to Apply Lotion)
-            A skin care product that prevent your skin from sunburn
+            A skin care product that prevents your skin from sunburn
                 Are you sure?
                     I really can't...
                         Because I don't like this posture  NORMAL END (Change Pose Next Time)
@@ -1957,17 +1957,17 @@ All Routes for scripts 2102004
                         Origami is already much better than me.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                     We can make it by ourselves, according to the manual.
                         Origami, wait a minute!
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         Hold Origami's hand
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                 Because there are gentle flowers behind the cold glass.
                     Then we will buy this one!
                         Wait... I want to keep one.  NORMAL END (Sincere Thanks)
@@ -2003,34 +2003,34 @@ All Routes for scripts 2102004
                         Origami is already much better than me.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                     We can make it by ourselves, according to the manual.
                         Origami, wait a minute!
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         Hold Origami's hand
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                 Which one do you prefer, Origami?
                     We will be counting on you, owner.
                         Origami is Origami, there is no need to compare with others.  TRUE END (Zero Distance Temperature)
                         Origami is already much better than me.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                     We can make it by ourselves, according to the manual.
                         Origami, wait a minute!
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         Hold Origami's hand
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
         Like it because it's special... hmm, you could say that.
             The process seems complicated, perhaps it's better to buy finished product directly.
                 Then we will buy this one!
@@ -2067,34 +2067,34 @@ All Routes for scripts 2102004
                         Origami is already much better than me.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                     We can make it by ourselves, according to the manual.
                         Origami, wait a minute!
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         Hold Origami's hand
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                 Which one do you prefer, Origami?
                     We will be counting on you, owner.
                         Origami is Origami, there is no need to compare with others.  TRUE END (Zero Distance Temperature)
                         Origami is already much better than me.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                     We can make it by ourselves, according to the manual.
                         Origami, wait a minute!
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         Hold Origami's hand
                             Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                            Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                            Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
     I was looking at the tied bouquet.
         Snapdragon
             After all, the snapdragon reminds me of...
@@ -2211,17 +2211,17 @@ All Routes for scripts 2102004
                             Origami is already much better than me.
                                 Origami, wait a minute!
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                                 Hold Origami's hand
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         We can make it by ourselves, according to the manual.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                     Because there are gentle flowers behind the cold glass.
                         Then we will buy this one!
                             Wait... I want to keep one.  NORMAL END (Sincere Thanks)
@@ -2257,34 +2257,34 @@ All Routes for scripts 2102004
                             Origami is already much better than me.
                                 Origami, wait a minute!
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                                 Hold Origami's hand
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         We can make it by ourselves, according to the manual.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                     Which one do you prefer, Origami?
                         We will be counting on you, owner.
                             Origami is Origami, there is no need to compare with others.  TRUE END (Zero Distance Temperature)
                             Origami is already much better than me.
                                 Origami, wait a minute!
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                                 Hold Origami's hand
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         We can make it by ourselves, according to the manual.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
             Like it because it's special... hmm, you could say that.
                 The process seems complicated, perhaps it's better to buy finished product directly.
                     Then we will buy this one!
@@ -2321,34 +2321,34 @@ All Routes for scripts 2102004
                             Origami is already much better than me.
                                 Origami, wait a minute!
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                                 Hold Origami's hand
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         We can make it by ourselves, according to the manual.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                     Which one do you prefer, Origami?
                         We will be counting on you, owner.
                             Origami is Origami, there is no need to compare with others.  TRUE END (Zero Distance Temperature)
                             Origami is already much better than me.
                                 Origami, wait a minute!
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                                 Hold Origami's hand
                                     Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                    Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                    Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                         We can make it by ourselves, according to the manual.
                             Origami, wait a minute!
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
                             Hold Origami's hand
                                 Origami is working so hard, I can't stay out of it...  TRUE END (Witness of Bonds)
-                                Sorry, I took hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
+                                Sorry, I hold Origami's hand before I knew it...  TRUE END (Zero Distance Temperature)
         I prefer fresh flowers.
             Snapdragon
                 After all, the snapdragon reminds me of...
