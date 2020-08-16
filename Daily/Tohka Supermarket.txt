@@ -14,7 +14,7 @@ TRUE END       Love for You
 Let's do as Tohka said today
 There are many delicious foods in the supermarket too ~
 We will go home as soon as we have bought the fish!
-There are room for improvement, Tohka...
+There is room for improvement, Tohka...
 
 NORMAL END     Unique Taste
 Let's do as Tohka said today
@@ -27,14 +27,14 @@ NORMAL END     It's my duty to protect Tohka
 Let's do as Tohka said today
 Then we should wait here.
 But only kids would sit there...
-Stop the shopping cart
+Stop the trolley
 I'm not afraid of Tohka causing trouble
 
 NORMAL END     Protect Tohka's smile
 Let's do as Tohka said today
 Then we should wait here.
 But only kids would sit there...
-Stop the shopping cart
+Stop the trolley
 I don't consider things like this to be trouble
 
 BAD END        Failed to buy ingredient

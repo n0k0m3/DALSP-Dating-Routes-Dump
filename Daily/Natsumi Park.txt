@@ -24,7 +24,7 @@ That should be me
 
 NORMAL END     How to Get Along
 Run out in panic
-Put hand on waist and get up slowly
+Put hands on waist and get up slowly
 Politely refuse Natsumi
 I'll give you whatever you want, Natsumi
 I can play with you all the time
@@ -45,7 +45,7 @@ This isn't the right way to get along
 
 BAD END        Runaway
 Run out in panic
-Put hand on waist and get up slowly
+Put hands on waist and get up slowly
 Politely refuse Natsumi
 Promise Natsumi anything
 Teach Natsumi

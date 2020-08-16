@@ -1,7 +1,7 @@
 HAPPY END      Right Way to Apply Lotion
 Let Origami hold my hand
 The sunlight is too dazzling now, I'll go swim later.
-A skin care product that prevent your skin from sunburn
+A skin care product that prevents your skin from sunburn
 Origami, you can apply it yourself.
 Because something unexpected might happen if I lost control...
 
@@ -43,14 +43,14 @@ Pink laced girlish style should be suitable
 NORMAL END     Change Pose Next Time
 Let Origami hold my hand
 The sunlight is too dazzling now, I'll go swim later.
-A skin care product that prevent your skin from sunburn
+A skin care product that prevents your skin from sunburn
 Origami, you can apply it yourself.
 Because I don't like this posture
 
 NORMAL END     Odd Way to Apply Lotion?
 Let Origami hold my hand
 The sunlight is too dazzling now, I'll go swim later.
-A skin care product that prevent your skin from sunburn
+A skin care product that prevents your skin from sunburn
 Are you sure?
 Do what Origami asks
 Please spare me this torture.

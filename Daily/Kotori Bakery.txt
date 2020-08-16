@@ -1,7 +1,7 @@
 HAPPY END      Kotori's Swoop
 However, is it wrong to want to date Kotori?
 I want to protect Kotori
-Kotori didn't believe me. It hurts
+Kotori didn't believe me, it makes me sad
 Ah? At this hour? Who could it be?
 Long time no see
 
@@ -44,7 +44,7 @@ I was wrong, I'll try my best not to disobey you in future
 BAD END        Quarrel
 However, is it wrong to want to date Kotori?
 I want to protect Kotori
-Kotori didn't believe me. It hurts
+Kotori didn't believe me, it makes me sad
 Such a terrible emergency is unimaginable!
 Why have you come here, Mana?
 Girls, please get along...
@@ -52,7 +52,7 @@ Girls, please get along...
 BAD END        Hard to choose
 However, is it wrong to want to date Kotori?
 I want to protect Kotori
-Kotori didn't believe me. It hurts
+Kotori didn't believe me, it makes me sad
 Such a terrible emergency is unimaginable!
 Why haven't I see Mana recently?
 You need to take care of yourself, Mana

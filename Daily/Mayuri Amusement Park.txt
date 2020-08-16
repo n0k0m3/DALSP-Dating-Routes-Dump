@@ -9,7 +9,7 @@ HAPPY END      Touch dolphin
 Ask what's in her hands
 Something romantic!
 The aquarium
-There's other types of fish up ahead!
+There are other types of fish up ahead!
 Everyone's going that way...
 
 HAPPY END      Wish for that day to come
@@ -38,7 +38,7 @@ NORMAL END     Plan the next date
 Ask what's in her hands
 Something romantic!
 The aquarium
-There's other types of fish up ahead!
+There are other types of fish up ahead!
 There's a lot more of fun things for you to discover.
 
 NORMAL END     Heart Pounds

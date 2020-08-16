@@ -33,7 +33,7 @@ Then I'll make it up with a kiss!
 How about I carry you in my arms to the doll shop, Yoshino?
 Not at all. You're light, Yoshino.
 Let's customize a doll that you like best, Yoshino.
-Then I'll order a super sized doll for you, Yoshino.
+Then I'll order a super-sized doll for you, Yoshino.
 Take off Yoshinon and measure her size.
 
 NORMAL END     Doll's New Master
@@ -55,7 +55,7 @@ Then I'll make it up with a kiss!
 How about I carry you in my arms to the doll shop, Yoshino?
 Not at all. You're light, Yoshino.
 Let's customize a doll that you like best, Yoshino.
-Cleaning a super sized doll would be tricky.
+Cleaning a super-sized doll would be tricky.
 Explain with patience.
 
 HIDDEN END     Giant Yoshinon
@@ -63,6 +63,6 @@ Then I'll make it up with a kiss!
 How about I carry you in my arms to the doll shop, Yoshino?
 Not at all. You're light, Yoshino.
 Let's customize a doll that you like best, Yoshino.
-Then I'll order a super sized doll for you, Yoshino.
+Then I'll order a super-sized doll for you, Yoshino.
 Measure Yoshinon's size together with her.
 
