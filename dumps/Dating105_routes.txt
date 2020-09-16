@@ -27,7 +27,7 @@ All Routes for scripts 2105003
                     I go and have a look, Kotori continues to look for the book
                         Call Kotori's name First  HAPPY END (Sister's Swoop)
                         Open the lockers one by one  NORMAL END (Scorpion Hairpin)
-                    Kotori goes and have a look, I continue to look for the book
+                    Kotori goes to take a look, I continue to look for the book
                         Something doesn't add up  NORMAL END (All for Nothing)
                         It's a ghost, run
                             Run downstairs
@@ -133,7 +133,7 @@ All Routes for scripts 2105003
                     I go and have a look, Kotori continues to look for the book
                         Call Kotori's name First  HAPPY END (Sister's Swoop)
                         Open the lockers one by one  NORMAL END (Scorpion Hairpin)
-                    Kotori goes and have a look, I continue to look for the book
+                    Kotori goes to take a look, I continue to look for the book
                         Something doesn't add up  NORMAL END (All for Nothing)
                         It's a ghost, run
                             Run downstairs
@@ -239,7 +239,7 @@ All Routes for scripts 2105003
                     I go and have a look, Kotori continues to look for the book
                         Call Kotori's name First  HAPPY END (Sister's Swoop)
                         Open the lockers one by one  NORMAL END (Scorpion Hairpin)
-                    Kotori goes and have a look, I continue to look for the book
+                    Kotori goes to take a look, I continue to look for the book
                         Something doesn't add up  NORMAL END (All for Nothing)
                         It's a ghost, run
                             Run downstairs
@@ -346,7 +346,7 @@ All Routes for scripts 2105003
                     I go and have a look, Kotori continues to look for the book
                         Call Kotori's name First  HAPPY END (Sister's Swoop)
                         Open the lockers one by one  NORMAL END (Scorpion Hairpin)
-                    Kotori goes and have a look, I continue to look for the book
+                    Kotori goes to take a look, I continue to look for the book
                         Something doesn't add up  NORMAL END (All for Nothing)
                         It's a ghost, run
                             Run downstairs
@@ -452,7 +452,7 @@ All Routes for scripts 2105003
                     I go and have a look, Kotori continues to look for the book
                         Call Kotori's name First  HAPPY END (Sister's Swoop)
                         Open the lockers one by one  NORMAL END (Scorpion Hairpin)
-                    Kotori goes and have a look, I continue to look for the book
+                    Kotori goes to take a look, I continue to look for the book
                         Something doesn't add up  NORMAL END (All for Nothing)
                         It's a ghost, run
                             Run downstairs
@@ -558,7 +558,7 @@ All Routes for scripts 2105003
                     I go and have a look, Kotori continues to look for the book
                         Call Kotori's name First  HAPPY END (Sister's Swoop)
                         Open the lockers one by one  NORMAL END (Scorpion Hairpin)
-                    Kotori goes and have a look, I continue to look for the book
+                    Kotori goes to take a look, I continue to look for the book
                         Something doesn't add up  NORMAL END (All for Nothing)
                         It's a ghost, run
                             Run downstairs
