@@ -1696,7 +1696,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1707,7 +1707,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1718,7 +1718,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1729,7 +1729,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1741,7 +1741,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1752,7 +1752,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1763,7 +1763,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1774,7 +1774,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1786,7 +1786,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1797,7 +1797,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1808,7 +1808,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1819,7 +1819,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1831,7 +1831,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1842,7 +1842,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1853,7 +1853,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1864,7 +1864,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1877,7 +1877,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1888,7 +1888,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1899,7 +1899,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1910,7 +1910,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1922,7 +1922,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1933,7 +1933,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1944,7 +1944,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1955,7 +1955,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1967,7 +1967,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1978,7 +1978,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -1989,7 +1989,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2000,7 +2000,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2012,7 +2012,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2023,7 +2023,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2034,7 +2034,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2045,7 +2045,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2058,7 +2058,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2069,7 +2069,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2080,7 +2080,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2091,7 +2091,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2103,7 +2103,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2114,7 +2114,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2125,7 +2125,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2136,7 +2136,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2148,7 +2148,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2159,7 +2159,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2170,7 +2170,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2181,7 +2181,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2193,7 +2193,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2204,7 +2204,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2215,7 +2215,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2226,7 +2226,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2239,7 +2239,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2250,7 +2250,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2261,7 +2261,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2272,7 +2272,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2284,7 +2284,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2295,7 +2295,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2306,7 +2306,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2317,7 +2317,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2329,7 +2329,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2340,7 +2340,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2351,7 +2351,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2362,7 +2362,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2374,7 +2374,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2385,7 +2385,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2396,7 +2396,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2407,7 +2407,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2430,7 +2430,7 @@ All Routes for scripts 2103003
                             Demon King  NORMAL END (Realistic Acting)
                             Villager  HAPPY END (Warrior Yoshino)
                         Villager Yoshino
-                            Demon King  NORMAL END (Realistic Acting)
+                            Demon King  TRUE END (Curtain Call)
                             Warrior.  TRUE END (Curtain Call)
                         Demon King Yoshino
                             Attack her head.  BAD END (Screwed Up)
@@ -2441,7 +2441,7 @@ All Routes for scripts 2103003
                             Demon King  NORMAL END (Realistic Acting)
                             Villager  HAPPY END (Warrior Yoshino)
                         Villager Yoshino
-                            Demon King  NORMAL END (Realistic Acting)
+                            Demon King  TRUE END (Curtain Call)
                             Warrior.  TRUE END (Curtain Call)
                         Demon King Yoshino
                             Attack her head.  BAD END (Screwed Up)
@@ -2464,7 +2464,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -2475,7 +2475,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -2491,7 +2491,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2502,7 +2502,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2513,7 +2513,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2524,7 +2524,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2536,7 +2536,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2547,7 +2547,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2558,7 +2558,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2569,7 +2569,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2581,7 +2581,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2592,7 +2592,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2603,7 +2603,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2614,7 +2614,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2626,7 +2626,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2637,7 +2637,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2648,7 +2648,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2659,7 +2659,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2672,7 +2672,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2683,7 +2683,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2694,7 +2694,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2705,7 +2705,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2717,7 +2717,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2728,7 +2728,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2739,7 +2739,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2750,7 +2750,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2762,7 +2762,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2773,7 +2773,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2784,7 +2784,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2795,7 +2795,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2807,7 +2807,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2818,7 +2818,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2829,7 +2829,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2840,7 +2840,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2853,7 +2853,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2864,7 +2864,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2875,7 +2875,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2886,7 +2886,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2898,7 +2898,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2909,7 +2909,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2920,7 +2920,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2931,7 +2931,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2943,7 +2943,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2954,7 +2954,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2965,7 +2965,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2976,7 +2976,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2988,7 +2988,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -2999,7 +2999,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3010,7 +3010,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3021,7 +3021,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3034,7 +3034,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3045,7 +3045,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3056,7 +3056,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3067,7 +3067,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3079,7 +3079,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3090,7 +3090,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3101,7 +3101,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3112,7 +3112,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3124,7 +3124,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3135,7 +3135,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3146,7 +3146,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3157,7 +3157,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3169,7 +3169,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3180,7 +3180,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3191,7 +3191,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3202,7 +3202,7 @@ All Routes for scripts 2103003
                                     Demon King  NORMAL END (Realistic Acting)
                                     Villager  HAPPY END (Warrior Yoshino)
                                 Villager Yoshino
-                                    Demon King  NORMAL END (Realistic Acting)
+                                    Demon King  TRUE END (Curtain Call)
                                     Warrior.  TRUE END (Curtain Call)
                                 Demon King Yoshino
                                     Attack her head.  BAD END (Screwed Up)
@@ -3225,7 +3225,7 @@ All Routes for scripts 2103003
                             Demon King  NORMAL END (Realistic Acting)
                             Villager  HAPPY END (Warrior Yoshino)
                         Villager Yoshino
-                            Demon King  NORMAL END (Realistic Acting)
+                            Demon King  TRUE END (Curtain Call)
                             Warrior.  TRUE END (Curtain Call)
                         Demon King Yoshino
                             Attack her head.  BAD END (Screwed Up)
@@ -3236,7 +3236,7 @@ All Routes for scripts 2103003
                             Demon King  NORMAL END (Realistic Acting)
                             Villager  HAPPY END (Warrior Yoshino)
                         Villager Yoshino
-                            Demon King  NORMAL END (Realistic Acting)
+                            Demon King  TRUE END (Curtain Call)
                             Warrior.  TRUE END (Curtain Call)
                         Demon King Yoshino
                             Attack her head.  BAD END (Screwed Up)
@@ -3259,7 +3259,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -3270,7 +3270,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -3286,7 +3286,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3297,7 +3297,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3308,7 +3308,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3319,7 +3319,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3331,7 +3331,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3342,7 +3342,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3353,7 +3353,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3364,7 +3364,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3376,7 +3376,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3387,7 +3387,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3398,7 +3398,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3409,7 +3409,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3421,7 +3421,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3432,7 +3432,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3443,7 +3443,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3454,7 +3454,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3467,7 +3467,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3478,7 +3478,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3489,7 +3489,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3500,7 +3500,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3512,7 +3512,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3523,7 +3523,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3534,7 +3534,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3545,7 +3545,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3557,7 +3557,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3568,7 +3568,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3579,7 +3579,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3590,7 +3590,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3602,7 +3602,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3613,7 +3613,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3624,7 +3624,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3635,7 +3635,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3648,7 +3648,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3659,7 +3659,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3670,7 +3670,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3681,7 +3681,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3693,7 +3693,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3704,7 +3704,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3715,7 +3715,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3726,7 +3726,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3738,7 +3738,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3749,7 +3749,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3760,7 +3760,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3771,7 +3771,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3783,7 +3783,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3794,7 +3794,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3805,7 +3805,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3816,7 +3816,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3829,7 +3829,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3840,7 +3840,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3851,7 +3851,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3862,7 +3862,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3874,7 +3874,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3885,7 +3885,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3896,7 +3896,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3907,7 +3907,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3919,7 +3919,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3930,7 +3930,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3941,7 +3941,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3952,7 +3952,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3964,7 +3964,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3975,7 +3975,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3986,7 +3986,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -3997,7 +3997,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4020,7 +4020,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -4031,7 +4031,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -4043,7 +4043,7 @@ All Routes for scripts 2103003
                     Demon King  NORMAL END (Realistic Acting)
                     Villager  HAPPY END (Warrior Yoshino)
                 Villager Yoshino
-                    Demon King  NORMAL END (Realistic Acting)
+                    Demon King  TRUE END (Curtain Call)
                     Warrior.  TRUE END (Curtain Call)
                 Demon King Yoshino
                     Attack her head.  BAD END (Screwed Up)
@@ -4066,7 +4066,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -4077,7 +4077,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -4093,7 +4093,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4104,7 +4104,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4115,7 +4115,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4126,7 +4126,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4138,7 +4138,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4149,7 +4149,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4160,7 +4160,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4171,7 +4171,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4183,7 +4183,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4194,7 +4194,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4205,7 +4205,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4216,7 +4216,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4228,7 +4228,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4239,7 +4239,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4250,7 +4250,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4261,7 +4261,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4274,7 +4274,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4285,7 +4285,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4296,7 +4296,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4307,7 +4307,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4319,7 +4319,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4330,7 +4330,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4341,7 +4341,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4352,7 +4352,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4364,7 +4364,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4375,7 +4375,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4386,7 +4386,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4397,7 +4397,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4409,7 +4409,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4420,7 +4420,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4431,7 +4431,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4442,7 +4442,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4455,7 +4455,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4466,7 +4466,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4477,7 +4477,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4488,7 +4488,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4500,7 +4500,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4511,7 +4511,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4522,7 +4522,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4533,7 +4533,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4545,7 +4545,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4556,7 +4556,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4567,7 +4567,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4578,7 +4578,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4590,7 +4590,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4601,7 +4601,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4612,7 +4612,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4623,7 +4623,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4636,7 +4636,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4647,7 +4647,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4658,7 +4658,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4669,7 +4669,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4681,7 +4681,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4692,7 +4692,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4703,7 +4703,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4714,7 +4714,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4726,7 +4726,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4737,7 +4737,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4748,7 +4748,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4759,7 +4759,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4771,7 +4771,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4782,7 +4782,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4793,7 +4793,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4804,7 +4804,7 @@ All Routes for scripts 2103003
                                 Demon King  NORMAL END (Realistic Acting)
                                 Villager  HAPPY END (Warrior Yoshino)
                             Villager Yoshino
-                                Demon King  NORMAL END (Realistic Acting)
+                                Demon King  TRUE END (Curtain Call)
                                 Warrior.  TRUE END (Curtain Call)
                             Demon King Yoshino
                                 Attack her head.  BAD END (Screwed Up)
@@ -4827,7 +4827,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -4838,7 +4838,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -4850,7 +4850,7 @@ All Routes for scripts 2103003
                     Demon King  NORMAL END (Realistic Acting)
                     Villager  HAPPY END (Warrior Yoshino)
                 Villager Yoshino
-                    Demon King  NORMAL END (Realistic Acting)
+                    Demon King  TRUE END (Curtain Call)
                     Warrior.  TRUE END (Curtain Call)
                 Demon King Yoshino
                     Attack her head.  BAD END (Screwed Up)
@@ -4873,7 +4873,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
@@ -4884,7 +4884,7 @@ All Routes for scripts 2103003
                         Demon King  NORMAL END (Realistic Acting)
                         Villager  HAPPY END (Warrior Yoshino)
                     Villager Yoshino
-                        Demon King  NORMAL END (Realistic Acting)
+                        Demon King  TRUE END (Curtain Call)
                         Warrior.  TRUE END (Curtain Call)
                     Demon King Yoshino
                         Attack her head.  BAD END (Screwed Up)
