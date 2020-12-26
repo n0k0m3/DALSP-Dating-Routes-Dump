@@ -407,6 +407,241 @@ All Routes for scripts 2104002
                             Why does Kurumi know so much about cats?  TRUE END (There is only one truth!)
                             Why did that cat suddenly become big?  HAPPY END (Bell Cat)
 
+All Routes for scripts 2104004
+    Search near the Shrine entrance.
+        Kurumi, let's hang a prayer stick for good luck.
+            I hear there's a great food street nearby.
+                If you want to have a full meal, ramen is the best choice.
+                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
+                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
+                Eat takoyaki
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+                But as long as I'm not on the menu.
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+            Come back tomorrow.
+                If you want to have a full meal, ramen is the best choice.
+                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
+                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
+                Eat takoyaki
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+                But as long as I'm not on the menu.
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+        Ask a monk with the gift of prophecy.
+            I hear there's a great food street nearby.
+                If you want to have a full meal, ramen is the best choice.
+                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
+                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
+                Eat takoyaki
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+                But as long as I'm not on the menu.
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+            Come back tomorrow.
+                If you want to have a full meal, ramen is the best choice.
+                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
+                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
+                Eat takoyaki
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+                But as long as I'm not on the menu.
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+        Have you considered drawing fortune sticks?
+            Red stick
+                This is it! Open it up!
+                    Why don't we use a crowbar to open it?  NORMAL END (Brush Past the Treasures)
+                    Destroy the box with weapons.  NORMAL END (Brush Past the Treasures)
+                    Use Yud to explore the chest's memories.  HIDDEN END (Thanks for Finding It for Me)
+                It looks suspicious, inspect further.
+                    Maybe we should wait until morning.  NORMAL END (Brush Past the Treasures)
+                    Looks like it's sealing a terrible demon.  BAD END (Busy for Nothing)
+                    Make up a scary story to scare Kurumi  BAD END (Busy for Nothing)
+                Tap on the ground tile first.
+                    Maybe we should wait until morning.  NORMAL END (Brush Past the Treasures)
+                    Looks like it's sealing a terrible demon.  BAD END (Busy for Nothing)
+                    Make up a scary story to scare Kurumi  BAD END (Busy for Nothing)
+            Yellow stick
+                Push Kurumi up against the wall and cover her face
+                Hide her face with a kiss  HAPPY END (Sweet Date)
+                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
+            Purple stick
+                You're just as indecipherable
+                    Kurumi is a little scary  BAD END (Scary Kurumi)
+                    I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
+                Even if you are a fairy girl, I'll still go on a date with you.
+                    I would love another date  NORMAL END (Get Teased Instead)
+                    Think about it  BAD END (Scary Kurumi)
+                Kurumi is cuter than the fairy girl.
+                    I would love another date  NORMAL END (Get Teased Instead)
+                    Think about it  BAD END (Scary Kurumi)
+    Look inside the shrine.
+        Open the scary old window.
+            Dash forward with speed.
+                Push Kurumi up against the wall and cover her face
+                Hide her face with a kiss  HAPPY END (Sweet Date)
+                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
+            Walk lightly on tip-toes.
+                Push Kurumi up against the wall and cover her face
+                Hide her face with a kiss  HAPPY END (Sweet Date)
+                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
+            Crawl with all limbs on the ground
+                Don't give up, try to climb out
+                    Keep searching  TRUE END (Fruit of Hard Work)
+                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
+                Stop struggling and fall into the whole
+                    Keep searching  TRUE END (Fruit of Hard Work)
+                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
+            Walk horizontally like a crab
+                Don't give up, try to climb out
+                    Keep searching  TRUE END (Fruit of Hard Work)
+                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
+                Stop struggling and fall into the whole
+                    Keep searching  TRUE END (Fruit of Hard Work)
+                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
+        Search behind the deity statue.
+            Tell her the god is angry and we need to leave.
+                If you want to have a full meal, ramen is the best choice.
+                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
+                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
+                Eat takoyaki
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+                But as long as I'm not on the menu.
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+            The voice is suspicious, but searching for the object is more important.
+                There's something suspicious about the things piled nearby.
+                    Try washing it clean.  TRUE END (Mysterious Date Started)
+                    Useless old cloth  BAD END (Busy for Nothing)
+                There's light at the end of the passage, let's check it out.
+                    Try washing it clean.  TRUE END (Mysterious Date Started)
+                    Useless old cloth  BAD END (Busy for Nothing)
+            Walk up behind Kurumi and try to scare her.
+                If you want to have a full meal, ramen is the best choice.
+                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
+                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
+                Eat takoyaki
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+                But as long as I'm not on the menu.
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+        Check out the abandoned room.
+            Dash forward with speed.
+                Push Kurumi up against the wall and cover her face
+                Hide her face with a kiss  HAPPY END (Sweet Date)
+                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
+            Walk lightly on tip-toes.
+                Push Kurumi up against the wall and cover her face
+                Hide her face with a kiss  HAPPY END (Sweet Date)
+                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
+            Crawl with all limbs on the ground
+                Don't give up, try to climb out
+                    Keep searching  TRUE END (Fruit of Hard Work)
+                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
+                Stop struggling and fall into the whole
+                    Keep searching  TRUE END (Fruit of Hard Work)
+                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
+            Walk horizontally like a crab
+                Don't give up, try to climb out
+                    Keep searching  TRUE END (Fruit of Hard Work)
+                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
+                Stop struggling and fall into the whole
+                    Keep searching  TRUE END (Fruit of Hard Work)
+                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
+    Search in the courtyard behind the shrine
+        They say flipping a coin to a treasure toad can change your luck.
+            Touch her left hand, waist and right leg.  TRUE END (Wanna Date You Again)
+            Touch her head, stomach and right leg.
+                If you want to have a full meal, ramen is the best choice.
+                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
+                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
+                Eat takoyaki
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+                But as long as I'm not on the menu.
+                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
+                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
+        Why is Kurumi so happy?
+            Maybe what you're looking for is hidden here?
+                Under the rock
+                    Lightly press down  NORMAL END (Come Again Tomorrow)
+                    Forcefully pull it out  TRUE END (Buried Coin)
+                Kurumi looks like a pirate
+                    Lightly press down  NORMAL END (Come Again Tomorrow)
+                    Forcefully pull it out  TRUE END (Buried Coin)
+                Next to the big tree
+                    Lightly press down  NORMAL END (Come Again Tomorrow)
+                    Forcefully pull it out  TRUE END (Buried Coin)
+            Go to the ancient well rumored to show the future under moonlight
+                I see the moon
+                    You're just as indecipherable
+                        Kurumi is a little scary  BAD END (Scary Kurumi)
+                        I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
+                    Even if you are a fairy girl, I'll still go on a date with you.
+                        I would love another date  NORMAL END (Get Teased Instead)
+                        Think about it  BAD END (Scary Kurumi)
+                    Kurumi is cuter than the fairy girl.
+                        I would love another date  NORMAL END (Get Teased Instead)
+                        Think about it  BAD END (Scary Kurumi)
+                I see a strange shadow  BAD END (Scary Kurumi)
+                I see Kurumi
+                    Kurumi is too cute  NORMAL END (Get Teased Instead)
+                    I like Kurumi's underwear  NORMAL END (Get Teased Instead)
+                    I think the atmosphere is a little scary today  BAD END (Scary Kurumi)
+            So, the moon is quite pretty tonight
+                You're just as indecipherable
+                    Kurumi is a little scary  BAD END (Scary Kurumi)
+                    I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
+                Even if you are a fairy girl, I'll still go on a date with you.
+                    I would love another date  NORMAL END (Get Teased Instead)
+                    Think about it  BAD END (Scary Kurumi)
+                Kurumi is cuter than the fairy girl.
+                    I would love another date  NORMAL END (Get Teased Instead)
+                    Think about it  BAD END (Scary Kurumi)
+        Maybe taking a walk by the seaside will bring inspiration
+            Maybe what you're looking for is hidden here?
+                Under the rock
+                    Lightly press down  NORMAL END (Come Again Tomorrow)
+                    Forcefully pull it out  TRUE END (Buried Coin)
+                Kurumi looks like a pirate
+                    Lightly press down  NORMAL END (Come Again Tomorrow)
+                    Forcefully pull it out  TRUE END (Buried Coin)
+                Next to the big tree
+                    Lightly press down  NORMAL END (Come Again Tomorrow)
+                    Forcefully pull it out  TRUE END (Buried Coin)
+            Go to the ancient well rumored to show the future under moonlight
+                I see the moon
+                    You're just as indecipherable
+                        Kurumi is a little scary  BAD END (Scary Kurumi)
+                        I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
+                    Even if you are a fairy girl, I'll still go on a date with you.
+                        I would love another date  NORMAL END (Get Teased Instead)
+                        Think about it  BAD END (Scary Kurumi)
+                    Kurumi is cuter than the fairy girl.
+                        I would love another date  NORMAL END (Get Teased Instead)
+                        Think about it  BAD END (Scary Kurumi)
+                I see a strange shadow  BAD END (Scary Kurumi)
+                I see Kurumi
+                    Kurumi is too cute  NORMAL END (Get Teased Instead)
+                    I like Kurumi's underwear  NORMAL END (Get Teased Instead)
+                    I think the atmosphere is a little scary today  BAD END (Scary Kurumi)
+            So, the moon is quite pretty tonight
+                You're just as indecipherable
+                    Kurumi is a little scary  BAD END (Scary Kurumi)
+                    I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
+                Even if you are a fairy girl, I'll still go on a date with you.
+                    I would love another date  NORMAL END (Get Teased Instead)
+                    Think about it  BAD END (Scary Kurumi)
+                Kurumi is cuter than the fairy girl.
+                    I would love another date  NORMAL END (Get Teased Instead)
+                    Think about it  BAD END (Scary Kurumi)
+
 All Routes for scripts 2104001
     Pretend to be rich and invite Kurumi with the vouchers.
         Does Kurumi like sweets?
@@ -1296,238 +1531,3 @@ All Routes for scripts 2104001
                     Sit and pretend that nothing happened.
                         I ran into Kurumi while buying some kinako bread.  BAD END (Instinct to Escape)
                         Kurumi and I are on a date.  BAD END (He belongs with me)
-
-All Routes for scripts 2104004
-    Search near the Shrine entrance.
-        Kurumi, let's hang a prayer stick for good luck.
-            I hear there's a great food street nearby.
-                If you want to have a full meal, ramen is the best choice.
-                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
-                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
-                Eat takoyaki
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-                But as long as I'm not on the menu.
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-            Come back tomorrow.
-                If you want to have a full meal, ramen is the best choice.
-                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
-                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
-                Eat takoyaki
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-                But as long as I'm not on the menu.
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-        Ask a monk with the gift of prophecy.
-            I hear there's a great food street nearby.
-                If you want to have a full meal, ramen is the best choice.
-                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
-                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
-                Eat takoyaki
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-                But as long as I'm not on the menu.
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-            Come back tomorrow.
-                If you want to have a full meal, ramen is the best choice.
-                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
-                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
-                Eat takoyaki
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-                But as long as I'm not on the menu.
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-        Have you considered drawing fortune sticks?
-            Red stick
-                This is it! Open it up!
-                    Why don't we use a crowbar to open it?  NORMAL END (Brush Past the Treasures)
-                    Destroy the box with weapons.  NORMAL END (Brush Past the Treasures)
-                    Use Yud to explore the chest's memories.  HIDDEN END (Thanks for Finding It for Me)
-                It looks suspicious, inspect further.
-                    Maybe we should wait until morning.  NORMAL END (Brush Past the Treasures)
-                    Looks like it's sealing a terrible demon.  BAD END (Busy for Nothing)
-                    Make up a scary story to scare Kurumi  BAD END (Busy for Nothing)
-                Tap on the ground tile first.
-                    Maybe we should wait until morning.  NORMAL END (Brush Past the Treasures)
-                    Looks like it's sealing a terrible demon.  BAD END (Busy for Nothing)
-                    Make up a scary story to scare Kurumi  BAD END (Busy for Nothing)
-            Yellow stick
-                Push Kurumi up against the wall and cover her face
-                Hide her face with a kiss  HAPPY END (Sweet Date)
-                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
-            Purple stick
-                You're just as indecipherable
-                    Kurumi is a little scary  BAD END (Scary Kurumi)
-                    I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
-                Even if you are a fairy girl, I'll still go on a date with you.
-                    I would love another date  NORMAL END (Get Teased Instead)
-                    Think about it  BAD END (Scary Kurumi)
-                Kurumi is cuter than the fairy girl.
-                    I would love another date  NORMAL END (Get Teased Instead)
-                    Think about it  BAD END (Scary Kurumi)
-    Look inside the shrine.
-        Open the scary old window.
-            Dash forward with speed.
-                Push Kurumi up against the wall and cover her face
-                Hide her face with a kiss  HAPPY END (Sweet Date)
-                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
-            Walk lightly on tip-toes.
-                Push Kurumi up against the wall and cover her face
-                Hide her face with a kiss  HAPPY END (Sweet Date)
-                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
-            Crawl with all limbs on the ground
-                Don't give up, try to climb out
-                    Keep searching  TRUE END (Fruit of Hard Work)
-                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
-                Stop struggling and fall into the whole
-                    Keep searching  TRUE END (Fruit of Hard Work)
-                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
-            Walk horizontally like a crab
-                Don't give up, try to climb out
-                    Keep searching  TRUE END (Fruit of Hard Work)
-                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
-                Stop struggling and fall into the whole
-                    Keep searching  TRUE END (Fruit of Hard Work)
-                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
-        Search behind the deity statue.
-            Tell her the god is angry and we need to leave.
-                If you want to have a full meal, ramen is the best choice.
-                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
-                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
-                Eat takoyaki
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-                But as long as I'm not on the menu.
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-            The voice is suspicious, but searching for the object is more important.
-                There's something suspicious about the things piled nearby.
-                    Try washing it clean.  TRUE END (Mysterious Date Started)
-                    Useless old cloth  BAD END (Busy for Nothing)
-                There's light at the end of the passage, let's check it out.
-                    Try washing it clean.  TRUE END (Mysterious Date Started)
-                    Useless old cloth  BAD END (Busy for Nothing)
-            Walk up behind Kurumi and try to scare her.
-                If you want to have a full meal, ramen is the best choice.
-                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
-                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
-                Eat takoyaki
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-                But as long as I'm not on the menu.
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-        Check out the abandoned room.
-            Dash forward with speed.
-                Push Kurumi up against the wall and cover her face
-                Hide her face with a kiss  HAPPY END (Sweet Date)
-                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
-            Walk lightly on tip-toes.
-                Push Kurumi up against the wall and cover her face
-                Hide her face with a kiss  HAPPY END (Sweet Date)
-                Ask Kotori for help  NORMAL END (Come Again Tomorrow)
-            Crawl with all limbs on the ground
-                Don't give up, try to climb out
-                    Keep searching  TRUE END (Fruit of Hard Work)
-                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
-                Stop struggling and fall into the whole
-                    Keep searching  TRUE END (Fruit of Hard Work)
-                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
-            Walk horizontally like a crab
-                Don't give up, try to climb out
-                    Keep searching  TRUE END (Fruit of Hard Work)
-                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
-                Stop struggling and fall into the whole
-                    Keep searching  TRUE END (Fruit of Hard Work)
-                    Come back tomorrow when the light is better.  BAD END (Busy for Nothing)
-    Search in the courtyard behind the shrine
-        They say flipping a coin to a treasure toad can change your luck.
-            Touch her left hand, waist and right leg.  TRUE END (Wanna Date You Again)
-            Touch her head, stomach and right leg.
-                If you want to have a full meal, ramen is the best choice.
-                    It must taste really bad...I'll go talk to the manager.  NORMAL END (You Are so Sweet)
-                    Maybe my ramen will be up to Kurumi's standards?  HAPPY END (Sweet Date)
-                Eat takoyaki
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-                But as long as I'm not on the menu.
-                    Luckily we haven't gone that far, I'll go back and buy you another one.  NORMAL END (You Are so Sweet)
-                    I haven't eaten any of my takoyaki.  HAPPY END (Sweet Date)
-        Why is Kurumi so happy?
-            Maybe what you're looking for is hidden here?
-                Under the rock
-                    Lightly press down  NORMAL END (Come Again Tomorrow)
-                    Forcefully pull it out  TRUE END (Buried Coin)
-                Kurumi looks like a pirate
-                    Lightly press down  NORMAL END (Come Again Tomorrow)
-                    Forcefully pull it out  TRUE END (Buried Coin)
-                Next to the big tree
-                    Lightly press down  NORMAL END (Come Again Tomorrow)
-                    Forcefully pull it out  TRUE END (Buried Coin)
-            Go to the ancient well rumored to show the future under moonlight
-                I see the moon
-                    You're just as indecipherable
-                        Kurumi is a little scary  BAD END (Scary Kurumi)
-                        I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
-                    Even if you are a fairy girl, I'll still go on a date with you.
-                        I would love another date  NORMAL END (Get Teased Instead)
-                        Think about it  BAD END (Scary Kurumi)
-                    Kurumi is cuter than the fairy girl.
-                        I would love another date  NORMAL END (Get Teased Instead)
-                        Think about it  BAD END (Scary Kurumi)
-                I see a strange shadow  BAD END (Scary Kurumi)
-                I see Kurumi
-                    Kurumi is too cute  NORMAL END (Get Teased Instead)
-                    I like Kurumi's underwear  NORMAL END (Get Teased Instead)
-                    I think the atmosphere is a little scary today  BAD END (Scary Kurumi)
-            So, the moon is quite pretty tonight
-                You're just as indecipherable
-                    Kurumi is a little scary  BAD END (Scary Kurumi)
-                    I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
-                Even if you are a fairy girl, I'll still go on a date with you.
-                    I would love another date  NORMAL END (Get Teased Instead)
-                    Think about it  BAD END (Scary Kurumi)
-                Kurumi is cuter than the fairy girl.
-                    I would love another date  NORMAL END (Get Teased Instead)
-                    Think about it  BAD END (Scary Kurumi)
-        Maybe taking a walk by the seaside will bring inspiration
-            Maybe what you're looking for is hidden here?
-                Under the rock
-                    Lightly press down  NORMAL END (Come Again Tomorrow)
-                    Forcefully pull it out  TRUE END (Buried Coin)
-                Kurumi looks like a pirate
-                    Lightly press down  NORMAL END (Come Again Tomorrow)
-                    Forcefully pull it out  TRUE END (Buried Coin)
-                Next to the big tree
-                    Lightly press down  NORMAL END (Come Again Tomorrow)
-                    Forcefully pull it out  TRUE END (Buried Coin)
-            Go to the ancient well rumored to show the future under moonlight
-                I see the moon
-                    You're just as indecipherable
-                        Kurumi is a little scary  BAD END (Scary Kurumi)
-                        I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
-                    Even if you are a fairy girl, I'll still go on a date with you.
-                        I would love another date  NORMAL END (Get Teased Instead)
-                        Think about it  BAD END (Scary Kurumi)
-                    Kurumi is cuter than the fairy girl.
-                        I would love another date  NORMAL END (Get Teased Instead)
-                        Think about it  BAD END (Scary Kurumi)
-                I see a strange shadow  BAD END (Scary Kurumi)
-                I see Kurumi
-                    Kurumi is too cute  NORMAL END (Get Teased Instead)
-                    I like Kurumi's underwear  NORMAL END (Get Teased Instead)
-                    I think the atmosphere is a little scary today  BAD END (Scary Kurumi)
-            So, the moon is quite pretty tonight
-                You're just as indecipherable
-                    Kurumi is a little scary  BAD END (Scary Kurumi)
-                    I want to learn more about Kurumi, even just a little bit.  NORMAL END (Get Teased Instead)
-                Even if you are a fairy girl, I'll still go on a date with you.
-                    I would love another date  NORMAL END (Get Teased Instead)
-                    Think about it  BAD END (Scary Kurumi)
-                Kurumi is cuter than the fairy girl.
-                    I would love another date  NORMAL END (Get Teased Instead)
-                    Think about it  BAD END (Scary Kurumi)

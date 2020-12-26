@@ -7,6 +7,8 @@
 | 103 | Yoshino          | Starry Sky Decoration | Cocoa Milk               |
 | 104 | Kurumi Tokisaki  | Fox Baby              | Vegetable Platter        |
 | 105 | Kotori Itsuka    | White Headband        | Pudding Cake             |
+| 107 | Kaguya Yamai     | Daisy Collar          | Sticky Rice Dango        |
+| 108 | Yuzuru Yamai     | Rose Bouquet          | Pudding Cake             |
 | 110 | Miku Izayoi      | Romantic Violet       | Matcha Cake              |
 | 112 | Mayuri           | Fate Bracelet         | Sweet Juice              |
 | 113 | Natsumi          | Fox Baby              | Cheese Tart              |
@@ -20,6 +22,8 @@
 | 124 | Maria Arusu      | White Headband        | Strawberry Mochi         |
 | 125 | Marina Arusu     | Cute Pony             | Sticky Rice & Sweet Tofu |
 | 126 | Hibiki Higoromo  | Bunny Plushy          | Mint Green Tea           |
-| 127 | White Queen      | Rose Decoration       | Green Beauty             |
+| 127 | Queen            | Rose Decoration       | Green Beauty             |
 | 128 | Tsuan            | Cute Pony             | Sweet Juice              |
 | 129 | Reine Murasame   | Heart Pillow          | Rice Wine                |
+| 130 | Hestia           | Romantic Violet       | Supersized Burger        |
+| 131 | Ais Wallenstein  | Cute Pony             | Supersized Burger        |

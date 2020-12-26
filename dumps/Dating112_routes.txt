@@ -533,6 +533,8 @@ All Routes for scripts 2112002
                         Blow on it  NORMAL END (Heart Pounds)
                     Let me do it.  NORMAL END (Plan the next date)
 
+All Routes for scripts 9101006
+
 All Routes for scripts 2112001
     Invite her to join
         Be brave
@@ -1714,5 +1716,3 @@ All Routes for scripts 2112001
                     If that's the case, we'll start now.
                         Ask Mayuri to feed the doves  HIDDEN END (Girl and Pigeon)
                         Let's feed the doves together  NORMAL END (Bell Rings)
-
-All Routes for scripts 9101006
