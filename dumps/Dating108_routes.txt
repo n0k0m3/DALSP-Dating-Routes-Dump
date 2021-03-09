@@ -1,0 +1,277 @@
+
+
+All Routes for scripts 2108001
+    Not at all, I actually like Yuzuru better this way...
+        It's rare to see Yuzuru working
+            I wasn't looking at anything
+                She must be full...
+                    Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                    Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                    As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                I don't think she likes me
+                    Play with it instead
+                        Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                        Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                        As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                    Feed a different cat
+                        Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                        Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                She must be sleepy
+                    Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                    Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+            I was looking at Yuzuru
+                Don't listen to Origami's nonsense!
+                    How about a cat maid?
+                        Touch Yuzuru's chin  TRUE END (Sticky like a cat)
+                        Touch Yuzuru's head  TRUE END (Sticky like a cat)
+                        Don't move  BAD END (Maybe Next Time)
+                    Uhh... how about a coffee?
+                        Can Yuzuru make any pattern I want?
+                            Cat
+                                She must be full...
+                                    Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                                    Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                                    As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                                I don't think she likes me
+                                    Play with it instead
+                                        Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                                        Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                                        As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                                    Feed a different cat
+                                        Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                                        Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                                She must be sleepy
+                                    Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                                    Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                            Heart
+                                You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                                You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                                Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+                            Flower
+                                You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                                You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                                Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+                        Make whatever you want
+                            Warn Yuzuru
+                                Get first aid kit  NORMAL END (Lovely Bandage)
+                                Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                            Block Yuzuru
+                                Get first aid kit  NORMAL END (Lovely Bandage)
+                                Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                            Catch the cat
+                                Just run it under some water  NORMAL END (Lovely Bandage)
+                                It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                                Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")
+                            Time's up
+                                Just run it under some water  NORMAL END (Lovely Bandage)
+                                It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                                Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")
+                Yes, you did.
+                    How about a cat maid?
+                        Touch Yuzuru's chin  TRUE END (Sticky like a cat)
+                        Touch Yuzuru's head  TRUE END (Sticky like a cat)
+                        Don't move  BAD END (Maybe Next Time)
+                    Uhh... how about a coffee?
+                        Can Yuzuru make any pattern I want?
+                            Cat
+                                She must be full...
+                                    Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                                    Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                                    As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                                I don't think she likes me
+                                    Play with it instead
+                                        Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                                        Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                                        As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                                    Feed a different cat
+                                        Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                                        Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                                She must be sleepy
+                                    Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                                    Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                            Heart
+                                You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                                You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                                Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+                            Flower
+                                You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                                You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                                Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+                        Make whatever you want
+                            Warn Yuzuru
+                                Get first aid kit  NORMAL END (Lovely Bandage)
+                                Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                            Block Yuzuru
+                                Get first aid kit  NORMAL END (Lovely Bandage)
+                                Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                            Catch the cat
+                                Just run it under some water  NORMAL END (Lovely Bandage)
+                                It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                                Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")
+                            Time's up
+                                Just run it under some water  NORMAL END (Lovely Bandage)
+                                It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                                Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")
+            I was looking at the cats
+                I like gentle cats
+                    Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                    Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                I like lively cats
+                    Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                    Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                    As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                I like clingy cats
+                    Touch Yuzuru's chin  TRUE END (Sticky like a cat)
+                    Touch Yuzuru's head  TRUE END (Sticky like a cat)
+                    Don't move  BAD END (Maybe Next Time)
+        It's rare to see Yuzuru in a maid outfit
+            Don't listen to Origami's nonsense!
+                How about a cat maid?
+                    Touch Yuzuru's chin  TRUE END (Sticky like a cat)
+                    Touch Yuzuru's head  TRUE END (Sticky like a cat)
+                    Don't move  BAD END (Maybe Next Time)
+                Uhh... how about a coffee?
+                    Can Yuzuru make any pattern I want?
+                        Cat
+                            She must be full...
+                                Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                                Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                                As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                            I don't think she likes me
+                                Play with it instead
+                                    Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                                    Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                                    As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                                Feed a different cat
+                                    Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                                    Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                            She must be sleepy
+                                Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                                Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                        Heart
+                            You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                            You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                            Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+                        Flower
+                            You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                            You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                            Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+                    Make whatever you want
+                        Warn Yuzuru
+                            Get first aid kit  NORMAL END (Lovely Bandage)
+                            Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                        Block Yuzuru
+                            Get first aid kit  NORMAL END (Lovely Bandage)
+                            Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                        Catch the cat
+                            Just run it under some water  NORMAL END (Lovely Bandage)
+                            It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                            Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")
+                        Time's up
+                            Just run it under some water  NORMAL END (Lovely Bandage)
+                            It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                            Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")
+            Yes, you did.
+                How about a cat maid?
+                    Touch Yuzuru's chin  TRUE END (Sticky like a cat)
+                    Touch Yuzuru's head  TRUE END (Sticky like a cat)
+                    Don't move  BAD END (Maybe Next Time)
+                Uhh... how about a coffee?
+                    Can Yuzuru make any pattern I want?
+                        Cat
+                            She must be full...
+                                Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                                Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                                As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                            I don't think she likes me
+                                Play with it instead
+                                    Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                                    Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                                    As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                                Feed a different cat
+                                    Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                                    Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                            She must be sleepy
+                                Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                                Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                        Heart
+                            You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                            You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                            Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+                        Flower
+                            You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                            You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                            Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+                    Make whatever you want
+                        Warn Yuzuru
+                            Get first aid kit  NORMAL END (Lovely Bandage)
+                            Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                        Block Yuzuru
+                            Get first aid kit  NORMAL END (Lovely Bandage)
+                            Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                        Catch the cat
+                            Just run it under some water  NORMAL END (Lovely Bandage)
+                            It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                            Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")
+                        Time's up
+                            Just run it under some water  NORMAL END (Lovely Bandage)
+                            It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                            Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")
+    Not at all, I do like cats.
+        I'd like to buy some cat snacks.
+            She must be full...
+                Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                As Yuzuru why  HAPPY END (Cat Teasing Girl)
+            I don't think she likes me
+                Play with it instead
+                    Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                    Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                    As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                Feed a different cat
+                    Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                    Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+            She must be sleepy
+                Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+        I'll take a cup of coffee.
+            Can Yuzuru make any pattern I want?
+                Cat
+                    She must be full...
+                        Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                        Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                        As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                    I don't think she likes me
+                        Play with it instead
+                            Wave the cat wand left and right  NORMAL END (Eligible Cat Lover)
+                            Wave the cat wand up and down  HAPPY END (Cat Teasing Girl)
+                            As Yuzuru why  HAPPY END (Cat Teasing Girl)
+                        Feed a different cat
+                            Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                            Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                    She must be sleepy
+                        Ask Yuzuru how to do it  NORMAL END (Qualified Cat Cafe Maid)
+                        Rub the cat's belly  NORMAL END (Eligible Cat Lover)
+                Heart
+                    You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                    You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                    Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+                Flower
+                    You're both skilled in different aspects  NORMAL END (Qualified Cat Cafe Maid)
+                    You two have such a great relationship  NORMAL END (Qualified Cat Cafe Maid)
+                    Looks like Kaguya is better than you in this aspect  BAD END (Strange Date)
+            Make whatever you want
+                Warn Yuzuru
+                    Get first aid kit  NORMAL END (Lovely Bandage)
+                    Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                Block Yuzuru
+                    Get first aid kit  NORMAL END (Lovely Bandage)
+                    Lightly blow on Yuzuru's hand  HIDDEN END (Yuzuru's Hidden Thought)
+                Catch the cat
+                    Just run it under some water  NORMAL END (Lovely Bandage)
+                    It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                    Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")
+                Time's up
+                    Just run it under some water  NORMAL END (Lovely Bandage)
+                    It will only get better if Yuzuru blows on it  HIDDEN END (Yuzuru's Special "Healing")
+                    Help me, Yuzuru!  HIDDEN END (Yuzuru's Special "Healing")

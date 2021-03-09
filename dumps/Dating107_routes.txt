@@ -1,0 +1,389 @@
+
+
+All Routes for scripts 2107001
+    Today is a date between just the two of us
+        How about we play something exciting?
+            Shooting game
+                Dodge to the left
+                    We should each fire at one of its legs!
+                        Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                        Kaguya, help me!  TRUE END (Tide Turning Hero)
+                    Fire together at the red circle on its head!
+                        I'll save you  TRUE END (Tide Turning Hero)
+                        Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                Dodge to the right
+                    Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                    Kaguya, help me!  TRUE END (Tide Turning Hero)
+                Fire at the boulder
+                    I'll save you  TRUE END (Tide Turning Hero)
+                    Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                Time's up
+                    Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                    Kaguya, help me!  TRUE END (Tide Turning Hero)
+            Dancing game
+                Recommended song
+                    Impressive, want to increase the difficulty?
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+                    Kaguya danced so elegantly  HAPPY END (Promise to Return)
+                A hard song on the popularity chart
+                    Go Kaguya! You can do it!
+                        You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                        Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                    Don't panic, just master the technique!
+                        I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                        I'll massage your legs  NORMAL END (Simply Enjoy it)
+                Random song
+                    Go Kaguya! You can do it!
+                        You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                        Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                    Don't panic, just master the technique!
+                        I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                        I'll massage your legs  NORMAL END (Simply Enjoy it)
+                Time's up
+                    Go Kaguya! You can do it!
+                        You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                        Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                    Don't panic, just master the technique!
+                        I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                        I'll massage your legs  NORMAL END (Simply Enjoy it)
+        How about we start with an easy game?
+            Why don't we try another machine?
+                Challenge the giant doll machine
+                    Yep, do it now!  NORMAL END (A Worthy Battlefield)
+                    Move a bit forward  HAPPY END (Comfy Big Doll)
+                    Hang on!  HAPPY END (Comfy Big Doll)
+                    Time's up  HAPPY END (Comfy Big Doll)
+                Challenge the small pendant machine
+                    I will cherish this present, for Kaguya had put so much effort into it  HAPPY END (Promise to Return)
+                    I'll give you a present as well  HAPPY END (Comfy Big Doll)
+            Don't worry, it takes time to master this game.
+                Put your hand over Kaguya's and do it together
+                    Are you... distracted?  HIDDEN END (Crane Game Expert)
+                    Sorry! That was rude of me!  HAPPY END (Promise to Return)
+                Demonstrate for her
+                    I'll teach you how to do it.
+                        Are you... distracted?  HIDDEN END (Crane Game Expert)
+                        Sorry! That was rude of me!  HAPPY END (Promise to Return)
+                    You just need some practice, give it a try.  HIDDEN END (Crane Game Expert)
+            The claw is too loose, after all...
+                Shooting game
+                    Dodge to the left
+                        We should each fire at one of its legs!
+                            Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                            Kaguya, help me!  TRUE END (Tide Turning Hero)
+                        Fire together at the red circle on its head!
+                            I'll save you  TRUE END (Tide Turning Hero)
+                            Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                    Dodge to the right
+                        Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                        Kaguya, help me!  TRUE END (Tide Turning Hero)
+                    Fire at the boulder
+                        I'll save you  TRUE END (Tide Turning Hero)
+                        Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                    Time's up
+                        Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                        Kaguya, help me!  TRUE END (Tide Turning Hero)
+                Dancing game
+                    Recommended song
+                        Impressive, want to increase the difficulty?
+                            Go Kaguya! You can do it!
+                                You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                                Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                            Don't panic, just master the technique!
+                                I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                                I'll massage your legs  NORMAL END (Simply Enjoy it)
+                        Kaguya danced so elegantly  HAPPY END (Promise to Return)
+                    A hard song on the popularity chart
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+                    Random song
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+                    Time's up
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+    Sometimes it is good to be on your own once in a while
+        How about we play something exciting?
+            Shooting game
+                Dodge to the left
+                    We should each fire at one of its legs!
+                        Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                        Kaguya, help me!  TRUE END (Tide Turning Hero)
+                    Fire together at the red circle on its head!
+                        I'll save you  TRUE END (Tide Turning Hero)
+                        Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                Dodge to the right
+                    Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                    Kaguya, help me!  TRUE END (Tide Turning Hero)
+                Fire at the boulder
+                    I'll save you  TRUE END (Tide Turning Hero)
+                    Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                Time's up
+                    Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                    Kaguya, help me!  TRUE END (Tide Turning Hero)
+            Dancing game
+                Recommended song
+                    Impressive, want to increase the difficulty?
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+                    Kaguya danced so elegantly  HAPPY END (Promise to Return)
+                A hard song on the popularity chart
+                    Go Kaguya! You can do it!
+                        You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                        Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                    Don't panic, just master the technique!
+                        I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                        I'll massage your legs  NORMAL END (Simply Enjoy it)
+                Random song
+                    Go Kaguya! You can do it!
+                        You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                        Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                    Don't panic, just master the technique!
+                        I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                        I'll massage your legs  NORMAL END (Simply Enjoy it)
+                Time's up
+                    Go Kaguya! You can do it!
+                        You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                        Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                    Don't panic, just master the technique!
+                        I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                        I'll massage your legs  NORMAL END (Simply Enjoy it)
+        How about we start with an easy game?
+            Why don't we try another machine?
+                Challenge the giant doll machine
+                    Yep, do it now!  NORMAL END (A Worthy Battlefield)
+                    Move a bit forward  HAPPY END (Comfy Big Doll)
+                    Hang on!  HAPPY END (Comfy Big Doll)
+                    Time's up  HAPPY END (Comfy Big Doll)
+                Challenge the small pendant machine
+                    I will cherish this present, for Kaguya had put so much effort into it  HAPPY END (Promise to Return)
+                    I'll give you a present as well  HAPPY END (Comfy Big Doll)
+            Don't worry, it takes time to master this game.
+                Put your hand over Kaguya's and do it together
+                    Are you... distracted?  HIDDEN END (Crane Game Expert)
+                    Sorry! That was rude of me!  HAPPY END (Promise to Return)
+                Demonstrate for her
+                    I'll teach you how to do it.
+                        Are you... distracted?  HIDDEN END (Crane Game Expert)
+                        Sorry! That was rude of me!  HAPPY END (Promise to Return)
+                    You just need some practice, give it a try.  HIDDEN END (Crane Game Expert)
+            The claw is too loose, after all...
+                Shooting game
+                    Dodge to the left
+                        We should each fire at one of its legs!
+                            Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                            Kaguya, help me!  TRUE END (Tide Turning Hero)
+                        Fire together at the red circle on its head!
+                            I'll save you  TRUE END (Tide Turning Hero)
+                            Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                    Dodge to the right
+                        Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                        Kaguya, help me!  TRUE END (Tide Turning Hero)
+                    Fire at the boulder
+                        I'll save you  TRUE END (Tide Turning Hero)
+                        Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                    Time's up
+                        Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                        Kaguya, help me!  TRUE END (Tide Turning Hero)
+                Dancing game
+                    Recommended song
+                        Impressive, want to increase the difficulty?
+                            Go Kaguya! You can do it!
+                                You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                                Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                            Don't panic, just master the technique!
+                                I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                                I'll massage your legs  NORMAL END (Simply Enjoy it)
+                        Kaguya danced so elegantly  HAPPY END (Promise to Return)
+                    A hard song on the popularity chart
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+                    Random song
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+                    Time's up
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+    It does feel a little strange
+        Just follow me
+            How about we play something exciting?
+                Shooting game
+                    Dodge to the left
+                        We should each fire at one of its legs!
+                            Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                            Kaguya, help me!  TRUE END (Tide Turning Hero)
+                        Fire together at the red circle on its head!
+                            I'll save you  TRUE END (Tide Turning Hero)
+                            Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                    Dodge to the right
+                        Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                        Kaguya, help me!  TRUE END (Tide Turning Hero)
+                    Fire at the boulder
+                        I'll save you  TRUE END (Tide Turning Hero)
+                        Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                    Time's up
+                        Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                        Kaguya, help me!  TRUE END (Tide Turning Hero)
+                Dancing game
+                    Recommended song
+                        Impressive, want to increase the difficulty?
+                            Go Kaguya! You can do it!
+                                You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                                Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                            Don't panic, just master the technique!
+                                I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                                I'll massage your legs  NORMAL END (Simply Enjoy it)
+                        Kaguya danced so elegantly  HAPPY END (Promise to Return)
+                    A hard song on the popularity chart
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+                    Random song
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+                    Time's up
+                        Go Kaguya! You can do it!
+                            You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                            Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                        Don't panic, just master the technique!
+                            I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                            I'll massage your legs  NORMAL END (Simply Enjoy it)
+            How about we start with an easy game?
+                Why don't we try another machine?
+                    Challenge the giant doll machine
+                        Yep, do it now!  NORMAL END (A Worthy Battlefield)
+                        Move a bit forward  HAPPY END (Comfy Big Doll)
+                        Hang on!  HAPPY END (Comfy Big Doll)
+                        Time's up  HAPPY END (Comfy Big Doll)
+                    Challenge the small pendant machine
+                        I will cherish this present, for Kaguya had put so much effort into it  HAPPY END (Promise to Return)
+                        I'll give you a present as well  HAPPY END (Comfy Big Doll)
+                Don't worry, it takes time to master this game.
+                    Put your hand over Kaguya's and do it together
+                        Are you... distracted?  HIDDEN END (Crane Game Expert)
+                        Sorry! That was rude of me!  HAPPY END (Promise to Return)
+                    Demonstrate for her
+                        I'll teach you how to do it.
+                            Are you... distracted?  HIDDEN END (Crane Game Expert)
+                            Sorry! That was rude of me!  HAPPY END (Promise to Return)
+                        You just need some practice, give it a try.  HIDDEN END (Crane Game Expert)
+                The claw is too loose, after all...
+                    Shooting game
+                        Dodge to the left
+                            We should each fire at one of its legs!
+                                Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                                Kaguya, help me!  TRUE END (Tide Turning Hero)
+                            Fire together at the red circle on its head!
+                                I'll save you  TRUE END (Tide Turning Hero)
+                                Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                        Dodge to the right
+                            Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                            Kaguya, help me!  TRUE END (Tide Turning Hero)
+                        Fire at the boulder
+                            I'll save you  TRUE END (Tide Turning Hero)
+                            Cover me, I'm almost there!  NORMAL END (Expert Gamer)
+                        Time's up
+                            Kaguya, you can do it!  NORMAL END (Expert Gamer)
+                            Kaguya, help me!  TRUE END (Tide Turning Hero)
+                    Dancing game
+                        Recommended song
+                            Impressive, want to increase the difficulty?
+                                Go Kaguya! You can do it!
+                                    You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                                    Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                                Don't panic, just master the technique!
+                                    I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                                    I'll massage your legs  NORMAL END (Simply Enjoy it)
+                            Kaguya danced so elegantly  HAPPY END (Promise to Return)
+                        A hard song on the popularity chart
+                            Go Kaguya! You can do it!
+                                You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                                Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                            Don't panic, just master the technique!
+                                I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                                I'll massage your legs  NORMAL END (Simply Enjoy it)
+                        Random song
+                            Go Kaguya! You can do it!
+                                You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                                Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                            Don't panic, just master the technique!
+                                I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                                I'll massage your legs  NORMAL END (Simply Enjoy it)
+                        Time's up
+                            Go Kaguya! You can do it!
+                                You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                                Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                            Don't panic, just master the technique!
+                                I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                                I'll massage your legs  NORMAL END (Simply Enjoy it)
+        Let's just stroll around then
+            Recommended song
+                Impressive, want to increase the difficulty?
+                    Go Kaguya! You can do it!
+                        You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                        Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                    Don't panic, just master the technique!
+                        I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                        I'll massage your legs  NORMAL END (Simply Enjoy it)
+                Kaguya danced so elegantly  HAPPY END (Promise to Return)
+            A hard song on the popularity chart
+                Go Kaguya! You can do it!
+                    You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                    Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                Don't panic, just master the technique!
+                    I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                    I'll massage your legs  NORMAL END (Simply Enjoy it)
+            Random song
+                Go Kaguya! You can do it!
+                    You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                    Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                Don't panic, just master the technique!
+                    I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                    I'll massage your legs  NORMAL END (Simply Enjoy it)
+            Time's up
+                Go Kaguya! You can do it!
+                    You can do it as long as you keep practicing  NORMAL END (A Worthy Battlefield)
+                    Don't worry about winning or losing, just have a good time  NORMAL END (Simply Enjoy it)
+                Don't panic, just master the technique!
+                    I'll help you sit down  NORMAL END (A Worthy Battlefield)
+                    I'll massage your legs  NORMAL END (Simply Enjoy it)

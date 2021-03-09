@@ -1,0 +1,60 @@
+HAPPY END      Cat Teasing Girl
+Not at all, I do like cats.
+I'd like to buy some cat snacks.
+She must be full...
+Wave the cat wand up and down
+
+TRUE END       Sticky like a cat
+Not at all, I actually like Yuzuru better this way...
+It's rare to see Yuzuru in a maid outfit
+Yes, you did.
+How about a cat maid?
+Touch Yuzuru's chin
+
+NORMAL END     Lovely Bandage
+Not at all, I do like cats.
+I'll take a cup of coffee.
+Make whatever you want
+Warn Yuzuru
+Get first aid kit
+
+NORMAL END     Qualified Cat Cafe Maid
+Not at all, I do like cats.
+I'd like to buy some cat snacks.
+She must be sleepy
+Ask Yuzuru how to do it
+
+NORMAL END     Eligible Cat Lover
+Not at all, I do like cats.
+I'd like to buy some cat snacks.
+She must be full...
+Wave the cat wand left and right
+
+BAD END        Strange Date
+Not at all, I do like cats.
+I'll take a cup of coffee.
+Can Yuzuru make any pattern I want?
+Heart
+Looks like Kaguya is better than you in this aspect
+
+BAD END        Maybe Next Time
+Not at all, I actually like Yuzuru better this way...
+It's rare to see Yuzuru in a maid outfit
+Yes, you did.
+How about a cat maid?
+Don't move
+
+HIDDEN END     Yuzuru's Hidden Thought
+Not at all, I do like cats.
+I'll take a cup of coffee.
+Make whatever you want
+Warn Yuzuru
+Lightly blow on Yuzuru's hand
+
+HIDDEN END     Yuzuru's Special "Healing"
+Not at all, I do like cats.
+I'll take a cup of coffee.
+Make whatever you want
+Catch the cat
+It will only get better if Yuzuru blows on it
+
