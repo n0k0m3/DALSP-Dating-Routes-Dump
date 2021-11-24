@@ -28,5 +28,6 @@
 |129  |Reine Murasame      |Heart Pillow             |Rice Wine           |
 |130  |Hestia              |Romantic Violet          |Potato balls        |
 |131  |Ais Wallenstein     |Cute Pony                |Potato balls        |
-|132  |Rinne Sonogami      |Cute Pony                |Sticky Rice & Sweet Tofu|
+|132  |Rio Sonogami        |Cat Baby                 |Pudding Milkshake   |
 |133  |Rinne Sonogami      |Fate Bracelet            |Vegetable Platter   |
+|137  |Maple               |Lamb Plushy              |Pudding Cake        |
